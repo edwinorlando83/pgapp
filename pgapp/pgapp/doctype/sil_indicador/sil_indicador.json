@@ -1,0 +1,81 @@
+{
+ "creation": "2021-07-02 22:01:18.501773",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "ind_codigo",
+  "sil_estado",
+  "sil_componente",
+  "sil_fuenteinformacion",
+  "sil_representacion",
+  "sil_tipoperiodicidad",
+  "sil_tipovalor"
+ ],
+ "fields": [
+  {
+   "fieldname": "ind_codigo",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo"
+  },
+  {
+   "fieldname": "sil_estado",
+   "fieldtype": "Link",
+   "label": "Estado",
+   "options": "sil_estado"
+  },
+  {
+   "fieldname": "sil_componente",
+   "fieldtype": "Link",
+   "label": "Componente",
+   "options": "sil_componente"
+  },
+  {
+   "fieldname": "sil_fuenteinformacion",
+   "fieldtype": "Link",
+   "label": "Fuente de Informaci\u00f3n",
+   "options": "sil_fuenteinformacion"
+  },
+  {
+   "fieldname": "sil_representacion",
+   "fieldtype": "Link",
+   "label": "Representaci\u00f3n",
+   "options": "sil_representacion"
+  },
+  {
+   "fieldname": "sil_tipoperiodicidad",
+   "fieldtype": "Link",
+   "label": "Tipo periodicidad",
+   "options": "sil_tipoperiodicidad"
+  },
+  {
+   "fieldname": "sil_tipovalor",
+   "fieldtype": "Link",
+   "label": "Tipo valor",
+   "options": "sil_tipovalor"
+  }
+ ],
+ "modified": "2021-07-02 22:39:04.914127",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_indicador",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

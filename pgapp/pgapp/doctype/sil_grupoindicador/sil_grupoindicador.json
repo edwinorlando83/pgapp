@@ -1,0 +1,47 @@
+{
+ "autoname": "field:gruind_codigo",
+ "creation": "2021-07-02 21:22:35.179489",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "gruind_codigo",
+  "gruind_descripcion"
+ ],
+ "fields": [
+  {
+   "fieldname": "gruind_codigo",
+   "fieldtype": "Data",
+   "label": "C\u00f3odigo",
+   "unique": 1
+  },
+  {
+   "fieldname": "gruind_descripcion",
+   "fieldtype": "Data",
+   "label": "Descripci\u00f3n"
+  }
+ ],
+ "modified": "2021-07-02 21:26:52.287484",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_grupoindicador",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

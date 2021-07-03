@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include pgapp *.css
+recursive-include pgapp *.csv
+recursive-include pgapp *.html
+recursive-include pgapp *.ico
+recursive-include pgapp *.js
+recursive-include pgapp *.json
+recursive-include pgapp *.md
+recursive-include pgapp *.png
+recursive-include pgapp *.py
+recursive-include pgapp *.svg
+recursive-include pgapp *.txt
+recursive-exclude pgapp *.pyc
