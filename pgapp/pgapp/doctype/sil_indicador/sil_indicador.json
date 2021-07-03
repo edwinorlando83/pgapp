@@ -1,6 +1,7 @@
 {
  "creation": "2021-07-02 22:01:18.501773",
  "doctype": "DocType",
+ "document_type": "Document",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
@@ -10,13 +11,20 @@
   "sil_fuenteinformacion",
   "sil_representacion",
   "sil_tipoperiodicidad",
-  "sil_tipovalor"
+  "sil_tipovalor",
+  "ind_dpa",
+  "ind_nombre",
+  "ind_formula",
+  "ind_valor",
+  "ind_observacion"
  ],
  "fields": [
   {
    "fieldname": "ind_codigo",
    "fieldtype": "Data",
-   "label": "C\u00f3digo"
+   "in_list_view": 1,
+   "label": "C\u00f3digo",
+   "reqd": 1
   },
   {
    "fieldname": "sil_estado",
@@ -53,9 +61,36 @@
    "fieldtype": "Link",
    "label": "Tipo valor",
    "options": "sil_tipovalor"
+  },
+  {
+   "fieldname": "ind_dpa",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "DPA",
+   "reqd": 1
+  },
+  {
+   "fieldname": "ind_nombre",
+   "fieldtype": "Data",
+   "label": "Nombre"
+  },
+  {
+   "fieldname": "ind_formula",
+   "fieldtype": "Data",
+   "label": "Formula"
+  },
+  {
+   "fieldname": "ind_valor",
+   "fieldtype": "Currency",
+   "label": "Valor"
+  },
+  {
+   "fieldname": "ind_observacion",
+   "fieldtype": "Data",
+   "label": "Observacion"
   }
  ],
- "modified": "2021-07-02 22:39:04.914127",
+ "modified": "2021-07-03 17:10:32.156756",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
