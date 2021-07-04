@@ -1,6 +1,7 @@
 {
  "creation": "2021-07-03 18:07:38.020678",
  "doctype": "DocType",
+ "document_type": "Document",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
@@ -48,7 +49,7 @@
    "reqd": 1
   }
  ],
- "modified": "2021-07-03 20:46:08.047933",
+ "modified": "2021-07-04 18:49:28.361458",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
