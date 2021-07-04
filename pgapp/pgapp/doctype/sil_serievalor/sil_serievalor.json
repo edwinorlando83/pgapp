@@ -15,35 +15,40 @@
    "fieldname": "ind_codigo",
    "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "C\u00f3digo",
+   "label": "Indicador",
    "options": "sil_indicador",
    "reqd": 1
   },
   {
    "fieldname": "per_descripcion",
-   "fieldtype": "Data",
+   "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "Descripci\u00f3n",
+   "label": "Periodicidad",
+   "options": "sil_periodicidad",
    "reqd": 1
   },
   {
    "fieldname": "per_codigo",
-   "fieldtype": "Data",
-   "label": "Periodo"
+   "fieldtype": "Link",
+   "label": "Periodo",
+   "options": "sil_periodo",
+   "reqd": 1
   },
   {
    "fieldname": "serval_categoria",
    "fieldtype": "Select",
    "label": "Categoria",
-   "options": "VALOR ANUAL\nCONEXION AGUA AREA URBANA\nCONEXION DE AGUA AREA RURAL"
+   "options": "VALOR ANUAL\nCONEXION AGUA AREA URBANA\nCONEXION DE AGUA AREA RURAL",
+   "reqd": 1
   },
   {
    "fieldname": "serval_valor",
    "fieldtype": "Currency",
-   "label": "Valor"
+   "label": "Valor",
+   "reqd": 1
   }
  ],
- "modified": "2021-07-03 18:07:38.020678",
+ "modified": "2021-07-03 20:46:08.047933",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",

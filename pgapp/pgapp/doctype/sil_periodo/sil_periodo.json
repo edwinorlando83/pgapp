@@ -1,0 +1,61 @@
+{
+ "autoname": "field:period_codigo",
+ "creation": "2021-07-03 20:18:47.770351",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "period_codigo",
+  "period_anio",
+  "period_mes",
+  "period_estado"
+ ],
+ "fields": [
+  {
+   "fieldname": "period_codigo",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "C\u00f3digo",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "period_anio",
+   "fieldtype": "Int",
+   "label": "A\u00f1o"
+  },
+  {
+   "fieldname": "period_mes",
+   "fieldtype": "Data",
+   "label": "Mes"
+  },
+  {
+   "fieldname": "period_estado",
+   "fieldtype": "Data",
+   "label": "Estado"
+  }
+ ],
+ "modified": "2021-07-03 20:18:47.770351",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_periodo",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
