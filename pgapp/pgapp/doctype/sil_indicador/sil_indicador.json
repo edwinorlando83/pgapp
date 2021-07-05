@@ -94,12 +94,12 @@
   {
    "fieldname": "key",
    "fieldtype": "Data",
-   "hidden": 1,
    "label": "key",
+   "read_only": 1,
    "unique": 1
   }
  ],
- "modified": "2021-07-04 20:57:24.388888",
+ "modified": "2021-07-04 21:05:03.791819",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
