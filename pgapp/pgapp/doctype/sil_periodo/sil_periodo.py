@@ -8,4 +8,4 @@ from frappe.model.document import Document
 
 class sil_periodo(Document):
 	def before_insert(self):
-		self.key  = self.codigo + "_" + self.ind_dpa
+		self.key  = self.ind_codigo + "_" + self.ind_dpa
