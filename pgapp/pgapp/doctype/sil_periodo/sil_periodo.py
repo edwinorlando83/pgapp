@@ -7,4 +7,5 @@ from __future__ import unicode_literals
 from frappe.model.document import Document
 
 class sil_periodo(Document):
-	pass
+	def before_insert(self):
+		self.key  = self.codigo + "_" + self.ind_dpa
