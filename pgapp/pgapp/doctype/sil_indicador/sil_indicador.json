@@ -43,6 +43,7 @@
   {
    "fieldname": "sil_fuenteinformacion",
    "fieldtype": "Link",
+   "in_list_view": 1,
    "label": "Fuente de Informaci\u00f3n",
    "options": "sil_fuenteinformacion"
   },
@@ -99,7 +100,7 @@
    "unique": 1
   }
  ],
- "modified": "2021-07-04 21:05:03.791819",
+ "modified": "2021-07-14 06:13:04.886212",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

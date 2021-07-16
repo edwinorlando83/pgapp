@@ -1,40 +1,40 @@
 {
- "autoname": "field:per_descripcion",
- "creation": "2021-07-03 20:21:38.958370",
+ "autoname": "field:codigo",
+ "creation": "2021-07-15 15:48:13.820303",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "per_codigo",
-  "per_descripcion",
-  "per_ennumero"
+  "codigo",
+  "nombre",
+  "deshabilitado"
  ],
  "fields": [
   {
-   "fieldname": "per_codigo",
+   "fieldname": "codigo",
    "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "C\u00f3digo",
+   "label": "Codigo",
    "unique": 1
   },
   {
-   "fieldname": "per_descripcion",
+   "fieldname": "nombre",
    "fieldtype": "Data",
-   "label": "Descripci\u00f3n",
+   "in_list_view": 1,
+   "label": "Nombre",
    "reqd": 1,
    "unique": 1
   },
   {
-   "fieldname": "per_ennumero",
-   "fieldtype": "Data",
-   "label": "per_ennumero",
-   "reqd": 1
+   "default": "0",
+   "fieldname": "deshabilitado",
+   "fieldtype": "Check",
+   "label": "Deshabilitado"
   }
  ],
- "modified": "2021-07-14 04:33:34.004491",
+ "modified": "2021-07-15 15:49:10.130711",
  "modified_by": "Administrator",
- "module": "pgapp",
- "name": "sil_periodicidad",
+ "module": "silgeo",
+ "name": "grupo_capas",
  "owner": "Administrator",
  "permissions": [
   {
@@ -51,7 +51,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "nombre",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "nombre",
  "track_changes": 1
 }

@@ -1,0 +1,78 @@
+{
+ "autoname": "field:capa",
+ "creation": "2021-07-15 15:50:59.708101",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "servidores_mapa",
+  "capa",
+  "nombre",
+  "column_break_4",
+  "grupo_capas",
+  "capa_nombre"
+ ],
+ "fields": [
+  {
+   "fieldname": "nombre",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre",
+   "reqd": 1
+  },
+  {
+   "fieldname": "grupo_capas",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "grupo_capas ",
+   "options": "grupo_capas",
+   "reqd": 1
+  },
+  {
+   "fieldname": "servidores_mapa",
+   "fieldtype": "Link",
+   "label": "servidores_mapa",
+   "options": "servidores_mapa",
+   "reqd": 1
+  },
+  {
+   "fieldname": "capa",
+   "fieldtype": "Data",
+   "label": "Capa",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fetch_from": "grupo_capas.nombre",
+   "fieldname": "capa_nombre",
+   "fieldtype": "Data",
+   "label": "Nombre de capa"
+  }
+ ],
+ "modified": "2021-07-15 20:10:19.382203",
+ "modified_by": "Administrator",
+ "module": "silgeo",
+ "name": "capas",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

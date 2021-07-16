@@ -10,5 +10,12 @@ def get_data():
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
 			"label": _("pgapp")
+		},
+		{
+			"module_name": "silgeo",
+			"color": "grey",
+			"icon": "octicon octicon-file-directory",
+			"type": "module",
+			"label": _("silgeo")
 		}
 	]

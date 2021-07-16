@@ -37,9 +37,8 @@
   },
   {
    "fieldname": "serval_categoria",
-   "fieldtype": "Select",
+   "fieldtype": "Data",
    "label": "Categoria",
-   "options": "VALOR ANUAL\nCONEXION AGUA AREA URBANA\nCONEXION DE AGUA AREA RURAL",
    "reqd": 1
   },
   {
@@ -49,7 +48,7 @@
    "reqd": 1
   }
  ],
- "modified": "2021-07-04 18:49:28.361458",
+ "modified": "2021-07-14 05:35:23.044508",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
