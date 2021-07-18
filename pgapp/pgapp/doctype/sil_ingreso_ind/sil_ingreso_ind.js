@@ -14,7 +14,9 @@ frappe.ui.form.on('sil_ingreso_ind', {
 
 
 			frappe.call({
-				doc: cur_frm.doc, method: "getProvincia", freeze: true,
+				doc: cur_frm.doc, 
+				method: "getProvincia", 
+				freeze: true,
 				callback: (r) => {
 					console.log(r.message)
 					frm.add_child('sil_ingreso_ind_cant', { provincia: r.message.dpa_nprovincia, metodologia: '', observacion: '' });
