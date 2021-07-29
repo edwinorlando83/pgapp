@@ -6,7 +6,5 @@ from __future__ import unicode_literals
 # import frappe
 from frappe.model.document import Document
 
-class sil_indicador(Document):
-	def before_insert(self):
-		self.key  = self.ind_codigo + "_" + self.ind_dpa
-		 
+class sil_ing_valorserie(Document):
+	pass

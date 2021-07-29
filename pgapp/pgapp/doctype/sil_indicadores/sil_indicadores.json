@@ -1,0 +1,277 @@
+{
+ "autoname": "naming_series:",
+ "creation": "2021-07-18 15:25:06.032135",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "ind_nombre",
+  "ind_definicion",
+  "ind_formula",
+  "column_break_6",
+  "ind_metodologia",
+  "ind_definicionformula",
+  "section_break_8",
+  "ind_unidadmedida",
+  "ind_interpretacion",
+  "sil_fuenteinformacion",
+  "sil_periodicidad",
+  "ind_disponibilidad",
+  "column_break_13",
+  "ind_consejo",
+  "sil_componente",
+  "ind_fechatrans",
+  "sil_grupoindicador",
+  "naming_series",
+  "valor",
+  "sec_nivel",
+  "ind_geof",
+  "column_break_21",
+  "ind_general",
+  "column_break_23",
+  "ind_otros",
+  "section_break_25",
+  "inf_geo_ref",
+  "rel_instrumentos",
+  "referen_biblio",
+  "fecha_ficha_met",
+  "clasifi_estadistico",
+  "column_break_31",
+  "homologacion_indicador",
+  "fecha_homologacion_indicador",
+  "resea_indicador",
+  "elaborado_por",
+  "actualizaror_por",
+  "sintaxis_del_indicador_section",
+  "informacion_financiera"
+ ],
+ "fields": [
+  {
+   "fieldname": "naming_series",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo",
+   "options": "IND-",
+   "read_only": 1
+  },
+  {
+   "fieldname": "sil_componente",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Componente",
+   "options": "sil_componente",
+   "reqd": 1
+  },
+  {
+   "fieldname": "sil_grupoindicador",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Grupo",
+   "options": "sil_grupoindicador",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_6",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "valor",
+   "fieldtype": "Currency",
+   "label": "Valor"
+  },
+  {
+   "fieldname": "section_break_8",
+   "fieldtype": "Section Break",
+   "label": "Limitaciones T\u00e9cnicas"
+  },
+  {
+   "fieldname": "ind_nombre",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre",
+   "reqd": 1
+  },
+  {
+   "fieldname": "ind_definicion",
+   "fieldtype": "Small Text",
+   "label": "Definici\u00f3n"
+  },
+  {
+   "fieldname": "ind_formula",
+   "fieldtype": "Small Text",
+   "label": "Formula de calculo"
+  },
+  {
+   "fieldname": "ind_definicionformula",
+   "fieldtype": "Small Text",
+   "label": "Definici\u00f3n de las variables relacionadas"
+  },
+  {
+   "fieldname": "ind_metodologia",
+   "fieldtype": "Data",
+   "label": "Metodolog\u00eda de calculo"
+  },
+  {
+   "fieldname": "ind_unidadmedida",
+   "fieldtype": "Select",
+   "label": "Unidad de medida o expresi\u00f3n del indicador",
+   "options": "PORCENTAJE"
+  },
+  {
+   "fieldname": "ind_interpretacion",
+   "fieldtype": "Data",
+   "label": "Interpretaci\u00f3n del indicador"
+  },
+  {
+   "fieldname": "sil_fuenteinformacion",
+   "fieldtype": "Link",
+   "label": "Fuente de datos",
+   "options": "sil_fuenteinformacion"
+  },
+  {
+   "fieldname": "sil_periodicidad",
+   "fieldtype": "Link",
+   "label": "Periodicidad del indicador",
+   "options": "sil_periodicidad"
+  },
+  {
+   "fieldname": "ind_disponibilidad",
+   "fieldtype": "Data",
+   "label": "Disponibilidad de datos"
+  },
+  {
+   "fieldname": "ind_consejo",
+   "fieldtype": "Data",
+   "label": "Consejo sectorial y/o instituci\u00f3n responsable de la transferencia de la informaci\u00f3n"
+  },
+  {
+   "fieldname": "ind_fechatrans",
+   "fieldtype": "Data",
+   "label": "Fechas de la transferencia de la informaci\u00f3n"
+  },
+  {
+   "fieldname": "sec_nivel",
+   "fieldtype": "Section Break",
+   "label": "Nivel de desagregaci\u00f3n "
+  },
+  {
+   "fieldname": "ind_geof",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Geogr\u00e1fico",
+   "options": "PROVINCIAL\nCANTONAL\nPARROQUIAL",
+   "reqd": 1
+  },
+  {
+   "fieldname": "ind_general",
+   "fieldtype": "Data",
+   "label": "General"
+  },
+  {
+   "fieldname": "ind_otros",
+   "fieldtype": "Data",
+   "label": "Otros \u00c1mbitos"
+  },
+  {
+   "fieldname": "column_break_21",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_23",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_25",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "inf_geo_ref",
+   "fieldtype": "Data",
+   "label": "Informaci\u00f3n Geo-Referenciada"
+  },
+  {
+   "fieldname": "rel_instrumentos",
+   "fieldtype": "Data",
+   "label": "Relaci\u00f3n con Instrumentos de Planificaci\u00f3n Nacional e Internacional"
+  },
+  {
+   "fieldname": "referen_biblio",
+   "fieldtype": "Data",
+   "label": "Referencias Bibliograficas de la Construcci\u00f3n del Indicador"
+  },
+  {
+   "fieldname": "fecha_ficha_met",
+   "fieldtype": "Date",
+   "label": "Fecha de Elaboraci\u00f3n de la Ficha Metodol\u00f3gica"
+  },
+  {
+   "fieldname": "clasifi_estadistico",
+   "fieldtype": "Data",
+   "label": "Clasificador Tem\u00e1tico Estad\u00edstico "
+  },
+  {
+   "fieldname": "homologacion_indicador",
+   "fieldtype": "Data",
+   "label": "Homologaci\u00f3n del Indicador"
+  },
+  {
+   "fieldname": "fecha_homologacion_indicador",
+   "fieldtype": "Date",
+   "label": "Fecha de Homologaci\u00f3n del Indicador"
+  },
+  {
+   "fieldname": "resea_indicador",
+   "fieldtype": "Data",
+   "label": "Rese\u00f1a del Indicador"
+  },
+  {
+   "fieldname": "elaborado_por",
+   "fieldtype": "Data",
+   "label": "Elaborado por"
+  },
+  {
+   "fieldname": "actualizaror_por",
+   "fieldtype": "Data",
+   "label": "Actualizador por"
+  },
+  {
+   "fieldname": "sintaxis_del_indicador_section",
+   "fieldtype": "Section Break",
+   "label": "Sintaxis del Indicador"
+  },
+  {
+   "fieldname": "informacion_financiera",
+   "fieldtype": "Data",
+   "label": "Informaci\u00f3n Financiera para SIL"
+  },
+  {
+   "fieldname": "column_break_31",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_13",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "modified": "2021-07-28 16:18:46.899045",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_indicadores",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
