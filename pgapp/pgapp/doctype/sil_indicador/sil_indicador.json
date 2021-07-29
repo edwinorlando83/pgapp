@@ -24,7 +24,7 @@
   "ind_fechatrans",
   "sil_grupoindicador",
   "naming_series",
-  "valor",
+  "ind_valor",
   "sec_nivel",
   "ind_geof",
   "column_break_21",
@@ -32,19 +32,19 @@
   "column_break_23",
   "ind_otros",
   "section_break_25",
-  "inf_geo_ref",
-  "rel_instrumentos",
-  "referen_biblio",
-  "fecha_ficha_met",
-  "clasifi_estadistico",
+  "ind_inf_geo_ref",
+  "ind_rel_instrumentos",
+  "ind_referen_biblio",
+  "ind_fecha_ficha_met",
+  "ind_clasifi_estadistico",
   "column_break_31",
-  "homologacion_indicador",
-  "fecha_homologacion_indicador",
-  "resea_indicador",
-  "elaborado_por",
-  "actualizaror_por",
-  "sintaxis_del_indicador_section",
-  "informacion_financiera"
+  "ind_homologacion_indicador",
+  "ind_fecha_homologacion_indicador",
+  "ind_resea_indicador",
+  "ind_elaborado_por",
+  "ind_actualizaror_por",
+  "ind_sintaxis_del_indicador_section",
+  "ind_informacion_financiera"
  ],
  "fields": [
   {
@@ -73,11 +73,6 @@
   {
    "fieldname": "column_break_6",
    "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "valor",
-   "fieldtype": "Currency",
-   "label": "Valor"
   },
   {
    "fieldname": "section_break_8",
@@ -187,76 +182,81 @@
    "fieldtype": "Section Break"
   },
   {
-   "fieldname": "inf_geo_ref",
-   "fieldtype": "Data",
-   "label": "Informaci\u00f3n Geo-Referenciada"
-  },
-  {
-   "fieldname": "rel_instrumentos",
-   "fieldtype": "Data",
-   "label": "Relaci\u00f3n con Instrumentos de Planificaci\u00f3n Nacional e Internacional"
-  },
-  {
-   "fieldname": "referen_biblio",
-   "fieldtype": "Data",
-   "label": "Referencias Bibliograficas de la Construcci\u00f3n del Indicador"
-  },
-  {
-   "fieldname": "fecha_ficha_met",
-   "fieldtype": "Date",
-   "label": "Fecha de Elaboraci\u00f3n de la Ficha Metodol\u00f3gica"
-  },
-  {
-   "fieldname": "clasifi_estadistico",
-   "fieldtype": "Data",
-   "label": "Clasificador Tem\u00e1tico Estad\u00edstico "
-  },
-  {
-   "fieldname": "homologacion_indicador",
-   "fieldtype": "Data",
-   "label": "Homologaci\u00f3n del Indicador"
-  },
-  {
-   "fieldname": "fecha_homologacion_indicador",
-   "fieldtype": "Date",
-   "label": "Fecha de Homologaci\u00f3n del Indicador"
-  },
-  {
-   "fieldname": "resea_indicador",
-   "fieldtype": "Data",
-   "label": "Rese\u00f1a del Indicador"
-  },
-  {
-   "fieldname": "elaborado_por",
-   "fieldtype": "Data",
-   "label": "Elaborado por"
-  },
-  {
-   "fieldname": "actualizaror_por",
-   "fieldtype": "Data",
-   "label": "Actualizador por"
-  },
-  {
-   "fieldname": "sintaxis_del_indicador_section",
-   "fieldtype": "Section Break",
-   "label": "Sintaxis del Indicador"
-  },
-  {
-   "fieldname": "informacion_financiera",
-   "fieldtype": "Data",
-   "label": "Informaci\u00f3n Financiera para SIL"
-  },
-  {
    "fieldname": "column_break_31",
    "fieldtype": "Column Break"
   },
   {
    "fieldname": "column_break_13",
    "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ind_valor",
+   "fieldtype": "Currency",
+   "label": "Valor"
+  },
+  {
+   "fieldname": "ind_inf_geo_ref",
+   "fieldtype": "Data",
+   "label": "Informaci\u00f3n Geo-Referenciada"
+  },
+  {
+   "fieldname": "ind_rel_instrumentos",
+   "fieldtype": "Data",
+   "label": "Relaci\u00f3n con Instrumentos de Planificaci\u00f3n Nacional e Internacional"
+  },
+  {
+   "fieldname": "ind_referen_biblio",
+   "fieldtype": "Data",
+   "label": "Referencias Bibliograficas de la Construcci\u00f3n del Indicador"
+  },
+  {
+   "fieldname": "ind_fecha_ficha_met",
+   "fieldtype": "Date",
+   "label": "Fecha de Elaboraci\u00f3n de la Ficha Metodol\u00f3gica"
+  },
+  {
+   "fieldname": "ind_clasifi_estadistico",
+   "fieldtype": "Data",
+   "label": "Clasificador Tem\u00e1tico Estad\u00edstico "
+  },
+  {
+   "fieldname": "ind_homologacion_indicador",
+   "fieldtype": "Data",
+   "label": "Homologaci\u00f3n del Indicador"
+  },
+  {
+   "fieldname": "ind_fecha_homologacion_indicador",
+   "fieldtype": "Date",
+   "label": "Fecha de Homologaci\u00f3n del Indicador"
+  },
+  {
+   "fieldname": "ind_resea_indicador",
+   "fieldtype": "Data",
+   "label": "Rese\u00f1a del Indicador"
+  },
+  {
+   "fieldname": "ind_elaborado_por",
+   "fieldtype": "Data",
+   "label": "Elaborado por"
+  },
+  {
+   "fieldname": "ind_actualizaror_por",
+   "fieldtype": "Data",
+   "label": "Actualizador por"
+  },
+  {
+   "fieldname": "ind_sintaxis_del_indicador_section",
+   "fieldtype": "Section Break",
+   "label": "Sintaxis del Indicador"
+  },
+  {
+   "fieldname": "ind_informacion_financiera",
+   "fieldtype": "Data",
+   "label": "Informaci\u00f3n Financiera para SIL"
   }
  ],
  "links": [],
- "modified": "2021-07-29 08:56:16.257033",
+ "modified": "2021-07-29 10:41:49.103155",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
