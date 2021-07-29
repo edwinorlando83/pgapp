@@ -6,5 +6,5 @@ from __future__ import unicode_literals
 import frappe
 from frappe.model.document import Document
 
-class sil_indicadores(Document):
+class sil_indicador(Document):
 	pass

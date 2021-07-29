@@ -255,7 +255,7 @@
  "modified": "2021-07-28 16:18:46.899045",
  "modified_by": "Administrator",
  "module": "pgapp",
- "name": "sil_indicadores",
+ "name": "sil_indicador",
  "owner": "Administrator",
  "permissions": [
   {

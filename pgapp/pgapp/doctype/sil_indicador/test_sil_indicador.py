@@ -6,5 +6,5 @@ from __future__ import unicode_literals
 # import frappe
 import unittest
 
-class Testsil_indicadores(unittest.TestCase):
+class Testsil_indicador(unittest.TestCase):
 	pass

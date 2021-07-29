@@ -27,7 +27,7 @@
    "fieldtype": "Link",
    "in_list_view": 1,
    "label": "Indicador",
-   "options": "sil_indicadores",
+   "options": "sil_indicador",
    "reqd": 1
   },
   {
@@ -47,7 +47,7 @@
   }
  ],
  "is_submittable": 1,
- "modified": "2021-07-28 19:34:11.299088",
+ "modified": "2021-07-28 19:37:30.733009",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
