@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "creation": "2021-07-18 15:36:47.748227",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -14,7 +15,8 @@
   }
  ],
  "issingle": 1,
- "modified": "2021-07-18 15:36:47.748227",
+ "links": [],
+ "modified": "2021-07-29 08:58:15.955412",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_parametros",
@@ -29,6 +31,23 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "COORDINADOR",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "OPERADOR",
+   "share": 1
   }
  ],
  "quick_entry": 1,

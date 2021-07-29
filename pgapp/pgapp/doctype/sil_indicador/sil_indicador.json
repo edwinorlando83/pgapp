@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "autoname": "naming_series:",
  "creation": "2021-07-18 15:25:06.032135",
  "doctype": "DocType",
@@ -48,7 +49,7 @@
  "fields": [
   {
    "fieldname": "naming_series",
-   "fieldtype": "Data",
+   "fieldtype": "Code",
    "label": "C\u00f3digo",
    "options": "IND-",
    "read_only": 1
@@ -125,13 +126,15 @@
    "fieldname": "sil_fuenteinformacion",
    "fieldtype": "Link",
    "label": "Fuente de datos",
-   "options": "sil_fuenteinformacion"
+   "options": "sil_fuenteinformacion",
+   "reqd": 1
   },
   {
    "fieldname": "sil_periodicidad",
    "fieldtype": "Link",
    "label": "Periodicidad del indicador",
-   "options": "sil_periodicidad"
+   "options": "sil_periodicidad",
+   "reqd": 1
   },
   {
    "fieldname": "ind_disponibilidad",
@@ -252,7 +255,8 @@
    "fieldtype": "Column Break"
   }
  ],
- "modified": "2021-07-28 16:18:46.899045",
+ "links": [],
+ "modified": "2021-07-29 08:56:16.257033",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
@@ -267,6 +271,30 @@
    "read": 1,
    "report": 1,
    "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "COORDINADOR",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "OPERADOR",
    "share": 1,
    "write": 1
   }
