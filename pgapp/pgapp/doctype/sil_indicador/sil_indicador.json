@@ -37,6 +37,7 @@
   "ind_rel_instrumentos",
   "ind_referen_biblio",
   "ind_fecha_ficha_met",
+  "ind_fecha_ultima_actu",
   "ind_clasifi_estadistico",
   "column_break_31",
   "ind_homologacion_indicador",
@@ -212,7 +213,7 @@
   },
   {
    "fieldname": "ind_fecha_ficha_met",
-   "fieldtype": "Date",
+   "fieldtype": "Data",
    "label": "Fecha de Elaboraci\u00f3n de la Ficha Metodol\u00f3gica"
   },
   {
@@ -227,7 +228,7 @@
   },
   {
    "fieldname": "ind_fecha_homologacion_indicador",
-   "fieldtype": "Date",
+   "fieldtype": "Small Text",
    "label": "Fecha de Homologaci\u00f3n del Indicador"
   },
   {
@@ -254,10 +255,15 @@
    "fieldname": "ind_informacion_financiera",
    "fieldtype": "Data",
    "label": "Informaci\u00f3n Financiera para SIL"
+  },
+  {
+   "fieldname": "ind_fecha_ultima_actu",
+   "fieldtype": "Data",
+   "label": "Fecha de la \u00daltima Actualizaci\u00f3n de la Ficha Metodol\u00f3gica"
   }
  ],
  "links": [],
- "modified": "2021-07-30 10:43:12.042625",
+ "modified": "2021-07-30 16:21:00.815578",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

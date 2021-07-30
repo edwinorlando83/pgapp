@@ -7,7 +7,7 @@ import frappe
 from frappe.model.document import Document
 
 class sil_serievalor(Document):
-	def before_insert(self):
+	def before_insert(self): 
     		self.serval_codigo = self.sil_ingreso_ind+"_" +self.sil_periodicidad+"_" + self.sil_periodo
 
 	@frappe.whitelist()
