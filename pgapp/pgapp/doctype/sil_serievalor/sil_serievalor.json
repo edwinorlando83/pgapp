@@ -1,5 +1,7 @@
 {
  "actions": [],
+ "allow_import": 1,
+ "autoname": "field:serval_codigo",
  "creation": "2021-07-03 18:07:38.020678",
  "doctype": "DocType",
  "document_type": "Document",
@@ -7,11 +9,14 @@
  "engine": "InnoDB",
  "field_order": [
   "sil_ingreso_ind",
-  "ind_geof",
+  "sil_periodicidad",
+  "sil_periodo",
   "column_break_3",
   "ind_nombre",
+  "ind_geof",
   "section_break_2",
   "sil_ing_valorserie",
+  "serval_codigo",
   "amended_from"
  ],
  "fields": [
@@ -40,15 +45,6 @@
    "label": "Nivel de desagregaci\u00f3n  Geogr\u00e1fico"
   },
   {
-   "fieldname": "amended_from",
-   "fieldtype": "Link",
-   "label": "Amended From",
-   "no_copy": 1,
-   "options": "sil_serievalor",
-   "print_hide": 1,
-   "read_only": 1
-  },
-  {
    "fieldname": "column_break_3",
    "fieldtype": "Column Break"
   },
@@ -57,11 +53,39 @@
    "fieldname": "ind_nombre",
    "fieldtype": "Read Only",
    "label": "Indicador nombre"
+  },
+  {
+   "fetch_from": "sil_ingreso_ind.sil_periodicidad",
+   "fieldname": "sil_periodicidad",
+   "fieldtype": "Read Only",
+   "label": "sil_periodicidad"
+  },
+  {
+   "fieldname": "sil_periodo",
+   "fieldtype": "Link",
+   "label": "sil_periodo",
+   "options": "sil_periodo",
+   "reqd": 1
+  },
+  {
+   "fieldname": "serval_codigo",
+   "fieldtype": "Data",
+   "label": "serval_codigo",
+   "unique": 1
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "sil_serievalor",
+   "print_hide": 1,
+   "read_only": 1
   }
  ],
  "is_submittable": 1,
  "links": [],
- "modified": "2021-07-29 08:55:25.938963",
+ "modified": "2021-07-30 10:56:25.430321",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",

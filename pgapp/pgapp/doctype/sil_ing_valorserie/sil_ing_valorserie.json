@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "creation": "2021-07-28 15:25:44.865291",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -23,8 +24,7 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "Cantones",
-   "read_only": 1,
-   "reqd": 1
+   "read_only": 1
   },
   {
    "fieldname": "parroquias",
@@ -41,7 +41,8 @@
   }
  ],
  "istable": 1,
- "modified": "2021-07-28 19:32:42.347366",
+ "links": [],
+ "modified": "2021-07-30 10:24:16.197904",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_ing_valorserie",

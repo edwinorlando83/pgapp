@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "autoname": "field:period_codigo",
  "creation": "2021-07-03 20:18:47.770351",
  "doctype": "DocType",
@@ -30,12 +31,15 @@
    "label": "Mes"
   },
   {
+   "default": "ABIERTO",
    "fieldname": "period_estado",
-   "fieldtype": "Data",
-   "label": "Estado"
+   "fieldtype": "Select",
+   "label": "Estado",
+   "options": "ABIERTO\nCERRADO"
   }
  ],
- "modified": "2021-07-03 20:18:47.770351",
+ "links": [],
+ "modified": "2021-07-30 10:35:12.986965",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_periodo",

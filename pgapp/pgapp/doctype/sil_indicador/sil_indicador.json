@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "autoname": "naming_series:",
  "creation": "2021-07-18 15:25:06.032135",
  "doctype": "DocType",
@@ -256,7 +257,7 @@
   }
  ],
  "links": [],
- "modified": "2021-07-29 10:41:49.103155",
+ "modified": "2021-07-30 10:43:12.042625",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
