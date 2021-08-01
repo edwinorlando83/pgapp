@@ -25,6 +25,7 @@
    "fieldtype": "Section Break"
   },
   {
+   "allow_bulk_edit": 1,
    "fieldname": "sil_ing_valorserie",
    "fieldtype": "Table",
    "label": "sil_ing_valorserie",
@@ -70,6 +71,7 @@
   {
    "fieldname": "serval_codigo",
    "fieldtype": "Data",
+   "hidden": 1,
    "label": "serval_codigo",
    "unique": 1
   },
@@ -85,7 +87,7 @@
  ],
  "is_submittable": 1,
  "links": [],
- "modified": "2021-07-30 10:56:25.430321",
+ "modified": "2021-08-01 05:57:37.570708",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
