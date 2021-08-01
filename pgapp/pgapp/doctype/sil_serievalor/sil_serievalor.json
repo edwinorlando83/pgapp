@@ -34,7 +34,6 @@
   {
    "fieldname": "sil_ingreso_ind",
    "fieldtype": "Link",
-   "in_list_view": 1,
    "label": "Indicador",
    "options": "sil_indicador",
    "reqd": 1
@@ -43,6 +42,7 @@
    "fetch_from": "sil_ingreso_ind.ind_geof",
    "fieldname": "ind_geof",
    "fieldtype": "Read Only",
+   "in_list_view": 1,
    "label": "Nivel de desagregaci\u00f3n  Geogr\u00e1fico"
   },
   {
@@ -87,7 +87,7 @@
  ],
  "is_submittable": 1,
  "links": [],
- "modified": "2021-08-01 05:57:37.570708",
+ "modified": "2021-08-01 09:48:09.421599",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
