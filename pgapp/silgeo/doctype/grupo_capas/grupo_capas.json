@@ -13,7 +13,8 @@
   "rgt",
   "is_group",
   "old_parent",
-  "parent_grupo_capas"
+  "parent_grupo_capas",
+  "nivel"
  ],
  "fields": [
   {
@@ -69,13 +70,20 @@
   {
    "fieldname": "parent_grupo_capas",
    "fieldtype": "Link",
+   "in_list_view": 1,
    "label": "Padre",
    "options": "grupo_capas"
+  },
+  {
+   "default": "0",
+   "fieldname": "nivel",
+   "fieldtype": "Int",
+   "label": "nivel"
   }
  ],
  "is_tree": 1,
  "links": [],
- "modified": "2021-07-29 08:57:01.301391",
+ "modified": "2021-08-07 09:13:23.951138",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "grupo_capas",

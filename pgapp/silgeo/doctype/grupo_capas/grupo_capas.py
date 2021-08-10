@@ -3,8 +3,13 @@
 # For license information, please see license.txt
 
 from __future__ import unicode_literals
-# import frappe
+import frappe
 from frappe.model.document import Document
 
 class grupo_capas(Document):
-	pass
+	def validate(self):
+		if not self.parent_grupo_capas:
+			self.nivel = 0 
+    			
+		#if frappe.db.exists("grupo_capas", {"nombre":self.name}) :
+		#frappe.throw(self.name)

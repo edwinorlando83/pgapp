@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "autoname": "field:capa",
  "creation": "2021-07-15 15:50:59.708101",
  "doctype": "DocType",
@@ -9,8 +10,7 @@
   "capa",
   "nombre",
   "column_break_4",
-  "grupo_capas",
-  "capa_nombre"
+  "grupo_capas"
  ],
  "fields": [
   {
@@ -45,15 +45,10 @@
   {
    "fieldname": "column_break_4",
    "fieldtype": "Column Break"
-  },
-  {
-   "fetch_from": "grupo_capas.nombre",
-   "fieldname": "capa_nombre",
-   "fieldtype": "Data",
-   "label": "Nombre de capa"
   }
  ],
- "modified": "2021-07-15 20:10:19.382203",
+ "links": [],
+ "modified": "2021-08-06 20:03:17.715148",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "capas",
