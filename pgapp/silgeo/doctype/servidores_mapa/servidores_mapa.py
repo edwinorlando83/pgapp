@@ -7,4 +7,5 @@ from __future__ import unicode_literals
 from frappe.model.document import Document
 
 class servidores_mapa(Document):
-	pass
+	def validate(self):
+		self.wmsurl =  self.url+self.espacio_trabajo+"/wms"

@@ -9,7 +9,7 @@ from frappe.model.document import Document
 class grupo_capas(Document):
 	def validate(self):
 		if not self.parent_grupo_capas:
-			self.nivel = 0 
+			self.nivel = 1 
     			
 		#if frappe.db.exists("grupo_capas", {"nombre":self.name}) :
 		#frappe.throw(self.name)

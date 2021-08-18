@@ -9,6 +9,9 @@ import requests
 from requests.auth import HTTPBasicAuth
  
 class capas(Document):
+
+    		
+
 	def getCapas(self):
 		srvmap = frappe.get_doc("servidores_mapa",self.servidores_mapa)
 		url =  srvmap.url + "rest/layers.json"
