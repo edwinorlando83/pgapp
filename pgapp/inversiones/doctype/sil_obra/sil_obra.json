@@ -1,0 +1,274 @@
+{
+ "actions": [],
+ "creation": "2021-08-20 15:15:00.540320",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "obr_codigo",
+  "obr_dpa",
+  "tipobr_codigo",
+  "rep_codigo",
+  "est_codigo",
+  "obr_nombre",
+  "obr_desc",
+  "obr_monto",
+  "column_break_11",
+  "obr_preparticipativo",
+  "obr_preestrategico",
+  "obr_admdirecta",
+  "obr_apprefectura",
+  "obr_apgadcanton",
+  "obr_apgadparroq",
+  "obr_apcomunidad",
+  "obr_tracompletos",
+  "obr_traejecucion",
+  "obr_trapendiente",
+  "column_break_22",
+  "obr_latitud",
+  "obr_longitud",
+  "obr_modalida",
+  "obr_fechainicio",
+  "obr_fechafin",
+  "obr_linkfacebook",
+  "obr_linktwitter",
+  "tipobr_desc",
+  "tipobr_icono",
+  "section_break_28",
+  "detobr_valor",
+  "column_break_32",
+  "tipdet_desc",
+  "data_30",
+  "adjobr_archivo",
+  "column_break_36",
+  "adjobr_fecha",
+  "column_break_38",
+  "tipadj_desc",
+  "section_break_40",
+  "sil_adjuntoobra"
+ ],
+ "fields": [
+  {
+   "fieldname": "obr_codigo",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo"
+  },
+  {
+   "fieldname": "obr_dpa",
+   "fieldtype": "Data",
+   "label": "DPA"
+  },
+  {
+   "fieldname": "tipobr_codigo",
+   "fieldtype": "Data",
+   "label": "Tipo"
+  },
+  {
+   "fieldname": "rep_codigo",
+   "fieldtype": "Data",
+   "label": "rep_codigo"
+  },
+  {
+   "fieldname": "est_codigo",
+   "fieldtype": "Data",
+   "label": "est_codigo"
+  },
+  {
+   "fieldname": "obr_nombre",
+   "fieldtype": "Data",
+   "label": "Nombre"
+  },
+  {
+   "fieldname": "obr_desc",
+   "fieldtype": "Small Text",
+   "label": "Descripci\u00f3n"
+  },
+  {
+   "fieldname": "obr_monto",
+   "fieldtype": "Currency",
+   "label": "Monto"
+  },
+  {
+   "fieldname": "obr_preparticipativo",
+   "fieldtype": "Currency",
+   "label": "Preparticipativo"
+  },
+  {
+   "fieldname": "obr_preestrategico",
+   "fieldtype": "Currency",
+   "label": "Preestrategico"
+  },
+  {
+   "fieldname": "obr_admdirecta",
+   "fieldtype": "Currency",
+   "label": "obr_admdirecta"
+  },
+  {
+   "fieldname": "obr_apprefectura",
+   "fieldtype": "Currency",
+   "label": "obr_apprefectura"
+  },
+  {
+   "fieldname": "obr_apgadcanton",
+   "fieldtype": "Currency",
+   "label": "GAD Cant\u00f3n"
+  },
+  {
+   "fieldname": "obr_apgadparroq",
+   "fieldtype": "Currency",
+   "label": "GAD Parroquia"
+  },
+  {
+   "fieldname": "obr_apcomunidad",
+   "fieldtype": "Currency",
+   "label": "Comunidad"
+  },
+  {
+   "fieldname": "obr_tracompletos",
+   "fieldtype": "Currency",
+   "label": "obr_tracompletos"
+  },
+  {
+   "fieldname": "obr_traejecucion",
+   "fieldtype": "Currency",
+   "label": "obr_traejecucion"
+  },
+  {
+   "fieldname": "obr_trapendiente",
+   "fieldtype": "Currency",
+   "label": "obr_trapendiente"
+  },
+  {
+   "fieldname": "obr_latitud",
+   "fieldtype": "Float",
+   "label": "Latitud"
+  },
+  {
+   "fieldname": "obr_longitud",
+   "fieldtype": "Float",
+   "label": "Longitud"
+  },
+  {
+   "fieldname": "obr_modalida",
+   "fieldtype": "Data",
+   "label": "Modalidad"
+  },
+  {
+   "fieldname": "obr_fechainicio",
+   "fieldtype": "Date",
+   "label": "Fecha Inicio"
+  },
+  {
+   "fieldname": "obr_fechafin",
+   "fieldtype": "Date",
+   "label": "Fecha Fin"
+  },
+  {
+   "fieldname": "obr_linkfacebook",
+   "fieldtype": "Data",
+   "label": "Link Facebook"
+  },
+  {
+   "fieldname": "obr_linktwitter",
+   "fieldtype": "Data",
+   "label": "Link Twitter"
+  },
+  {
+   "fieldname": "tipobr_desc",
+   "fieldtype": "Data",
+   "label": "tipobr_desc"
+  },
+  {
+   "fieldname": "tipobr_icono",
+   "fieldtype": "Attach Image",
+   "label": "tipobr_icono"
+  },
+  {
+   "fieldname": "section_break_28",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "detobr_valor",
+   "fieldtype": "Data",
+   "label": "detobr_valor"
+  },
+  {
+   "fieldname": "data_30",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "tipdet_desc",
+   "fieldtype": "Data",
+   "label": "tipdet_desc"
+  },
+  {
+   "fieldname": "adjobr_archivo",
+   "fieldtype": "Data",
+   "label": "adjobr_archivo"
+  },
+  {
+   "fieldname": "adjobr_fecha",
+   "fieldtype": "Date",
+   "label": "Fecha"
+  },
+  {
+   "fieldname": "tipadj_desc",
+   "fieldtype": "Data",
+   "label": "tipadj_desc"
+  },
+  {
+   "fieldname": "column_break_11",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_22",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_32",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_36",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_38",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_40",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "sil_adjuntoobra",
+   "fieldtype": "Table",
+   "label": "sil_adjuntoobra",
+   "options": "sil_adjuntoobra"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-08-21 14:57:26.517107",
+ "modified_by": "Administrator",
+ "module": "inversiones",
+ "name": "sil_obra",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}
