@@ -1,0 +1,51 @@
+{
+ "actions": [],
+ "autoname": "field:tipobr_desc",
+ "creation": "2021-09-03 05:48:19.473658",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "tipobr_desc",
+  "tipobr_icono"
+ ],
+ "fields": [
+  {
+   "fieldname": "tipobr_desc",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Nombre",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "tipobr_icono",
+   "fieldtype": "Attach Image",
+   "label": "icono"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-09-03 05:48:40.849844",
+ "modified_by": "Administrator",
+ "module": "inversiones",
+ "name": "sil_tipoobra",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

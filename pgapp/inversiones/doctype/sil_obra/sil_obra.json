@@ -1,77 +1,76 @@
 {
  "actions": [],
+ "autoname": "field:obr_codigo",
  "creation": "2021-08-20 15:15:00.540320",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
   "obr_codigo",
-  "obr_dpa",
-  "tipobr_codigo",
-  "rep_codigo",
-  "est_codigo",
   "obr_nombre",
-  "obr_desc",
-  "obr_monto",
-  "column_break_11",
-  "obr_preparticipativo",
-  "obr_preestrategico",
-  "obr_admdirecta",
-  "obr_apprefectura",
-  "obr_apgadcanton",
-  "obr_apgadparroq",
-  "obr_apcomunidad",
-  "obr_tracompletos",
-  "obr_traejecucion",
-  "obr_trapendiente",
-  "column_break_22",
-  "obr_latitud",
-  "obr_longitud",
-  "obr_modalida",
   "obr_fechainicio",
   "obr_fechafin",
+  "obr_modalida",
+  "column_break_5",
+  "sil_tipoobra",
+  "sil_representacion",
+  "cantones",
+  "parroquia",
+  "obr_dpa",
+  "column_break_9",
+  "obr_monto",
+  "est_codigo",
+  "section_break_29",
+  "obr_desc",
+  "origen_del_presupuesto_section",
+  "obr_preparticipativo",
+  "column_break_17",
+  "obr_preestrategico",
+  "column_break_15",
+  "obr_admdirecta",
+  "section_break_13",
+  "obr_apprefectura",
+  "obr_apgadcanton",
+  "column_break_16",
+  "obr_apgadparroq",
+  "obr_apcomunidad",
+  "control_de_ejecuci\u00f3n_section",
+  "obr_tracompletos",
+  "column_break_31",
+  "obr_traejecucion",
+  "column_break_33",
+  "obr_trapendiente",
+  "otra_informaci\u00f3n_section",
   "obr_linkfacebook",
+  "column_break_22",
   "obr_linktwitter",
-  "tipobr_desc",
-  "tipobr_icono",
   "section_break_28",
-  "detobr_valor",
-  "column_break_32",
-  "tipdet_desc",
-  "data_30",
-  "adjobr_archivo",
-  "column_break_36",
-  "adjobr_fecha",
-  "column_break_38",
-  "tipadj_desc",
-  "section_break_40",
-  "sil_adjuntoobra"
+  "sil_adjuntoobra",
+  "section_break_41",
+  "obr_latitud",
+  "column_break_43",
+  "obr_longitud",
+  "logo"
  ],
  "fields": [
   {
    "fieldname": "obr_codigo",
    "fieldtype": "Data",
-   "label": "C\u00f3digo"
+   "label": "C\u00f3digo",
+   "unique": 1
   },
   {
    "fieldname": "obr_dpa",
    "fieldtype": "Data",
-   "label": "DPA"
+   "hidden": 1,
+   "label": "dpa"
   },
   {
-   "fieldname": "tipobr_codigo",
-   "fieldtype": "Data",
-   "label": "Tipo"
-  },
-  {
-   "fieldname": "rep_codigo",
-   "fieldtype": "Data",
-   "label": "rep_codigo"
-  },
-  {
+   "default": "ACTIVO",
    "fieldname": "est_codigo",
-   "fieldtype": "Data",
-   "label": "est_codigo"
+   "fieldtype": "Select",
+   "label": "Estado",
+   "options": "ACTIVO\nEN ESTUDIO\nINACTIVO"
   },
   {
    "fieldname": "obr_nombre",
@@ -91,62 +90,64 @@
   {
    "fieldname": "obr_preparticipativo",
    "fieldtype": "Currency",
-   "label": "Preparticipativo"
+   "label": "Pre participativo"
   },
   {
    "fieldname": "obr_preestrategico",
    "fieldtype": "Currency",
-   "label": "Preestrategico"
+   "label": "Pre estrat\u00e9gico"
   },
   {
    "fieldname": "obr_admdirecta",
    "fieldtype": "Currency",
-   "label": "obr_admdirecta"
+   "label": "Administraci\u00f3n Directa"
   },
   {
    "fieldname": "obr_apprefectura",
    "fieldtype": "Currency",
-   "label": "obr_apprefectura"
+   "label": "Aporte econ\u00f3mico de la Prefectura"
   },
   {
    "fieldname": "obr_apgadcanton",
    "fieldtype": "Currency",
-   "label": "GAD Cant\u00f3n"
+   "label": "Aporte econ\u00f3mico del GAD Cantonal"
   },
   {
    "fieldname": "obr_apgadparroq",
    "fieldtype": "Currency",
-   "label": "GAD Parroquia"
+   "label": "Aporte econ\u00f3mico del GAD Parroquial"
   },
   {
    "fieldname": "obr_apcomunidad",
    "fieldtype": "Currency",
-   "label": "Comunidad"
+   "label": "Aporte econ\u00f3mico de la Comunidad"
   },
   {
    "fieldname": "obr_tracompletos",
-   "fieldtype": "Currency",
-   "label": "obr_tracompletos"
+   "fieldtype": "Float",
+   "label": "Trabajos Completos"
   },
   {
    "fieldname": "obr_traejecucion",
    "fieldtype": "Currency",
-   "label": "obr_traejecucion"
+   "label": "Trabajos en Ejecuci\u00f3n"
   },
   {
    "fieldname": "obr_trapendiente",
    "fieldtype": "Currency",
-   "label": "obr_trapendiente"
+   "label": "Trabajos Pendientes"
   },
   {
    "fieldname": "obr_latitud",
    "fieldtype": "Float",
-   "label": "Latitud"
+   "label": "Latitud(x)",
+   "precision": "9"
   },
   {
    "fieldname": "obr_longitud",
    "fieldtype": "Float",
-   "label": "Longitud"
+   "label": "Longitud(y)",
+   "precision": "9"
   },
   {
    "fieldname": "obr_modalida",
@@ -156,12 +157,16 @@
   {
    "fieldname": "obr_fechainicio",
    "fieldtype": "Date",
-   "label": "Fecha Inicio"
+   "in_list_view": 1,
+   "label": "Fecha Inicio",
+   "reqd": 1
   },
   {
    "fieldname": "obr_fechafin",
    "fieldtype": "Date",
-   "label": "Fecha Fin"
+   "in_list_view": 1,
+   "label": "Fecha Fin",
+   "reqd": 1
   },
   {
    "fieldname": "obr_linkfacebook",
@@ -174,82 +179,114 @@
    "label": "Link Twitter"
   },
   {
-   "fieldname": "tipobr_desc",
-   "fieldtype": "Data",
-   "label": "tipobr_desc"
-  },
-  {
-   "fieldname": "tipobr_icono",
-   "fieldtype": "Attach Image",
-   "label": "tipobr_icono"
-  },
-  {
    "fieldname": "section_break_28",
    "fieldtype": "Section Break"
-  },
-  {
-   "fieldname": "detobr_valor",
-   "fieldtype": "Data",
-   "label": "detobr_valor"
-  },
-  {
-   "fieldname": "data_30",
-   "fieldtype": "Section Break"
-  },
-  {
-   "fieldname": "tipdet_desc",
-   "fieldtype": "Data",
-   "label": "tipdet_desc"
-  },
-  {
-   "fieldname": "adjobr_archivo",
-   "fieldtype": "Data",
-   "label": "adjobr_archivo"
-  },
-  {
-   "fieldname": "adjobr_fecha",
-   "fieldtype": "Date",
-   "label": "Fecha"
-  },
-  {
-   "fieldname": "tipadj_desc",
-   "fieldtype": "Data",
-   "label": "tipadj_desc"
-  },
-  {
-   "fieldname": "column_break_11",
-   "fieldtype": "Column Break"
   },
   {
    "fieldname": "column_break_22",
    "fieldtype": "Column Break"
   },
   {
-   "fieldname": "column_break_32",
-   "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "column_break_36",
-   "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "column_break_38",
-   "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "section_break_40",
-   "fieldtype": "Section Break"
-  },
-  {
    "fieldname": "sil_adjuntoobra",
    "fieldtype": "Table",
    "label": "sil_adjuntoobra",
    "options": "sil_adjuntoobra"
+  },
+  {
+   "fieldname": "section_break_29",
+   "fieldtype": "Section Break",
+   "label": "Descripci\u00f3n"
+  },
+  {
+   "fieldname": "section_break_41",
+   "fieldtype": "Section Break",
+   "label": "Coordenadas"
+  },
+  {
+   "fieldname": "column_break_43",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "logo",
+   "fieldtype": "Attach Image",
+   "hidden": 1,
+   "label": "logo"
+  },
+  {
+   "fieldname": "control_de_ejecuci\u00f3n_section",
+   "fieldtype": "Section Break",
+   "label": "Control de ejecuci\u00f3n"
+  },
+  {
+   "fieldname": "origen_del_presupuesto_section",
+   "fieldtype": "Section Break",
+   "label": "Origen del Presupuesto"
+  },
+  {
+   "fieldname": "section_break_13",
+   "fieldtype": "Section Break",
+   "label": "Aporte econ\u00f3mico"
+  },
+  {
+   "fieldname": "column_break_16",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "sil_tipoobra",
+   "fieldtype": "Link",
+   "label": "Tipo",
+   "options": "sil_tipoobra"
+  },
+  {
+   "fieldname": "cantones",
+   "fieldtype": "Select",
+   "label": "Cant\u00f3n"
+  },
+  {
+   "fieldname": "parroquia",
+   "fieldtype": "Select",
+   "label": "Parroquia"
+  },
+  {
+   "fieldname": "sil_representacion",
+   "fieldtype": "Select",
+   "label": "Representaci\u00f3n",
+   "options": "PROVINCIAL\nCANTONAL\nPARROQUIAL"
+  },
+  {
+   "fieldname": "column_break_5",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_9",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_15",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_17",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "otra_informaci\u00f3n_section",
+   "fieldtype": "Section Break",
+   "label": "Otra Informaci\u00f3n"
+  },
+  {
+   "fieldname": "column_break_31",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_33",
+   "fieldtype": "Column Break"
   }
  ],
+ "image_field": "logo",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-08-21 14:57:26.517107",
+ "modified": "2021-09-03 06:38:47.775320",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_obra",

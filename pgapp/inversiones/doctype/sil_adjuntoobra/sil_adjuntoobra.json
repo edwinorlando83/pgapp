@@ -5,18 +5,17 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "sil_tipoadjunto",
-  "adjobr_archivo",
   "adjobr_fecha",
-  "section_break_4"
+  "sil_tipoadjunto",
+  "adjobr_archivo"
  ],
  "fields": [
   {
    "fieldname": "sil_tipoadjunto",
-   "fieldtype": "Link",
+   "fieldtype": "Select",
    "in_list_view": 1,
    "label": "sil_tipoadjunto",
-   "options": "sil_tipoadjunto",
+   "options": "IM\u00c1GENES\nVIDEOS\nDOCUMENTOS",
    "reqd": 1
   },
   {
@@ -27,21 +26,18 @@
    "reqd": 1
   },
   {
+   "default": "Today",
    "fieldname": "adjobr_fecha",
    "fieldtype": "Date",
    "in_list_view": 1,
    "label": "ADJOBR_FECHA",
    "reqd": 1
-  },
-  {
-   "fieldname": "section_break_4",
-   "fieldtype": "Section Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2021-08-21 14:58:04.124328",
+ "modified": "2021-09-03 06:28:48.427985",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_adjuntoobra",
