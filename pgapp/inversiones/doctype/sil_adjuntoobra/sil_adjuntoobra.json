@@ -2,12 +2,13 @@
  "actions": [],
  "creation": "2021-08-21 14:54:31.168127",
  "doctype": "DocType",
- "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
   "adjobr_fecha",
   "sil_tipoadjunto",
-  "adjobr_archivo"
+  "adjobr_archivo",
+  "adjobr_video",
+  "adjobr_nombredoc"
  ],
  "fields": [
   {
@@ -19,11 +20,12 @@
    "reqd": 1
   },
   {
+   "depends_on": "eval:doc.sil_tipoadjunto !='VIDEOS'",
    "fieldname": "adjobr_archivo",
    "fieldtype": "Attach",
    "in_list_view": 1,
    "label": "ADJOBR_ARCHIVO",
-   "reqd": 1
+   "mandatory_depends_on": "eval:doc.sil_tipoadjunto !='VIDEOS'"
   },
   {
    "default": "Today",
@@ -32,12 +34,25 @@
    "in_list_view": 1,
    "label": "ADJOBR_FECHA",
    "reqd": 1
+  },
+  {
+   "depends_on": "eval:doc.sil_tipoadjunto =='VIDEOS'",
+   "fieldname": "adjobr_video",
+   "fieldtype": "Data",
+   "label": "Url VIdeo"
+  },
+  {
+   "depends_on": "eval:doc.sil_tipoadjunto =='DOCUMENTOS'",
+   "fieldname": "adjobr_nombredoc",
+   "fieldtype": "Data",
+   "label": "Nombre Documento",
+   "mandatory_depends_on": "eval:doc.sil_tipoadjunto =='DOCUMENTOS'"
   }
  ],
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2021-09-03 06:28:48.427985",
+ "modified": "2021-09-09 05:46:57.311404",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_adjuntoobra",

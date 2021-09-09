@@ -10,7 +10,8 @@
   "capa",
   "nombre",
   "column_break_4",
-  "grupo_capas"
+  "grupo_capas",
+  "deshabilitado"
  ],
  "fields": [
   {
@@ -45,10 +46,16 @@
   {
    "fieldname": "column_break_4",
    "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "deshabilitado",
+   "fieldtype": "Check",
+   "label": "Deshabilitado"
   }
  ],
  "links": [],
- "modified": "2021-08-06 20:03:17.715148",
+ "modified": "2021-09-09 04:58:04.343386",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "capas",
