@@ -5,19 +5,27 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "url"
+  "url",
+  "dpa_provincia"
  ],
  "fields": [
   {
+   "description": "Dominio donde se est\u00e1 ejecutando la aplicaci\u00f3n, por ejemplo: http://frappe:8081",
    "fieldname": "url",
    "fieldtype": "Data",
    "label": "Url Servidor Frappe"
+  },
+  {
+   "description": "C\u00f3digo DPA ejemplo: 18 para Tungurahua",
+   "fieldname": "dpa_provincia",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo DPA de la Provincia Actual"
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2021-08-27 20:57:34.593124",
+ "modified": "2021-09-09 13:53:22.395629",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "parametros",

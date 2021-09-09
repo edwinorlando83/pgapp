@@ -5,4 +5,35 @@ frappe.ui.form.on('sil_obra', {
 	// refresh: function(frm) {
 
 	// }
+	cantones(frm) {
+		get_parroquias(frm.doc.cantones, frm);
+	},
+	onload: function (frm) {
+		get_cantones(frm);
+		if (frm.doc.cantones) get_parroquias(frm.doc.cantones, frm);
+	}
 });
+
+function get_cantones( frm) {
+	frappe.call({
+		doc: cur_frm.doc,
+		method: "getCantones",	
+		callback: (r) => { 
+ 
+			frm.set_df_property("cantones", "options",r.message);
+			frm.refresh_field("cantones");
+		},
+	});
+}
+
+function get_parroquias( incanton, frm) {
+	frappe.call({
+		doc: cur_frm.doc,
+		method: "getParroquias",
+		args: { canton: incanton },
+		callback: (r) => {
+			frm.set_df_property("parroquia", "options", r.message);
+			frm.refresh_field("parroquia");
+		},
+	});
+}
