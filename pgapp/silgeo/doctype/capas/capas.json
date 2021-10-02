@@ -11,7 +11,12 @@
   "nombre",
   "column_break_4",
   "grupo_capas",
-  "deshabilitado"
+  "inicio_marcado",
+  "deshabilitado",
+  "cap_origen",
+  "cap_escala",
+  "cap_fechaact",
+  "cap_desc"
  ],
  "fields": [
   {
@@ -52,10 +57,36 @@
    "fieldname": "deshabilitado",
    "fieldtype": "Check",
    "label": "Deshabilitado"
+  },
+  {
+   "default": "0",
+   "fieldname": "inicio_marcado",
+   "fieldtype": "Check",
+   "label": "Inicia marcado"
+  },
+  {
+   "fieldname": "cap_origen",
+   "fieldtype": "Text",
+   "label": "Origen "
+  },
+  {
+   "fieldname": "cap_escala",
+   "fieldtype": "Data",
+   "label": "Escala"
+  },
+  {
+   "fieldname": "cap_fechaact",
+   "fieldtype": "Date",
+   "label": "Fecha de actulizaci\u00f3n"
+  },
+  {
+   "fieldname": "cap_desc",
+   "fieldtype": "Data",
+   "label": "Descripci\u00f3n"
   }
  ],
  "links": [],
- "modified": "2021-09-09 04:58:04.343386",
+ "modified": "2021-09-25 09:12:47.561615",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "capas",

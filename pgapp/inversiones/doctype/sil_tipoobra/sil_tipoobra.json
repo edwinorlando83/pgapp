@@ -21,12 +21,14 @@
   {
    "fieldname": "tipobr_icono",
    "fieldtype": "Attach Image",
+   "hidden": 1,
    "label": "icono"
   }
  ],
+ "image_field": "tipobr_icono",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-09-03 05:48:40.849844",
+ "modified": "2021-09-29 04:05:54.006144",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_tipoobra",

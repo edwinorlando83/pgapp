@@ -6,7 +6,8 @@
  "engine": "InnoDB",
  "field_order": [
   "url",
-  "dpa_provincia"
+  "dpa_provincia",
+  "dpa_canton"
  ],
  "fields": [
   {
@@ -20,12 +21,17 @@
    "fieldname": "dpa_provincia",
    "fieldtype": "Data",
    "label": "C\u00f3digo DPA de la Provincia Actual"
+  },
+  {
+   "fieldname": "dpa_canton",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo DPA del Cant\u00f3n"
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2021-09-09 13:53:22.395629",
+ "modified": "2021-09-25 09:26:27.469669",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "parametros",

@@ -1,0 +1,391 @@
+<!-- //////////////////////////////////////////////////////////////////////////// -->
+<!--Start HTML document-->
+<!DOCTYPE html>
+
+<!-- //////////////////////////////////////////////////////////////////////////// -->
+<!--HTML-->
+<html lang="es">
+
+<!-- //////////////////////////////////////////////////////////////////////////// -->
+<!--Head-->
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <!--viewport meta tag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--Favicon icon-->
+    <link href="visor/asset/images/favicon.png" type="image/png" rel="icon">
+
+    <!--Browser navbar color for mobile-->
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#5165d6">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#5165d6">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#5165d6">
+    <!--Page title-->
+    <title>Visor Geográfico</title>
+    <!-- ================================================
+    CSS
+    ================================================ -->
+    <!-- materialize stylesheet -->
+
+    <link href="visor/asset/materialize/materialize.css" type="text/css" rel="stylesheet" />
+    <!-- google material design icons -->
+    <link href="visor/asset/material-icons/material-icons.css" type="text/css" rel="stylesheet" />
+    <!-- prism syntax highlighter -->
+
+    <!-- materialcss app stylesheet -->
+    <link href="visor/asset/css/app.css" type="text/css" rel="stylesheet" />
+    <!-- materialcss theme stylesheet -->
+    <link href="visor/asset/css/theme-1.css" type="text/css" rel="stylesheet" />
+    <!-- Your custom  stylesheet -->
+    <link href="visor/asset/css/style.css" type="text/css" rel="stylesheet" />
+
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.7.0/css/ol.css" type="text/css">
+    <style>
+        .map {
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.7.0/build/ol.js"></script>
+
+</head>
+ 
+
+<body>
+ 
+    <!--Page wrapper-->
+    <div class="page-wrapper">
+      
+        <!--Control page-->
+        <div id="control-body" class="fixed-sidebar medium-sidebar fixed-nav">
+ 
+            <!--prepage loader-->
+            <div id="prepage-loader">
+                <div class="preloader-center">
+                    <div class="preloader-wrapper big active">
+                        <div class="spinner-layer spinner-indigo-only">
+                            <div class="circle-clipper left">
+                                <div class="circle"></div>
+                            </div>
+                            <div class="gap-patch">
+                                <div class="circle"></div>
+                            </div>
+                            <div class="circle-clipper right">
+                                <div class="circle"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+  
+            <nav class="page-header z-depth-3">
+                <div class="nav-wrapper">
+                    <a id="logo-container" href="#" class="brand-logo hide-on-med-and-down">Visor Geográfico</a>
+                    <ul class="left">
+                        <li class="hide-on-large-only"><a href="javascript:void(0)" id="toggle-left-sidebar"
+                                class="hrz-menu waves-effect waves-default"><i class="material-icons">menu</i></a></li>
+ 
+               
+                    </ul>
+ 
+
+                    <ul class="right"> 
+                 
+                        <li class="hide-on-med-and-down"><a href="javascript:void(0)"
+                                class="hrz-menu waves-effect waves-default" id="page-fullscreen"><i
+                                    class="material-icons">fullscreen</i></a></li>
+
+                        <li class="toggle-right-sidebar"><a href="javascript:void(0)"
+                                class="hrz-menu waves-effect waves-default"><i
+                                    class="material-icons">format_indent_decrease</i></a></li>
+
+                    </ul>
+
+                  
+                </div>
+            </nav>
+ 
+
+            <aside>
+                <!-- overlay -->
+                <div class="left-sidebar-overlay"></div>
+                <div class="left-sidebar z-depth-3">
+                    <!-- brand -->
+                    <div class="md-logo-container hide-on-large-only theme-bg">
+                        <a class="md-brand-logo white-text" href="#">Visor</a>
+                    </div>
+                    <!--end brand -->
+                    <!--Left sidebar body-->
+                    <div class="left-sidebar-body ">
+                        <!--current subscription user plan -->
+                        <div class="current-subscription ">
+                            <table >
+                                <tbody>
+                                    <tr>                                      
+                                        <td class="center">
+                                            <img style="height: 60px;" src="logo.png" />
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="divider"></div>
+                        <!--End current subscription user plan -->
+
+                        <!--sidebar menu-->
+                        <ul class="leftside-navigation">
+                            <li class="navigation">Opciones</li>           
+
+                            <li><a href="javascript:void(0)"
+                                    class="collapsible-label1 waves-effect waves-default tooltipped"
+                                    data-position="right" data-delay="50" data-tooltip="Material UI"><i
+                                        class="material-icons left-icon">trending_up</i><i
+                                        class="material-icons right-icon">arrow_drop_down</i>Indicadores</a>
+                                <ul class="collapsible-body">
+                                    <li><a href="buttons.html" class="waves-effect waves-default">Buttons</a></li>
+                                   </ul>
+                            </li>
+                            <li><a href="javascript:void(0)"
+                                class="collapsible-label1 waves-effect waves-default tooltipped"
+                                data-position="right" data-delay="50" data-tooltip="Material UI"><i
+                                    class="material-icons left-icon">work</i><i
+                                    class="material-icons right-icon">arrow_drop_down</i>Proyectos</a>
+                            <ul class="collapsible-body">
+                                <li><a href="buttons.html" class="waves-effect waves-default">Buttons</a></li>
+                               </ul>
+                        </li>                               
+
+                            <li><a href="javascript:void(0)"
+                                    class="collapsible-label1 waves-effect waves-default tooltipped"
+                                    data-position="right" data-delay="50" data-tooltip="Label"><i
+                                        class="material-icons left-icon">map</i><i
+                                        class="material-icons right-icon">arrow_drop_down</i>Capas</a>
+                                <ul class="collapsible-body">
+                                    <li><a class="collapsible-label2 waves-effect waves-default"><i
+                                                class="material-icons left-icon">arrow_drop_down</i>Label 2</a>
+                                        <ul class="collapsible-body">
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+
+                                        </ul>
+                                    </li>
+                                    <li><a href="#" class="waves-effect waves-default">Label 2</a></li>
+                                    <li><a class="collapsible-label2 waves-effect waves-default"><i
+                                                class="material-icons left-icon">arrow_drop_down</i>Label 2</a>
+                                        <ul class="collapsible-body">
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+                                            <li><a href="#" class="waves-effect waves-default"> Lebel 2 title</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#" class="waves-effect waves-default">Lebel 2</a></li>
+                                </ul>
+
+                            </li>
+
+
+                        </ul>
+                        <!--End sidebar menu-->
+                    </div>
+
+                    <!--End Left sidebar body-->
+
+                    <!--Left sidebar footer-->
+                    <div class="sidebar-footer">
+                        <a href="javascript:void(0)" id="collapsed-left-sidebar"
+                            class="toggle-icon-left-sidebar waves-effect waves-default"><i
+                                class="right material-icons">keyboard_arrow_left</i></a>
+                    </div>
+                    <!--End Left sidebar footer-->
+                </div>
+            </aside>
+             
+            <aside>
+
+                <!-- rightsidebar overlay -->
+                <div class="right-sidebar-overlay hide"></div>
+                <!-- end rightsidebar overlay -->
+
+                <div class="right-sidebar z-depth-3">
+
+                    <!--right sidebar tab-->
+                    <ul class="tabs tabs-fixed-width tabs-right-sidebar">
+                        <li class="tab col s3"><a class="active" href="#settings">Settings</a></li>
+                        <li class="tab col s3"><a href="#notifications">Notifications</a></li>
+                    </ul>
+                    <!--End right sidebar tab-->
+
+                    <!--Right Sidebar body-->
+                    <div class="right-sidebar-body">
+                        <!--Notification body-->
+                        <div id="notifications">
+                            <ul class="content-list">
+                                <li>
+                                    <a href="#">
+                                        <span class="list-title white-text red">ORDER</span>
+                                        <span class="list-date">9 hours ago</span>
+                                        <h4 class="list-content-title">facilisis</h4>
+                                        <p class="list-content">
+                                            Etiam auctor porta augue sit amet facilisis. Sed libero nisi, scelerisque.
+                                        </p>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#">
+                                        <span class="list-title white-text blue">COMMENT</span>
+                                        <span class="list-date">10 hours ago</span>
+                                        <h4 class="list-content-title">porta augue</h4>
+                                        <p class="list-content">
+                                            Etiam auctor porta augue sit amet facilisis. Sed libero nisi, scelerisque.
+                                        </p>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#">
+                                        <span class="list-title white-text green">MEETING</span>
+                                        <span class="list-date">11 hours ago</span>
+                                        <h4 class="list-content-title">Sed libero</h4>
+                                        <p class="list-content">
+                                            Etiam auctor porta augue sit amet facilisis. Sed libero nisi, scelerisque.
+                                        </p>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#">
+                                        <span class="list-title white-text teal">EVENT</span>
+                                        <span class="list-date">12 hours ago</span>
+                                        <h4 class="list-content-title">sit amet</h4>
+                                        <p class="list-content">
+                                            Etiam auctor porta augue sit amet facilisis. Sed libero nisi, scelerisque.
+                                        </p>
+                                    </a>
+                                </li>
+
+                                <li>
+                                    <a href="#">
+                                        <span class="list-title white-text red">ORDER</span>
+                                        <span class="list-date">13 hours ago</span>
+                                        <h4 class="list-content-title">augue</h4>
+                                        <p class="list-content">
+                                            Etiam auctor porta augue sit amet facilisis. Sed libero nisi, scelerisque.
+                                        </p>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <!--End Notification body-->
+
+                        <!--Settings body-->
+                        <div id="settings" class="settings-content">
+                            <h4 class="settings-content-title">Full Layout Options</h4>
+                            <p>
+                                <input class="with-gap" name="layout" type="radio" id="default-layout" checked />
+                                <label for="default-layout">Fixed Header and Sidebar(Default)</label>
+                            </p>
+
+                            <p>
+                                <input class="with-gap" name="layout" type="radio" id="fixed-header-unfixed-sidebar" />
+                                <label for="fixed-header-unfixed-sidebar">Fixed Header Unfixed Sidebar</label>
+                            </p>
+
+                            <p>
+                                <input class="with-gap" name="layout" type="radio" id="unfixed-header-sidebar" />
+                                <label for="unfixed-header-sidebar">Unfixed Header and Sidebar</label>
+                            </p>
+
+                            <h4 class="settings-content-title">Boxed Layout Options</h4>
+                            <p>
+                                <input class="with-gap" name="layout" type="radio" id="default-boxed-layout" />
+                                <label for="default-boxed-layout">Fixed Header and Sidebar</label>
+                            </p>
+
+                            <p>
+                                <input class="with-gap" name="layout" type="radio"
+                                    id="boxed-fixed-header-unfixed-sidebar" />
+                                <label for="boxed-fixed-header-unfixed-sidebar">Fixed Header Unfixed Sidebar</label>
+                            </p>
+
+                            <p>
+                                <input class="with-gap" name="layout" type="radio" id="boxed-unfixed-sidebar-header" />
+                                <label for="boxed-unfixed-sidebar-header">Unfixed Header and Sidebar</label>
+                            </p>
+                        </div>
+                        <!--End Settings body-->
+                    </div>
+                </div>
+                <!--End Right Sidebar body-->
+            </aside>
+          
+            <!-- //////////////////////////////////////////////////////////////////////////// -->
+            <!--Page Body-->
+            <main class="page-body">
+                <div id="map" class="map"></div>
+                <script type="text/javascript">
+                    var map = new ol.Map({
+                        target: 'map',
+                        layers: [
+                            new ol.layer.Tile({
+                                source: new ol.source.OSM()
+                            })
+                        ],
+                        view: new ol.View({
+                            center: ol.proj.fromLonLat([37.41, 8.82]),
+                            zoom: 4
+                        })
+                    });
+                </script>
+            </main>
+            <!--End page body-->
+ 
+            <!--Footer-->
+            <footer class="page-footer">
+
+                <div class="footer-copyright">
+                    <div class="left">&copy; ok-solucionesavanzadas</div>
+                    <div class="right"><a href="javascript:void(0)" id="scroll-top-dash" class="tooltipped"
+                            data-position="top" data-delay="50" data-tooltip="Ve arriba"><i
+                                class="material-icons">arrow_upward</i></a></div>
+                </div>
+            </footer>
+ 
+        </div>
+       
+
+    </div>
+ 
+    <!--  Scripts-->
+
+    <!-- Jquery -->
+    <script src="visor/asset/jquery/jquery.min.js" type="text/javascript"></script>
+    <!-- Materialize js -->
+    <script src="visor/asset/materialize/materialize.min.js" type="text/javascript"></script>
+    <!-- prism syntax highlighter -->
+ 
+    <!-- materialcss theme script -->
+    <script src="visor/asset/js/app.js" type="text/javascript"></script>
+ 
+    <!-- Your custom script -->
+    <script src="asset/js/script.js" type="text/javascript"></script>
+    <!-- Dshboard Demo  -->
+ 
+    <!--End scripts-->
+    <!-- //////////////////////////////////////////////////////////////////////////// -->
+</body>
+<!--End body-->
+<!-- //////////////////////////////////////////////////////////////////////////// -->
+
+</html>
+<!--End HTML-->
+<!-- //////////////////////////////////////////////////////////////////////////// -->

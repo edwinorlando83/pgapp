@@ -17,9 +17,9 @@ class sil_obra(Document):
     		
 @frappe.whitelist()
 def get_cantones():
-	sql = """select distinct  dpa_ncanton  from \"tabsil_dpa\"  where dpa_provincia = (select  value from \"tabSingles\"  ts where field = 'dpa_provincia')"""
+	sql = """select distinct  dpa_ncanton  from tabsil_dpa  where dpa_provincia = (select  value from tabSingles  ts where field = 'dpa_provincia')"""
 	return frappe.db.sql(sql)
 
 def get_parroquias(canton):
-	sql = """select    dpa_nparroquia  from \"tabsil_dpa\"  where  dpa_ncanton = %s """
+	sql = """select    dpa_nparroquia  from tabsil_dpa  where  dpa_ncanton = %s """
 	return frappe.db.sql(sql,canton)

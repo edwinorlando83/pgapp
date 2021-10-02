@@ -6,16 +6,16 @@
  "field_order": [
   "adjobr_fecha",
   "sil_tipoadjunto",
+  "adjobr_nombredoc",
   "adjobr_archivo",
-  "adjobr_video",
-  "adjobr_nombredoc"
+  "adjobr_video"
  ],
  "fields": [
   {
    "fieldname": "sil_tipoadjunto",
    "fieldtype": "Select",
    "in_list_view": 1,
-   "label": "sil_tipoadjunto",
+   "label": "Tipo",
    "options": "IM\u00c1GENES\nVIDEOS\nDOCUMENTOS",
    "reqd": 1
   },
@@ -24,15 +24,14 @@
    "fieldname": "adjobr_archivo",
    "fieldtype": "Attach",
    "in_list_view": 1,
-   "label": "ADJOBR_ARCHIVO",
-   "mandatory_depends_on": "eval:doc.sil_tipoadjunto !='VIDEOS'"
+   "label": "Archivo"
   },
   {
    "default": "Today",
    "fieldname": "adjobr_fecha",
    "fieldtype": "Date",
    "in_list_view": 1,
-   "label": "ADJOBR_FECHA",
+   "label": "Fecha",
    "reqd": 1
   },
   {
@@ -52,7 +51,7 @@
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2021-09-09 05:46:57.311404",
+ "modified": "2021-09-29 04:40:29.608705",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_adjuntoobra",
