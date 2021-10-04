@@ -90,6 +90,15 @@ def getParroquia(ncanton):
     lst = frappe.db.sql(sql,as_dict=True)
     return lst  
 
+@frappe.whitelist(allow_guest = True)
+def getInfoCapa(name_capa):
+    sql = """     
+     select t.name, m.url , m.espacio_trabajo  , cap_origen ,cap_escala ,cap_fechaact , cap_desc  from tabcapas t 
+ inner join tabservidores_mapa m on (t.servidores_mapa = m.name)  
+ where t.name = '{0}'   """.format(name_capa)
+    lst = frappe.db.sql(sql,as_dict=True)[0]
+    return lst  
+
 
 @frappe.whitelist(allow_guest = True)
 def coneccionpg():
