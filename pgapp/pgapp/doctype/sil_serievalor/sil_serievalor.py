@@ -16,18 +16,18 @@ class sil_serievalor(Document):
 
 	@frappe.whitelist()
 	def getProvincia(self):
-		sql = '''select distinct  dpa_nprovincia from "tabsil_dpa"    where dpa_provincia = '13' '''
+		sql = '''select distinct  dpa_nprovincia from tabsil_dpa    where dpa_provincia = '13' '''
 		cantones = frappe.db.sql (sql, as_dict=1)
 		return cantones[0]
 	
 	@frappe.whitelist()
 	def getCantones(self):
-		sql = '''select distinct  dpa_nprovincia, dpa_canton , dpa_ncanton from "tabsil_dpa"    where dpa_provincia = '13' order by dpa_ncanton'''
+		sql = '''select distinct  dpa_nprovincia, dpa_canton , dpa_ncanton from tabsil_dpa    where dpa_provincia = '13' order by dpa_ncanton'''
 		cantones = frappe.db.sql (sql, as_dict=1)
 		return cantones
 
 	@frappe.whitelist()
 	def getParroquia(self):
-		sql = '''select distinct  dpa_nprovincia, dpa_canton , dpa_ncanton ,dpa_parroquia ,dpa_nparroquia from "tabsil_dpa"    where dpa_provincia = '13' order by dpa_ncanton,dpa_nparroquia'''
+		sql = '''select distinct  dpa_nprovincia, dpa_canton , dpa_ncanton ,dpa_parroquia ,dpa_nparroquia from tabsil_dpa   where dpa_provincia = '13' order by dpa_ncanton,dpa_nparroquia'''
 		cantones = frappe.db.sql (sql, as_dict=1)
 		return cantones
