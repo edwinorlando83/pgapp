@@ -51,8 +51,7 @@
   "column_break_43",
   "obr_longitud",
   "logo",
-  "section_break_46",
-  "geo"
+  "section_break_46"
  ],
  "fields": [
   {
@@ -287,17 +286,12 @@
   {
    "fieldname": "section_break_46",
    "fieldtype": "Section Break"
-  },
-  {
-   "fieldname": "geo",
-   "fieldtype": "Geolocation",
-   "label": "GEO"
   }
  ],
  "image_field": "logo",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-11-14 10:54:30.922089",
+ "modified": "2021-11-23 20:23:32.637887",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_obra",

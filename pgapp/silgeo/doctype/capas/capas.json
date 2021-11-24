@@ -13,6 +13,7 @@
   "grupo_capas",
   "inicio_marcado",
   "deshabilitado",
+  "metadatos_section",
   "cap_origen",
   "cap_escala",
   "cap_fechaact",
@@ -83,10 +84,15 @@
    "fieldname": "cap_desc",
    "fieldtype": "Data",
    "label": "Descripci\u00f3n"
+  },
+  {
+   "fieldname": "metadatos_section",
+   "fieldtype": "Section Break",
+   "label": "Metadatos"
   }
  ],
  "links": [],
- "modified": "2021-09-25 09:12:47.561615",
+ "modified": "2021-11-19 18:02:09.905243",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "capas",
