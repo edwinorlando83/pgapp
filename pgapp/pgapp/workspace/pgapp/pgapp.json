@@ -43,6 +43,15 @@
   {
    "hidden": 0,
    "is_query_report": 0,
+   "label": "Categorias",
+   "link_to": "sil_categoria",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
    "label": "Configuraci\u00f3n",
    "link_type": "DocType",
    "onboard": 0,
@@ -157,7 +166,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-07-18 15:52:19.128648",
+ "modified": "2021-11-25 09:05:58.263354",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "pgapp",

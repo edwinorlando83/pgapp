@@ -1,0 +1,60 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:cat_codigo",
+ "creation": "2021-11-25 09:01:45.911450",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "sil_indicador",
+  "cat_codigo",
+  "cat_desc"
+ ],
+ "fields": [
+  {
+   "fieldname": "sil_indicador",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "sil_indicador",
+   "options": "sil_indicador",
+   "reqd": 1
+  },
+  {
+   "fieldname": "cat_codigo",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo",
+   "unique": 1
+  },
+  {
+   "fieldname": "cat_desc",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Descripci\u00f3n",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2021-11-25 09:01:45.911450",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_categoria",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
