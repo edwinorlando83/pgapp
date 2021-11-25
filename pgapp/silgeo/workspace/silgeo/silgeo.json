@@ -47,9 +47,18 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "ventana_emergente",
+   "link_to": "ventana_emergente",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2021-07-18 15:35:09.748162",
+ "modified": "2021-11-25 05:25:45.211962",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "silgeo",

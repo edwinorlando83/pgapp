@@ -16,7 +16,8 @@
   "section_break_5",
   "tipo",
   "html",
-  "url"
+  "url",
+  "texto"
  ],
  "fields": [
   {
@@ -71,7 +72,7 @@
    "fieldname": "tipo",
    "fieldtype": "Select",
    "label": "Tipo",
-   "options": "HTML\nURL",
+   "options": "HTML\nURL\nTEXTO",
    "reqd": 1
   },
   {
@@ -80,11 +81,18 @@
    "fieldtype": "Small Text",
    "label": "Url",
    "mandatory_depends_on": "eval:doc.tipo =='URL'"
+  },
+  {
+   "depends_on": "eval:doc.tipo =='TEXTO'",
+   "fieldname": "texto",
+   "fieldtype": "Text Editor",
+   "label": "Texto",
+   "mandatory_depends_on": "eval:doc.tipo =='TEXTO'"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-11-24 18:15:36.277511",
+ "modified": "2021-11-25 05:27:20.435090",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "ventana_emergente",
