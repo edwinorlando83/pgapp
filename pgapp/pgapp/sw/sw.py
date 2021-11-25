@@ -127,7 +127,7 @@ def coneccionpg():
     return db_version
 @frappe.whitelist( )
 def getVentaEmergente():
-    sql = """  select name,tipo,html,url,texto from tabventana_emergente te where CURRENT_DATE BETWEEN te.fecha_inicio and te.fecha_fin   """
+    sql = """  select name,tipo,html,url,REPLACE (texto,'src="/','src="http://62.171.170.162:8081/') as texto from tabventana_emergente te where CURRENT_DATE BETWEEN te.fecha_inicio and te.fecha_fin   """
     lst = frappe.db.sql(sql,as_dict=True)
     return lst
 
