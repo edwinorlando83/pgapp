@@ -29,7 +29,7 @@ def getIndicadores():
 def getObras():
     sql = """ select tipo.name  tipo , o.name, obr_nombre,   concat((select  value from  tabSingles    where doctype = 'parametros' and  field  = 'url'), tipobr_icono ) as tipobr_icono 		
 				,o.obr_latitud , o.obr_longitud
-                from tabsil_obra o inner join tabsil_tipoobra tipo on (  tipo.name = o.sil_tipoobra  )"""
+                from tabsil_obra o inner join tabsil_tipoobra tipo on (  tipo.name = o.sil_tipoobra  ) order by tipo.name"""
     lst = frappe.db.sql(sql,as_dict=True)
     return lst
 
