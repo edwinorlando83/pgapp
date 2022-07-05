@@ -6,5 +6,5 @@ from __future__ import unicode_literals
 # import frappe
 import unittest
 
-class Testcapas(unittest.TestCase):
+class Testsil_sil_capa(unittest.TestCase):
 	pass

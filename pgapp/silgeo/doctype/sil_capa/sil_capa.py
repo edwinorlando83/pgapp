@@ -8,7 +8,7 @@ from frappe.model.document import Document
 import requests
 from requests.auth import HTTPBasicAuth
  
-class capas(Document):
+class sil_sil_capa(Document):
 
     		
 

@@ -13,6 +13,8 @@
   "column_break_6",
   "ind_metodologia",
   "ind_definicionformula",
+  "sil_unidadmedida",
+  "sil_formatosxindicador",
   "section_break_8",
   "ind_unidadmedida",
   "ind_interpretacion",
@@ -32,6 +34,7 @@
   "ind_general",
   "column_break_23",
   "ind_otros",
+  "sil_tipogeografico",
   "section_break_25",
   "ind_inf_geo_ref",
   "ind_rel_instrumentos",
@@ -260,10 +263,28 @@
    "fieldname": "ind_fecha_ultima_actu",
    "fieldtype": "Data",
    "label": "Fecha de la \u00daltima Actualizaci\u00f3n de la Ficha Metodol\u00f3gica"
+  },
+  {
+   "fieldname": "sil_unidadmedida",
+   "fieldtype": "Link",
+   "label": "unidad de medida",
+   "options": "sil_unidadmedida"
+  },
+  {
+   "fieldname": "sil_tipogeografico",
+   "fieldtype": "Link",
+   "label": "Tipo Geografico",
+   "options": "sil_tipogeografico"
+  },
+  {
+   "fieldname": "sil_formatosxindicador",
+   "fieldtype": "Table",
+   "label": "Formatos por indicador",
+   "options": "sil_formatosxindicador"
   }
  ],
  "links": [],
- "modified": "2021-07-30 16:21:00.815578",
+ "modified": "2022-07-04 22:12:42.459406",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

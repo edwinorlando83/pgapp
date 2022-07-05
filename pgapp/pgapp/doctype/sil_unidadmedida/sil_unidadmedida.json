@@ -1,0 +1,51 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:unimed_codigo",
+ "creation": "2022-07-04 21:07:11.605604",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "unimed_codigo",
+  "unimed_desc"
+ ],
+ "fields": [
+  {
+   "fieldname": "unimed_desc",
+   "fieldtype": "Data",
+   "label": "descripcion"
+  },
+  {
+   "fieldname": "unimed_codigo",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "codigo",
+   "reqd": 1,
+   "unique": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-04 21:09:19.205740",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_unidadmedida",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

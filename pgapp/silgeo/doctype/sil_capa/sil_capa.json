@@ -9,6 +9,7 @@
   "servidores_mapa",
   "capa",
   "nombre",
+  "sil_tipogeografico",
   "column_break_4",
   "grupo_capas",
   "inicio_marcado",
@@ -32,7 +33,7 @@
    "fieldtype": "Link",
    "in_list_view": 1,
    "label": "grupo_capas ",
-   "options": "grupo_capas",
+   "options": "sil_grupocapa",
    "reqd": 1
   },
   {
@@ -89,13 +90,19 @@
    "fieldname": "metadatos_section",
    "fieldtype": "Section Break",
    "label": "Metadatos"
+  },
+  {
+   "fieldname": "sil_tipogeografico",
+   "fieldtype": "Link",
+   "label": "Tipo Geografico",
+   "options": "sil_tipogeografico"
   }
  ],
  "links": [],
- "modified": "2021-11-19 18:02:09.905243",
+ "modified": "2022-07-04 21:46:22.673934",
  "modified_by": "Administrator",
  "module": "silgeo",
- "name": "capas",
+ "name": "sil_capa",
  "owner": "Administrator",
  "permissions": [
   {
