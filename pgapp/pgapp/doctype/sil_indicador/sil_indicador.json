@@ -19,7 +19,7 @@
   "ind_unidadmedida",
   "ind_interpretacion",
   "sil_fuenteinformacion",
-  "sil_periodicidad",
+  "tipper_codigo",
   "ind_disponibilidad",
   "column_break_13",
   "ind_consejo",
@@ -127,13 +127,6 @@
    "fieldtype": "Link",
    "label": "Fuente de datos",
    "options": "sil_fuenteinformacion",
-   "reqd": 1
-  },
-  {
-   "fieldname": "sil_periodicidad",
-   "fieldtype": "Link",
-   "label": "Periodicidad del indicador",
-   "options": "sil_periodicidad",
    "reqd": 1
   },
   {
@@ -281,10 +274,17 @@
    "fieldtype": "Table",
    "label": "Formatos por indicador",
    "options": "sil_formatosxindicador"
+  },
+  {
+   "fieldname": "tipper_codigo",
+   "fieldtype": "Link",
+   "label": "Periodicidad del indicador",
+   "options": "sil_tipoperiodicidad",
+   "reqd": 1
   }
  ],
  "links": [],
- "modified": "2022-07-04 22:12:42.459406",
+ "modified": "2022-07-14 14:26:19.912881",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
