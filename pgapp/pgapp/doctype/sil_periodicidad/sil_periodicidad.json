@@ -1,14 +1,16 @@
 {
  "actions": [],
- "autoname": "field:per_descripcion",
+ "autoname": "field:per_codigo",
  "creation": "2021-07-03 20:21:38.958370",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
   "per_codigo",
+  "per_nombre",
   "per_descripcion",
-  "per_ennumero"
+  "per_ennumero",
+  "tipper_codigo"
  ],
  "fields": [
   {
@@ -16,24 +18,37 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "C\u00f3digo",
+   "reqd": 1,
    "unique": 1
   },
   {
    "fieldname": "per_descripcion",
    "fieldtype": "Data",
    "label": "Descripci\u00f3n",
-   "reqd": 1,
-   "unique": 1
+   "reqd": 1
   },
   {
    "fieldname": "per_ennumero",
-   "fieldtype": "Data",
+   "fieldtype": "Int",
    "label": "per_ennumero",
+   "reqd": 1
+  },
+  {
+   "fieldname": "tipper_codigo",
+   "fieldtype": "Link",
+   "label": "tipper_codigo",
+   "options": "sil_tipoperiodicidad",
+   "reqd": 1
+  },
+  {
+   "fieldname": "per_nombre",
+   "fieldtype": "Data",
+   "label": "Nombre",
    "reqd": 1
   }
  ],
  "links": [],
- "modified": "2021-07-29 08:57:42.173032",
+ "modified": "2022-07-15 04:37:16.996273",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_periodicidad",

@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "autoname": "field:gruind_codigo",
  "creation": "2021-07-02 21:22:35.179489",
  "doctype": "DocType",
@@ -12,16 +13,21 @@
   {
    "fieldname": "gruind_codigo",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "C\u00f3odigo",
+   "reqd": 1,
    "unique": 1
   },
   {
    "fieldname": "gruind_descripcion",
    "fieldtype": "Data",
-   "label": "Descripci\u00f3n"
+   "in_list_view": 1,
+   "label": "Descripci\u00f3n",
+   "reqd": 1
   }
  ],
- "modified": "2021-07-02 21:26:52.287484",
+ "links": [],
+ "modified": "2022-07-14 14:44:52.743670",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_grupoindicador",
@@ -41,7 +47,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "gruind_descripcion",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "gruind_descripcion",
  "track_changes": 1
 }

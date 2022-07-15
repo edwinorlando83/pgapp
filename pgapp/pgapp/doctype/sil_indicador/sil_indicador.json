@@ -1,32 +1,32 @@
 {
  "actions": [],
  "allow_import": 1,
- "autoname": "naming_series:",
+ "autoname": "field:ind_codigo",
  "creation": "2021-07-18 15:25:06.032135",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
+  "ind_codigo",
   "ind_nombre",
   "ind_definicion",
   "ind_formula",
   "column_break_6",
   "ind_metodologia",
   "ind_definicionformula",
-  "sil_unidadmedida",
+  "unimed_codigo",
   "sil_formatosxindicador",
   "section_break_8",
   "ind_unidadmedida",
   "ind_interpretacion",
-  "sil_fuenteinformacion",
+  "fueinf_codigo",
   "tipper_codigo",
   "ind_disponibilidad",
   "column_break_13",
   "ind_consejo",
-  "sil_componente",
+  "com_codigo",
   "ind_fechatrans",
-  "sil_grupoindicador",
-  "naming_series",
+  "gruind_codigo",
   "ind_valor",
   "sec_nivel",
   "ind_geof",
@@ -52,29 +52,6 @@
   "ind_informacion_financiera"
  ],
  "fields": [
-  {
-   "fieldname": "naming_series",
-   "fieldtype": "Code",
-   "label": "C\u00f3digo",
-   "options": "IND-",
-   "read_only": 1
-  },
-  {
-   "fieldname": "sil_componente",
-   "fieldtype": "Link",
-   "in_list_view": 1,
-   "label": "Componente",
-   "options": "sil_componente",
-   "reqd": 1
-  },
-  {
-   "fieldname": "sil_grupoindicador",
-   "fieldtype": "Link",
-   "in_list_view": 1,
-   "label": "Grupo",
-   "options": "sil_grupoindicador",
-   "reqd": 1
-  },
   {
    "fieldname": "column_break_6",
    "fieldtype": "Column Break"
@@ -121,13 +98,6 @@
    "fieldname": "ind_interpretacion",
    "fieldtype": "Data",
    "label": "Interpretaci\u00f3n del indicador"
-  },
-  {
-   "fieldname": "sil_fuenteinformacion",
-   "fieldtype": "Link",
-   "label": "Fuente de datos",
-   "options": "sil_fuenteinformacion",
-   "reqd": 1
   },
   {
    "fieldname": "ind_disponibilidad",
@@ -258,12 +228,6 @@
    "label": "Fecha de la \u00daltima Actualizaci\u00f3n de la Ficha Metodol\u00f3gica"
   },
   {
-   "fieldname": "sil_unidadmedida",
-   "fieldtype": "Link",
-   "label": "unidad de medida",
-   "options": "sil_unidadmedida"
-  },
-  {
    "fieldname": "sil_tipogeografico",
    "fieldtype": "Link",
    "label": "Tipo Geografico",
@@ -281,10 +245,46 @@
    "label": "Periodicidad del indicador",
    "options": "sil_tipoperiodicidad",
    "reqd": 1
+  },
+  {
+   "fieldname": "ind_codigo",
+   "fieldtype": "Data",
+   "label": "C\u00f3digo",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "fueinf_codigo",
+   "fieldtype": "Link",
+   "label": "Fuente de datos",
+   "options": "sil_fuenteinformacion",
+   "reqd": 1
+  },
+  {
+   "fieldname": "com_codigo",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Componente",
+   "options": "sil_componente",
+   "reqd": 1
+  },
+  {
+   "fieldname": "gruind_codigo",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Grupo",
+   "options": "sil_grupoindicador",
+   "reqd": 1
+  },
+  {
+   "fieldname": "unimed_codigo",
+   "fieldtype": "Link",
+   "label": "unidad de medida",
+   "options": "sil_unidadmedida"
   }
  ],
  "links": [],
- "modified": "2022-07-14 14:26:19.912881",
+ "modified": "2022-07-15 05:09:51.023854",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

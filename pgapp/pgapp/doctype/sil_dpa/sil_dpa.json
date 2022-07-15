@@ -1,6 +1,6 @@
 {
  "actions": [],
- "autoname": "field:dpa_id",
+ "autoname": "format:{dpa_anio}{dpa_provincia}{dpa_canton}{dpa_parroquia}",
  "creation": "2021-07-17 05:51:39.661266",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -13,8 +13,7 @@
   "dpa_tipoparroquia",
   "dpa_nprovincia",
   "dpa_ncanton",
-  "dpa_nparroquia",
-  "dpa_id"
+  "dpa_nparroquia"
  ],
  "fields": [
   {
@@ -64,16 +63,10 @@
    "fieldname": "dpa_nparroquia",
    "fieldtype": "Data",
    "label": "dpa_nparroquia"
-  },
-  {
-   "fieldname": "dpa_id",
-   "fieldtype": "Data",
-   "label": "dpa_id",
-   "unique": 1
   }
  ],
  "links": [],
- "modified": "2021-07-29 08:58:50.615809",
+ "modified": "2022-07-15 05:18:30.422513",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_dpa",

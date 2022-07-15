@@ -1,6 +1,6 @@
 {
  "actions": [],
- "autoname": "field:com_nombre",
+ "autoname": "field:com_codigo",
  "creation": "2021-07-02 21:08:02.192133",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -16,6 +16,7 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "C\u00f3digo",
+   "reqd": 1,
    "unique": 1
   },
   {
@@ -32,7 +33,7 @@
   }
  ],
  "links": [],
- "modified": "2021-07-29 08:59:16.099532",
+ "modified": "2022-07-14 14:41:33.010872",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_componente",

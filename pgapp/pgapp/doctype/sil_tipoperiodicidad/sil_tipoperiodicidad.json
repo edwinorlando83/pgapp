@@ -15,6 +15,7 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "C\u00f3digo",
+   "reqd": 1,
    "unique": 1
   },
   {
@@ -26,7 +27,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-14 14:29:38.155218",
+ "modified": "2022-07-14 14:43:49.490125",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_tipoperiodicidad",
@@ -46,7 +47,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "tipper_descripcion",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "tipper_descripcion",
  "track_changes": 1
 }

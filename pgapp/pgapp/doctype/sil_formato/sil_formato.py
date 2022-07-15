@@ -4,5 +4,5 @@
 # import frappe
 from frappe.model.document import Document
 
-class sil_formatodeexibicion(Document):
+class sil_formato(Document):
 	pass

@@ -11,6 +11,9 @@ app_color = "grey"
 app_email = "ee"
 app_license = "MIT"
 app_logo_url = "/files/logo.png"
+
+after_install = "pgapp.setup.after_install"
+
 # Includes in <head>
 # ------------------
 

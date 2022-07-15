@@ -4,5 +4,5 @@
 # import frappe
 import unittest
 
-class Testsil_formatodeexibicion(unittest.TestCase):
+class Testsil_formato(unittest.TestCase):
 	pass

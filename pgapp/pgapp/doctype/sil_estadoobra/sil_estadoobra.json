@@ -22,12 +22,13 @@
   {
    "fieldname": "estobr_desc",
    "fieldtype": "Data",
-   "label": "Descripcion"
+   "label": "Descripcion",
+   "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-05 09:48:31.511374",
+ "modified": "2022-07-15 05:08:38.103323",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_estadoobra",
@@ -46,6 +47,8 @@
    "write": 1
   }
  ],
+ "search_fields": "estobr_desc",
  "sort_field": "modified",
- "sort_order": "DESC"
+ "sort_order": "DESC",
+ "title_field": "estobr_desc"
 }

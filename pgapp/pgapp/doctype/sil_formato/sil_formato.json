@@ -22,15 +22,16 @@
   {
    "fieldname": "for_descripcion",
    "fieldtype": "Data",
-   "label": "Dscripcion"
+   "label": "Dscripcion",
+   "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-04 21:57:46.323107",
+ "modified": "2022-07-15 05:13:04.650999",
  "modified_by": "Administrator",
  "module": "pgapp",
- "name": "sil_formatodeexibicion",
+ "name": "sil_formato",
  "owner": "Administrator",
  "permissions": [
   {
@@ -44,8 +45,22 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "COORDINADOR",
+   "share": 1,
+   "write": 1
   }
  ],
+ "search_fields": "for_descripcion",
  "sort_field": "modified",
- "sort_order": "DESC"
+ "sort_order": "DESC",
+ "title_field": "for_descripcion"
 }
