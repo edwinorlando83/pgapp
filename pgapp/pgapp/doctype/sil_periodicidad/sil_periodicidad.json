@@ -24,8 +24,7 @@
   {
    "fieldname": "per_descripcion",
    "fieldtype": "Data",
-   "label": "Descripci\u00f3n",
-   "reqd": 1
+   "label": "Descripci\u00f3n"
   },
   {
    "fieldname": "per_ennumero",
@@ -48,7 +47,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-15 04:37:16.996273",
+ "modified": "2022-07-15 05:37:35.059673",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_periodicidad",
