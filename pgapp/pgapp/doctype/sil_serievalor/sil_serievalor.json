@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_import": 1,
- "autoname": "format:{ind_codigo}-{per_codigo}-{period_codigo}",
+ "autoname": "format:{ind_codigo}-{per_codigo}-{period_codigo}-{ind_dpa}",
  "creation": "2021-07-03 18:07:38.020678",
  "doctype": "DocType",
  "document_type": "Document",
@@ -11,6 +11,8 @@
   "ind_codigo",
   "ind_nombre",
   "per_codigo",
+  "ind_dpa",
+  "dpa_descripcion",
   "ind_geof",
   "period_codigo",
   "serval_meta",
@@ -102,10 +104,22 @@
    "options": "sil_serievalor",
    "print_hide": 1,
    "read_only": 1
+  },
+  {
+   "fieldname": "ind_dpa",
+   "fieldtype": "Data",
+   "label": "IND_DPA",
+   "reqd": 1
+  },
+  {
+   "fieldname": "dpa_descripcion",
+   "fieldtype": "Data",
+   "label": "DPA_DEScripcion",
+   "read_only": 1
   }
  ],
  "links": [],
- "modified": "2022-07-15 08:01:01.680405",
+ "modified": "2022-07-15 13:50:01.879980",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",

@@ -7,5 +7,6 @@ from __future__ import unicode_literals
 from frappe.model.document import Document
 
 class sil_dpa(Document):
-	def before_insert(self):
-		self.dpa_id=	self.dpa_anio + self.dpa_provincia + self.dpa_canton + self.dpa_parroquia
+	pass
+	#def before_insert(self):
+		#self.dpa_id=	self.dpa_anio + "-"+ self.dpa_parroquia

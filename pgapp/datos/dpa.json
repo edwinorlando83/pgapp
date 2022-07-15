@@ -1,0 +1,8338 @@
+[
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10150,
+    "DPA_DESPAR": "CUENCA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10151,
+    "DPA_DESPAR": "BAÑOS"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10152,
+    "DPA_DESPAR": "CUMBE"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10153,
+    "DPA_DESPAR": "CHAUCHA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10154,
+    "DPA_DESPAR": "CHECA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10155,
+    "DPA_DESPAR": "CHIQUINTAD"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10156,
+    "DPA_DESPAR": "LLACAO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10157,
+    "DPA_DESPAR": "MOLLETURO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10158,
+    "DPA_DESPAR": "NULTI"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10159,
+    "DPA_DESPAR": "OCTAVIO CORDERO PALACIOS"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10160,
+    "DPA_DESPAR": "PACCHA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10161,
+    "DPA_DESPAR": "QUINGEO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10162,
+    "DPA_DESPAR": "RICAURTE"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10163,
+    "DPA_DESPAR": "SAN JOAQUÍN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10164,
+    "DPA_DESPAR": "SANTA ANA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10165,
+    "DPA_DESPAR": "SAYAUSÍ"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10166,
+    "DPA_DESPAR": "SIDCAY"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10167,
+    "DPA_DESPAR": "SININCAY"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10168,
+    "DPA_DESPAR": "TARQUI"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10169,
+    "DPA_DESPAR": "TURI"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10170,
+    "DPA_DESPAR": "VALLE"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 101,
+    "DPA_DESCAN": "CUENCA",
+    "DPA_PARROQ": 10171,
+    "DPA_DESPAR": "VICTORIA DEL PORTETE"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 102,
+    "DPA_DESCAN": "GIRÓN",
+    "DPA_PARROQ": 10250,
+    "DPA_DESPAR": "GIRÓN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 102,
+    "DPA_DESCAN": "GIRÓN",
+    "DPA_PARROQ": 10251,
+    "DPA_DESPAR": "LA ASUNCIÓN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 102,
+    "DPA_DESCAN": "GIRÓN",
+    "DPA_PARROQ": 10252,
+    "DPA_DESPAR": "SAN GERARDO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10350,
+    "DPA_DESPAR": "GUALACEO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10352,
+    "DPA_DESPAR": "DANIEL CÓRDOVA TORAL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10353,
+    "DPA_DESPAR": "JADÁN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10354,
+    "DPA_DESPAR": "MARIANO MORENO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10356,
+    "DPA_DESPAR": "REMIGIO CRESPO TORAL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10357,
+    "DPA_DESPAR": "SAN JUAN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10358,
+    "DPA_DESPAR": "ZHIDMAD"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10359,
+    "DPA_DESPAR": "LUIS CORDERO VEGA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 103,
+    "DPA_DESCAN": "GUALACEO",
+    "DPA_PARROQ": 10360,
+    "DPA_DESPAR": "SIMÓN BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 104,
+    "DPA_DESCAN": "NABÓN",
+    "DPA_PARROQ": 10450,
+    "DPA_DESPAR": "NABÓN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 104,
+    "DPA_DESCAN": "NABÓN",
+    "DPA_PARROQ": 10451,
+    "DPA_DESPAR": "COCHAPATA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 104,
+    "DPA_DESCAN": "NABÓN",
+    "DPA_PARROQ": 10452,
+    "DPA_DESPAR": "EL PROGRESO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 104,
+    "DPA_DESCAN": "NABÓN",
+    "DPA_PARROQ": 10453,
+    "DPA_DESPAR": "LAS NIEVES"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10550,
+    "DPA_DESPAR": "PAUTE"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10552,
+    "DPA_DESPAR": "BULÁN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10553,
+    "DPA_DESPAR": "CHICÁN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10554,
+    "DPA_DESPAR": "EL CABO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10556,
+    "DPA_DESPAR": "GUARAINAG"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10559,
+    "DPA_DESPAR": "SAN CRISTÓBAL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10561,
+    "DPA_DESPAR": "TOMEBAMBA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 105,
+    "DPA_DESCAN": "PAUTE",
+    "DPA_PARROQ": 10562,
+    "DPA_DESPAR": "DUG DUG"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 106,
+    "DPA_DESCAN": "PUCARÁ",
+    "DPA_PARROQ": 10650,
+    "DPA_DESPAR": "PUCARÁ"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 106,
+    "DPA_DESCAN": "PUCARÁ",
+    "DPA_PARROQ": 10652,
+    "DPA_DESPAR": "SAN RAFAEL DE SHARUG"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 107,
+    "DPA_DESCAN": "SAN FERNANDO",
+    "DPA_PARROQ": 10750,
+    "DPA_DESPAR": "SAN FERNANDO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 107,
+    "DPA_DESCAN": "SAN FERNANDO",
+    "DPA_PARROQ": 10751,
+    "DPA_DESPAR": "CHUMBLÍN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 108,
+    "DPA_DESCAN": "SANTA ISABEL",
+    "DPA_PARROQ": 10850,
+    "DPA_DESPAR": "SANTA ISABEL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 108,
+    "DPA_DESCAN": "SANTA ISABEL",
+    "DPA_PARROQ": 10851,
+    "DPA_DESPAR": "ABDÓN CALDERÓN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 108,
+    "DPA_DESCAN": "SANTA ISABEL",
+    "DPA_PARROQ": 10852,
+    "DPA_DESPAR": "EL CARMEN DE PIJILÍ"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 108,
+    "DPA_DESCAN": "SANTA ISABEL",
+    "DPA_PARROQ": 10853,
+    "DPA_DESPAR": "SHAGLLI"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 108,
+    "DPA_DESCAN": "SANTA ISABEL",
+    "DPA_PARROQ": 10854,
+    "DPA_DESPAR": "SAN SALVADOR DE CAÑARIBAMBA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 109,
+    "DPA_DESCAN": "SÍGSIG",
+    "DPA_PARROQ": 10950,
+    "DPA_DESPAR": "SÍGSIG"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 109,
+    "DPA_DESCAN": "SÍGSIG",
+    "DPA_PARROQ": 10951,
+    "DPA_DESPAR": "CUCHIL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 109,
+    "DPA_DESCAN": "SÍGSIG",
+    "DPA_PARROQ": 10952,
+    "DPA_DESPAR": "JIMA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 109,
+    "DPA_DESCAN": "SÍGSIG",
+    "DPA_PARROQ": 10953,
+    "DPA_DESPAR": "GÜEL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 109,
+    "DPA_DESCAN": "SÍGSIG",
+    "DPA_PARROQ": 10954,
+    "DPA_DESPAR": "LUDO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 109,
+    "DPA_DESCAN": "SÍGSIG",
+    "DPA_PARROQ": 10955,
+    "DPA_DESPAR": "SAN BARTOLOMÉ"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 109,
+    "DPA_DESCAN": "SÍGSIG",
+    "DPA_PARROQ": 10956,
+    "DPA_DESPAR": "SAN JOSÉ DE RARANGA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 110,
+    "DPA_DESCAN": "OÑA",
+    "DPA_PARROQ": 11050,
+    "DPA_DESPAR": "SAN FELIPE DE OÑA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 110,
+    "DPA_DESCAN": "OÑA",
+    "DPA_PARROQ": 11051,
+    "DPA_DESPAR": "SUSUDEL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 111,
+    "DPA_DESCAN": "CHORDELEG",
+    "DPA_PARROQ": 11150,
+    "DPA_DESPAR": "CHORDELEG"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 111,
+    "DPA_DESCAN": "CHORDELEG",
+    "DPA_PARROQ": 11151,
+    "DPA_DESPAR": "PRINCIPAL"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 111,
+    "DPA_DESCAN": "CHORDELEG",
+    "DPA_PARROQ": 11152,
+    "DPA_DESPAR": "LA UNIÓN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 111,
+    "DPA_DESCAN": "CHORDELEG",
+    "DPA_PARROQ": 11153,
+    "DPA_DESPAR": "LUIS GALARZA ORELLANA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 111,
+    "DPA_DESCAN": "CHORDELEG",
+    "DPA_PARROQ": 11154,
+    "DPA_DESPAR": "SAN MARTÍN DE PUZHIO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 112,
+    "DPA_DESCAN": "EL PAN",
+    "DPA_PARROQ": 11250,
+    "DPA_DESPAR": "EL PAN"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 112,
+    "DPA_DESCAN": "EL PAN",
+    "DPA_PARROQ": 11253,
+    "DPA_DESPAR": "SAN VICENTE"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 113,
+    "DPA_DESCAN": "SEVILLA DE ORO",
+    "DPA_PARROQ": 11350,
+    "DPA_DESPAR": "SEVILLA DE ORO"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 113,
+    "DPA_DESCAN": "SEVILLA DE ORO",
+    "DPA_PARROQ": 11351,
+    "DPA_DESPAR": "AMALUZA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 113,
+    "DPA_DESCAN": "SEVILLA DE ORO",
+    "DPA_PARROQ": 11352,
+    "DPA_DESPAR": "PALMAS"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 114,
+    "DPA_DESCAN": "GUACHAPALA",
+    "DPA_PARROQ": 11450,
+    "DPA_DESPAR": "GUACHAPALA"
+  },
+  {
+    "DPA_PROVIN": 1,
+    "DPA_DESPRO": "AZUAY",
+    "DPA_CANTON": 115,
+    "DPA_DESCAN": "CAMILO PONCE ENRÍQUEZ",
+    "DPA_PARROQ": 11550,
+    "DPA_DESPAR": "CAMILO PONCE ENRÍQUEZ"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20150,
+    "DPA_DESPAR": "GUARANDA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20151,
+    "DPA_DESPAR": "FACUNDO VELA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20153,
+    "DPA_DESPAR": "JULIO E. MORENO"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20155,
+    "DPA_DESPAR": "SALINAS"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20156,
+    "DPA_DESPAR": "SAN LORENZO"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20157,
+    "DPA_DESPAR": "SAN SIMÓN"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20158,
+    "DPA_DESPAR": "SANTA FE"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20159,
+    "DPA_DESPAR": "SIMIÁTUG"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 201,
+    "DPA_DESCAN": "GUARANDA",
+    "DPA_PARROQ": 20160,
+    "DPA_DESPAR": "SAN LUIS DE PAMBIL"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 202,
+    "DPA_DESCAN": "CHILLANES",
+    "DPA_PARROQ": 20250,
+    "DPA_DESPAR": "CHILLANES"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 202,
+    "DPA_DESCAN": "CHILLANES",
+    "DPA_PARROQ": 20251,
+    "DPA_DESPAR": "SAN JOSÉ DEL TAMBO"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 203,
+    "DPA_DESCAN": "CHIMBO",
+    "DPA_PARROQ": 20350,
+    "DPA_DESPAR": "SAN JOSÉ DE CHIMBO"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 203,
+    "DPA_DESCAN": "CHIMBO",
+    "DPA_PARROQ": 20351,
+    "DPA_DESPAR": "ASUNCIÓN"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 203,
+    "DPA_DESCAN": "CHIMBO",
+    "DPA_PARROQ": 20353,
+    "DPA_DESPAR": "LA MAGDALENA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 203,
+    "DPA_DESCAN": "CHIMBO",
+    "DPA_PARROQ": 20354,
+    "DPA_DESPAR": "SAN SEBASTIÁN"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 203,
+    "DPA_DESCAN": "CHIMBO",
+    "DPA_PARROQ": 20355,
+    "DPA_DESPAR": "TELIMBELA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 204,
+    "DPA_DESCAN": "ECHEANDÍA",
+    "DPA_PARROQ": 20450,
+    "DPA_DESPAR": "ECHEANDÍA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 205,
+    "DPA_DESCAN": "SAN MIGUEL",
+    "DPA_PARROQ": 20550,
+    "DPA_DESPAR": "SAN MIGUEL"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 205,
+    "DPA_DESCAN": "SAN MIGUEL",
+    "DPA_PARROQ": 20551,
+    "DPA_DESPAR": "BALSAPAMBA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 205,
+    "DPA_DESCAN": "SAN MIGUEL",
+    "DPA_PARROQ": 20552,
+    "DPA_DESPAR": "BILOVÁN"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 205,
+    "DPA_DESCAN": "SAN MIGUEL",
+    "DPA_PARROQ": 20553,
+    "DPA_DESPAR": "RÉGULO DE MORA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 205,
+    "DPA_DESCAN": "SAN MIGUEL",
+    "DPA_PARROQ": 20554,
+    "DPA_DESPAR": "SAN PABLO"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 205,
+    "DPA_DESCAN": "SAN MIGUEL",
+    "DPA_PARROQ": 20555,
+    "DPA_DESPAR": "SANTIAGO"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 205,
+    "DPA_DESCAN": "SAN MIGUEL",
+    "DPA_PARROQ": 20556,
+    "DPA_DESPAR": "SAN VICENTE"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 206,
+    "DPA_DESCAN": "CALUMA",
+    "DPA_PARROQ": 20650,
+    "DPA_DESPAR": "CALUMA"
+  },
+  {
+    "DPA_PROVIN": 2,
+    "DPA_DESPRO": "BOLÍVAR",
+    "DPA_CANTON": 207,
+    "DPA_DESCAN": "LAS NAVES",
+    "DPA_PARROQ": 20750,
+    "DPA_DESPAR": "LAS NAVES"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30150,
+    "DPA_DESPAR": "AZOGUES"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30151,
+    "DPA_DESPAR": "COJITAMBO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30153,
+    "DPA_DESPAR": "GUAPÁN"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30154,
+    "DPA_DESPAR": "JAVIER LOYOLA"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30155,
+    "DPA_DESPAR": "LUIS CORDERO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30156,
+    "DPA_DESPAR": "PINDILIG"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30157,
+    "DPA_DESPAR": "RIVERA"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30158,
+    "DPA_DESPAR": "SAN MIGUEL"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 301,
+    "DPA_DESCAN": "AZOGUES",
+    "DPA_PARROQ": 30160,
+    "DPA_DESPAR": "TADAY"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 302,
+    "DPA_DESCAN": "BIBLIÁN",
+    "DPA_PARROQ": 30250,
+    "DPA_DESPAR": "BIBLIÁN"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 302,
+    "DPA_DESCAN": "BIBLIÁN",
+    "DPA_PARROQ": 30251,
+    "DPA_DESPAR": "NAZÓN"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 302,
+    "DPA_DESCAN": "BIBLIÁN",
+    "DPA_PARROQ": 30252,
+    "DPA_DESPAR": "SAN FRANCISCO DE SAGEO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 302,
+    "DPA_DESCAN": "BIBLIÁN",
+    "DPA_PARROQ": 30253,
+    "DPA_DESPAR": "TURUPAMBA"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 302,
+    "DPA_DESCAN": "BIBLIÁN",
+    "DPA_PARROQ": 30254,
+    "DPA_DESPAR": "JERUSALÉN"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30350,
+    "DPA_DESPAR": "CAÑAR"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30351,
+    "DPA_DESPAR": "CHONTAMARCA"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30352,
+    "DPA_DESPAR": "CHOROCOPTE"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30353,
+    "DPA_DESPAR": "GENERAL MORALES"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30354,
+    "DPA_DESPAR": "GUALLETURO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30355,
+    "DPA_DESPAR": "HONORATO VÁSQUEZ"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30356,
+    "DPA_DESPAR": "INGAPIRCA"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30357,
+    "DPA_DESPAR": "JUNCAL"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30358,
+    "DPA_DESPAR": "SAN ANTONIO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30361,
+    "DPA_DESPAR": "ZHUD"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30362,
+    "DPA_DESPAR": "VENTURA"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 303,
+    "DPA_DESCAN": "CAÑAR",
+    "DPA_PARROQ": 30363,
+    "DPA_DESPAR": "DUCUR"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 304,
+    "DPA_DESCAN": "LA TRONCAL",
+    "DPA_PARROQ": 30450,
+    "DPA_DESPAR": "LA TRONCAL"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 304,
+    "DPA_DESCAN": "LA TRONCAL",
+    "DPA_PARROQ": 30451,
+    "DPA_DESPAR": "MANUEL J. CALLE"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 304,
+    "DPA_DESCAN": "LA TRONCAL",
+    "DPA_PARROQ": 30452,
+    "DPA_DESPAR": "PANCHO NEGRO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 305,
+    "DPA_DESCAN": "EL TAMBO",
+    "DPA_PARROQ": 30550,
+    "DPA_DESPAR": "EL TAMBO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 306,
+    "DPA_DESCAN": "DÉLEG",
+    "DPA_PARROQ": 30650,
+    "DPA_DESPAR": "DÉLEG"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 306,
+    "DPA_DESCAN": "DÉLEG",
+    "DPA_PARROQ": 30651,
+    "DPA_DESPAR": "SOLANO"
+  },
+  {
+    "DPA_PROVIN": 3,
+    "DPA_DESPRO": "CAÑAR",
+    "DPA_CANTON": 307,
+    "DPA_DESCAN": "SUSCAL",
+    "DPA_PARROQ": 30750,
+    "DPA_DESPAR": "SUSCAL"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40150,
+    "DPA_DESPAR": "TULCÁN"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40151,
+    "DPA_DESPAR": "EL CARMELO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40153,
+    "DPA_DESPAR": "JULIO ANDRADE"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40154,
+    "DPA_DESPAR": "MALDONADO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40155,
+    "DPA_DESPAR": "PIOTER"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40156,
+    "DPA_DESPAR": "TOBAR DONOSO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40157,
+    "DPA_DESPAR": "TUFIÑO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40158,
+    "DPA_DESPAR": "URBINA"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40159,
+    "DPA_DESPAR": "EL CHICAL"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 401,
+    "DPA_DESCAN": "TULCÁN",
+    "DPA_PARROQ": 40161,
+    "DPA_DESPAR": "SANTA MARTHA DE CUBA"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 402,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 40250,
+    "DPA_DESPAR": "BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 402,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 40251,
+    "DPA_DESPAR": "GARCÍA MORENO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 402,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 40252,
+    "DPA_DESPAR": "LOS ANDES"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 402,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 40253,
+    "DPA_DESPAR": "MONTE OLIVO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 402,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 40254,
+    "DPA_DESPAR": "SAN VICENTE DE PUSIR"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 402,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 40255,
+    "DPA_DESPAR": "SAN RAFAEL"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 403,
+    "DPA_DESCAN": "ESPEJO",
+    "DPA_PARROQ": 40350,
+    "DPA_DESPAR": "EL ÁNGEL"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 403,
+    "DPA_DESCAN": "ESPEJO",
+    "DPA_PARROQ": 40351,
+    "DPA_DESPAR": "EL GOALTAL"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 403,
+    "DPA_DESCAN": "ESPEJO",
+    "DPA_PARROQ": 40352,
+    "DPA_DESPAR": "LA LIBERTAD"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 403,
+    "DPA_DESCAN": "ESPEJO",
+    "DPA_PARROQ": 40353,
+    "DPA_DESPAR": "SAN ISIDRO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 404,
+    "DPA_DESCAN": "MIRA",
+    "DPA_PARROQ": 40450,
+    "DPA_DESPAR": "MIRA"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 404,
+    "DPA_DESCAN": "MIRA",
+    "DPA_PARROQ": 40451,
+    "DPA_DESPAR": "CONCEPCIÓN"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 404,
+    "DPA_DESCAN": "MIRA",
+    "DPA_PARROQ": 40452,
+    "DPA_DESPAR": "JIJÓN Y CAAMAÑO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 404,
+    "DPA_DESCAN": "MIRA",
+    "DPA_PARROQ": 40453,
+    "DPA_DESPAR": "JUAN MONTALVO"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 405,
+    "DPA_DESCAN": "MONTÚFAR",
+    "DPA_PARROQ": 40550,
+    "DPA_DESPAR": "SAN GABRIEL"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 405,
+    "DPA_DESCAN": "MONTÚFAR",
+    "DPA_PARROQ": 40551,
+    "DPA_DESPAR": "CRISTÓBAL COLÓN"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 405,
+    "DPA_DESCAN": "MONTÚFAR",
+    "DPA_PARROQ": 40552,
+    "DPA_DESPAR": "CHITÁN DE NAVARRETE"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 405,
+    "DPA_DESCAN": "MONTÚFAR",
+    "DPA_PARROQ": 40553,
+    "DPA_DESPAR": "FERNÁNDEZ SALVADOR"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 405,
+    "DPA_DESCAN": "MONTÚFAR",
+    "DPA_PARROQ": 40554,
+    "DPA_DESPAR": "LA PAZ"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 405,
+    "DPA_DESCAN": "MONTÚFAR",
+    "DPA_PARROQ": 40555,
+    "DPA_DESPAR": "PIARTAL"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 406,
+    "DPA_DESCAN": "SAN PEDRO DE HUACA",
+    "DPA_PARROQ": 40650,
+    "DPA_DESPAR": "HUACA"
+  },
+  {
+    "DPA_PROVIN": 4,
+    "DPA_DESPRO": "CARCHI",
+    "DPA_CANTON": 406,
+    "DPA_DESCAN": "SAN PEDRO DE HUACA",
+    "DPA_PARROQ": 40651,
+    "DPA_DESPAR": "MARISCAL SUCRE"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50150,
+    "DPA_DESPAR": "LATACUNGA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50151,
+    "DPA_DESPAR": "ALÁQUEZ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50152,
+    "DPA_DESPAR": "BELISARIO QUEVEDO"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50153,
+    "DPA_DESPAR": "GUAYTACAMA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50154,
+    "DPA_DESPAR": "JOSEGUANGO BAJO"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50156,
+    "DPA_DESPAR": "MULALÓ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50157,
+    "DPA_DESPAR": "ONCE DE NOVIEMBRE"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50158,
+    "DPA_DESPAR": "POALÓ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50159,
+    "DPA_DESPAR": "SAN JUAN DE PASTOCALLE"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50161,
+    "DPA_DESPAR": "TANICUCHÍ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 501,
+    "DPA_DESCAN": "LATACUNGA",
+    "DPA_PARROQ": 50162,
+    "DPA_DESPAR": "TOACASO"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 502,
+    "DPA_DESCAN": "LA MANÁ",
+    "DPA_PARROQ": 50250,
+    "DPA_DESPAR": "LA MANÁ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 502,
+    "DPA_DESCAN": "LA MANÁ",
+    "DPA_PARROQ": 50251,
+    "DPA_DESPAR": "GUASAGANDA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 502,
+    "DPA_DESCAN": "LA MANÁ",
+    "DPA_PARROQ": 50252,
+    "DPA_DESPAR": "PUCAYACU"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 503,
+    "DPA_DESCAN": "PANGUA",
+    "DPA_PARROQ": 50350,
+    "DPA_DESPAR": "EL CORAZÓN"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 503,
+    "DPA_DESCAN": "PANGUA",
+    "DPA_PARROQ": 50351,
+    "DPA_DESPAR": "MORASPUNGO"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 503,
+    "DPA_DESCAN": "PANGUA",
+    "DPA_PARROQ": 50352,
+    "DPA_DESPAR": "PINLLOPATA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 503,
+    "DPA_DESCAN": "PANGUA",
+    "DPA_PARROQ": 50353,
+    "DPA_DESPAR": "RAMÓN CAMPAÑA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 504,
+    "DPA_DESCAN": "PUJILÍ",
+    "DPA_PARROQ": 50450,
+    "DPA_DESPAR": "PUJILÍ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 504,
+    "DPA_DESCAN": "PUJILÍ",
+    "DPA_PARROQ": 50451,
+    "DPA_DESPAR": "ANGAMARCA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 504,
+    "DPA_DESCAN": "PUJILÍ",
+    "DPA_PARROQ": 50453,
+    "DPA_DESPAR": "GUANGAJE"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 504,
+    "DPA_DESCAN": "PUJILÍ",
+    "DPA_PARROQ": 50455,
+    "DPA_DESPAR": "LA VICTORIA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 504,
+    "DPA_DESCAN": "PUJILÍ",
+    "DPA_PARROQ": 50456,
+    "DPA_DESPAR": "PILALÓ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 504,
+    "DPA_DESCAN": "PUJILÍ",
+    "DPA_PARROQ": 50457,
+    "DPA_DESPAR": "TINGO"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 504,
+    "DPA_DESCAN": "PUJILÍ",
+    "DPA_PARROQ": 50458,
+    "DPA_DESPAR": "ZUMBAHUA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 505,
+    "DPA_DESCAN": "SALCEDO",
+    "DPA_PARROQ": 50550,
+    "DPA_DESPAR": "SAN MIGUEL"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 505,
+    "DPA_DESCAN": "SALCEDO",
+    "DPA_PARROQ": 50551,
+    "DPA_DESPAR": "ANTONIO JOSÉ HOLGUÍN"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 505,
+    "DPA_DESCAN": "SALCEDO",
+    "DPA_PARROQ": 50552,
+    "DPA_DESPAR": "CUSUBAMBA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 505,
+    "DPA_DESCAN": "SALCEDO",
+    "DPA_PARROQ": 50553,
+    "DPA_DESPAR": "MULALILLO"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 505,
+    "DPA_DESCAN": "SALCEDO",
+    "DPA_PARROQ": 50554,
+    "DPA_DESPAR": "MULLIQUINDIL"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 505,
+    "DPA_DESCAN": "SALCEDO",
+    "DPA_PARROQ": 50555,
+    "DPA_DESPAR": "PANSALEO"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 506,
+    "DPA_DESCAN": "SAQUISILÍ",
+    "DPA_PARROQ": 50650,
+    "DPA_DESPAR": "SAQUISILÍ"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 506,
+    "DPA_DESCAN": "SAQUISILÍ",
+    "DPA_PARROQ": 50651,
+    "DPA_DESPAR": "CANCHAGUA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 506,
+    "DPA_DESCAN": "SAQUISILÍ",
+    "DPA_PARROQ": 50652,
+    "DPA_DESPAR": "CHANTILÍN"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 506,
+    "DPA_DESCAN": "SAQUISILÍ",
+    "DPA_PARROQ": 50653,
+    "DPA_DESPAR": "COCHAPAMBA"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 507,
+    "DPA_DESCAN": "SIGCHOS",
+    "DPA_PARROQ": 50750,
+    "DPA_DESPAR": "SIGCHOS"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 507,
+    "DPA_DESCAN": "SIGCHOS",
+    "DPA_PARROQ": 50751,
+    "DPA_DESPAR": "CHUGCHILLÁN"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 507,
+    "DPA_DESCAN": "SIGCHOS",
+    "DPA_PARROQ": 50752,
+    "DPA_DESPAR": "ISINLIVI"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 507,
+    "DPA_DESCAN": "SIGCHOS",
+    "DPA_PARROQ": 50753,
+    "DPA_DESPAR": "LAS PAMPAS"
+  },
+  {
+    "DPA_PROVIN": 5,
+    "DPA_DESPRO": "COTOPAXI",
+    "DPA_CANTON": 507,
+    "DPA_DESCAN": "SIGCHOS",
+    "DPA_PARROQ": 50754,
+    "DPA_DESPAR": "PALO QUEMADO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60150,
+    "DPA_DESPAR": "RIOBAMBA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60151,
+    "DPA_DESPAR": "CACHA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60152,
+    "DPA_DESPAR": "CALPI"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60153,
+    "DPA_DESPAR": "CUBIJÍES"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60154,
+    "DPA_DESPAR": "FLORES"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60155,
+    "DPA_DESPAR": "LICÁN"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60156,
+    "DPA_DESPAR": "LICTO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60157,
+    "DPA_DESPAR": "PUNGALÁ"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60158,
+    "DPA_DESPAR": "PUNÍN"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60159,
+    "DPA_DESPAR": "QUIMIAG"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60160,
+    "DPA_DESPAR": "SAN JUAN"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 601,
+    "DPA_DESCAN": "RIOBAMBA",
+    "DPA_PARROQ": 60161,
+    "DPA_DESPAR": "SAN LUIS"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60250,
+    "DPA_DESPAR": "ALAUSÍ"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60251,
+    "DPA_DESPAR": "ACHUPALLAS"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60253,
+    "DPA_DESPAR": "GUASUNTOS"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60254,
+    "DPA_DESPAR": "HUIGRA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60255,
+    "DPA_DESPAR": "MULTITUD"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60256,
+    "DPA_DESPAR": "PISTISHI"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60257,
+    "DPA_DESPAR": "PUMALLACTA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60258,
+    "DPA_DESPAR": "SEVILLA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60259,
+    "DPA_DESPAR": "SIBAMBE"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 602,
+    "DPA_DESCAN": "ALAUSÍ",
+    "DPA_PARROQ": 60260,
+    "DPA_DESPAR": "TIXÁN"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 603,
+    "DPA_DESCAN": "COLTA",
+    "DPA_PARROQ": 60350,
+    "DPA_DESPAR": "VILLA LA UNIÓN"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 603,
+    "DPA_DESCAN": "COLTA",
+    "DPA_PARROQ": 60351,
+    "DPA_DESPAR": "CAÑI"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 603,
+    "DPA_DESCAN": "COLTA",
+    "DPA_PARROQ": 60352,
+    "DPA_DESPAR": "COLUMBE"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 603,
+    "DPA_DESCAN": "COLTA",
+    "DPA_PARROQ": 60353,
+    "DPA_DESPAR": "JUAN DE VELASCO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 603,
+    "DPA_DESCAN": "COLTA",
+    "DPA_PARROQ": 60354,
+    "DPA_DESPAR": "SANTIAGO DE QUITO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 604,
+    "DPA_DESCAN": "CHAMBO",
+    "DPA_PARROQ": 60450,
+    "DPA_DESPAR": "CHAMBO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 605,
+    "DPA_DESCAN": "CHUNCHI",
+    "DPA_PARROQ": 60550,
+    "DPA_DESPAR": "CHUNCHI"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 605,
+    "DPA_DESCAN": "CHUNCHI",
+    "DPA_PARROQ": 60551,
+    "DPA_DESPAR": "CAPZOL"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 605,
+    "DPA_DESCAN": "CHUNCHI",
+    "DPA_PARROQ": 60552,
+    "DPA_DESPAR": "COMPUD"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 605,
+    "DPA_DESCAN": "CHUNCHI",
+    "DPA_PARROQ": 60553,
+    "DPA_DESPAR": "GONZOL"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 605,
+    "DPA_DESCAN": "CHUNCHI",
+    "DPA_PARROQ": 60554,
+    "DPA_DESPAR": "LLAGOS"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 606,
+    "DPA_DESCAN": "GUAMOTE",
+    "DPA_PARROQ": 60650,
+    "DPA_DESPAR": "GUAMOTE"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 606,
+    "DPA_DESCAN": "GUAMOTE",
+    "DPA_PARROQ": 60651,
+    "DPA_DESPAR": "CEBADAS"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 606,
+    "DPA_DESCAN": "GUAMOTE",
+    "DPA_PARROQ": 60652,
+    "DPA_DESPAR": "PALMIRA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60750,
+    "DPA_DESPAR": "GUANO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60751,
+    "DPA_DESPAR": "GUANANDO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60752,
+    "DPA_DESPAR": "ILAPO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60753,
+    "DPA_DESPAR": "LA PROVIDENCIA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60754,
+    "DPA_DESPAR": "SAN ANDRÉS"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60755,
+    "DPA_DESPAR": "SAN GERARDO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60756,
+    "DPA_DESPAR": "SAN ISIDRO DE PATULÚ"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60757,
+    "DPA_DESPAR": "SAN JOSÉ DEL CHAZO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60758,
+    "DPA_DESPAR": "SANTA FÉ DE GALÁN"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 607,
+    "DPA_DESCAN": "GUANO",
+    "DPA_PARROQ": 60759,
+    "DPA_DESPAR": "VALPARAISO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 608,
+    "DPA_DESCAN": "PALLATANGA",
+    "DPA_PARROQ": 60850,
+    "DPA_DESPAR": "PALLATANGA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 609,
+    "DPA_DESCAN": "PENIPE",
+    "DPA_PARROQ": 60950,
+    "DPA_DESPAR": "PENIPE"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 609,
+    "DPA_DESCAN": "PENIPE",
+    "DPA_PARROQ": 60951,
+    "DPA_DESPAR": "EL ALTAR"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 609,
+    "DPA_DESCAN": "PENIPE",
+    "DPA_PARROQ": 60952,
+    "DPA_DESPAR": "MATUS"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 609,
+    "DPA_DESCAN": "PENIPE",
+    "DPA_PARROQ": 60953,
+    "DPA_DESPAR": "PUELA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 609,
+    "DPA_DESCAN": "PENIPE",
+    "DPA_PARROQ": 60954,
+    "DPA_DESPAR": "SAN ANTONIO DE BAYUSHIG"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 609,
+    "DPA_DESCAN": "PENIPE",
+    "DPA_PARROQ": 60955,
+    "DPA_DESPAR": "LA CANDELARIA"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 609,
+    "DPA_DESCAN": "PENIPE",
+    "DPA_PARROQ": 60956,
+    "DPA_DESPAR": "BILBAO"
+  },
+  {
+    "DPA_PROVIN": 6,
+    "DPA_DESPRO": "CHIMBORAZO",
+    "DPA_CANTON": 610,
+    "DPA_DESCAN": "CUMANDÁ",
+    "DPA_PARROQ": 61050,
+    "DPA_DESPAR": "CUMANDÁ"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 701,
+    "DPA_DESCAN": "MACHALA",
+    "DPA_PARROQ": 70150,
+    "DPA_DESPAR": "MACHALA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 701,
+    "DPA_DESCAN": "MACHALA",
+    "DPA_PARROQ": 70152,
+    "DPA_DESPAR": "EL RETIRO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 702,
+    "DPA_DESCAN": "ARENILLAS",
+    "DPA_PARROQ": 70250,
+    "DPA_DESPAR": "ARENILLAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 702,
+    "DPA_DESCAN": "ARENILLAS",
+    "DPA_PARROQ": 70251,
+    "DPA_DESPAR": "CHACRAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 702,
+    "DPA_DESCAN": "ARENILLAS",
+    "DPA_PARROQ": 70254,
+    "DPA_DESPAR": "PALMALES"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 702,
+    "DPA_DESCAN": "ARENILLAS",
+    "DPA_PARROQ": 70255,
+    "DPA_DESPAR": "CARCABÓN"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 702,
+    "DPA_DESCAN": "ARENILLAS",
+    "DPA_PARROQ": 70256,
+    "DPA_DESPAR": "LA CUCA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 703,
+    "DPA_DESCAN": "ATAHUALPA",
+    "DPA_PARROQ": 70350,
+    "DPA_DESPAR": "PACCHA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 703,
+    "DPA_DESCAN": "ATAHUALPA",
+    "DPA_PARROQ": 70351,
+    "DPA_DESPAR": "AYAPAMBA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 703,
+    "DPA_DESCAN": "ATAHUALPA",
+    "DPA_PARROQ": 70352,
+    "DPA_DESPAR": "CORDONCILLO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 703,
+    "DPA_DESCAN": "ATAHUALPA",
+    "DPA_PARROQ": 70353,
+    "DPA_DESPAR": "MILAGRO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 703,
+    "DPA_DESCAN": "ATAHUALPA",
+    "DPA_PARROQ": 70354,
+    "DPA_DESPAR": "SAN JOSÉ"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 703,
+    "DPA_DESCAN": "ATAHUALPA",
+    "DPA_PARROQ": 70355,
+    "DPA_DESPAR": "SAN JUAN DE CERRO AZUL"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 704,
+    "DPA_DESCAN": "BALSAS",
+    "DPA_PARROQ": 70450,
+    "DPA_DESPAR": "BALSAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 704,
+    "DPA_DESCAN": "BALSAS",
+    "DPA_PARROQ": 70451,
+    "DPA_DESPAR": "BELLAMARÍA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 705,
+    "DPA_DESCAN": "CHILLA",
+    "DPA_PARROQ": 70550,
+    "DPA_DESPAR": "CHILLA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 706,
+    "DPA_DESCAN": "EL GUABO",
+    "DPA_PARROQ": 70650,
+    "DPA_DESPAR": "EL GUABO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 706,
+    "DPA_DESCAN": "EL GUABO",
+    "DPA_PARROQ": 70651,
+    "DPA_DESPAR": "BARBONES"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 706,
+    "DPA_DESCAN": "EL GUABO",
+    "DPA_PARROQ": 70652,
+    "DPA_DESPAR": "LA IBERIA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 706,
+    "DPA_DESCAN": "EL GUABO",
+    "DPA_PARROQ": 70653,
+    "DPA_DESPAR": "TENDALES"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 706,
+    "DPA_DESCAN": "EL GUABO",
+    "DPA_PARROQ": 70654,
+    "DPA_DESPAR": "RÍO BONITO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 707,
+    "DPA_DESCAN": "HUAQUILLAS",
+    "DPA_PARROQ": 70750,
+    "DPA_DESPAR": "HUAQUILLAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 708,
+    "DPA_DESCAN": "MARCABELÍ",
+    "DPA_PARROQ": 70850,
+    "DPA_DESPAR": "MARCABELÍ"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 708,
+    "DPA_DESCAN": "MARCABELÍ",
+    "DPA_PARROQ": 70851,
+    "DPA_DESPAR": "EL INGENIO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 709,
+    "DPA_DESCAN": "PASAJE",
+    "DPA_PARROQ": 70950,
+    "DPA_DESPAR": "PASAJE"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 709,
+    "DPA_DESCAN": "PASAJE",
+    "DPA_PARROQ": 70951,
+    "DPA_DESPAR": "BUENAVISTA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 709,
+    "DPA_DESCAN": "PASAJE",
+    "DPA_PARROQ": 70952,
+    "DPA_DESPAR": "CASACAY"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 709,
+    "DPA_DESCAN": "PASAJE",
+    "DPA_PARROQ": 70953,
+    "DPA_DESPAR": "LA PEAÑA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 709,
+    "DPA_DESCAN": "PASAJE",
+    "DPA_PARROQ": 70954,
+    "DPA_DESPAR": "PROGRESO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 709,
+    "DPA_DESCAN": "PASAJE",
+    "DPA_PARROQ": 70955,
+    "DPA_DESPAR": "UZHCURRUMI"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 709,
+    "DPA_DESCAN": "PASAJE",
+    "DPA_PARROQ": 70956,
+    "DPA_DESPAR": "CAÑAQUEMADA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 710,
+    "DPA_DESCAN": "PIÑAS",
+    "DPA_PARROQ": 71050,
+    "DPA_DESPAR": "PIÑAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 710,
+    "DPA_DESCAN": "PIÑAS",
+    "DPA_PARROQ": 71051,
+    "DPA_DESPAR": "CAPIRO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 710,
+    "DPA_DESCAN": "PIÑAS",
+    "DPA_PARROQ": 71052,
+    "DPA_DESPAR": "LA BOCANA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 710,
+    "DPA_DESCAN": "PIÑAS",
+    "DPA_PARROQ": 71053,
+    "DPA_DESPAR": "MOROMORO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 710,
+    "DPA_DESCAN": "PIÑAS",
+    "DPA_PARROQ": 71054,
+    "DPA_DESPAR": "PIEDRAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 710,
+    "DPA_DESCAN": "PIÑAS",
+    "DPA_PARROQ": 71055,
+    "DPA_DESPAR": "SAN ROQUE"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 710,
+    "DPA_DESCAN": "PIÑAS",
+    "DPA_PARROQ": 71056,
+    "DPA_DESPAR": "SARACAY"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 711,
+    "DPA_DESCAN": "PORTOVELO",
+    "DPA_PARROQ": 71150,
+    "DPA_DESPAR": "PORTOVELO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 711,
+    "DPA_DESCAN": "PORTOVELO",
+    "DPA_PARROQ": 71151,
+    "DPA_DESPAR": "CURTINCAPA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 711,
+    "DPA_DESCAN": "PORTOVELO",
+    "DPA_PARROQ": 71152,
+    "DPA_DESPAR": "MORALES"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 711,
+    "DPA_DESCAN": "PORTOVELO",
+    "DPA_PARROQ": 71153,
+    "DPA_DESPAR": "SALATÍ"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71250,
+    "DPA_DESPAR": "SANTA ROSA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71251,
+    "DPA_DESPAR": "BELLAVISTA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71252,
+    "DPA_DESPAR": "JAMBELÍ"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71253,
+    "DPA_DESPAR": "LA AVANZADA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71254,
+    "DPA_DESPAR": "SAN ANTONIO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71255,
+    "DPA_DESPAR": "TORATA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71256,
+    "DPA_DESPAR": "VICTORIA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 712,
+    "DPA_DESCAN": "SANTA ROSA",
+    "DPA_PARROQ": 71257,
+    "DPA_DESPAR": "BELLAMARÍA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71350,
+    "DPA_DESPAR": "ZARUMA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71351,
+    "DPA_DESPAR": "ABAÑÍN"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71352,
+    "DPA_DESPAR": "ARCAPAMBA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71353,
+    "DPA_DESPAR": "GUANAZÁN"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71354,
+    "DPA_DESPAR": "GUIZHAGUIÑA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71355,
+    "DPA_DESPAR": "HUERTAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71356,
+    "DPA_DESPAR": "MALVAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71357,
+    "DPA_DESPAR": "MULUNCAY GRANDE"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71358,
+    "DPA_DESPAR": "SINSAO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 713,
+    "DPA_DESCAN": "ZARUMA",
+    "DPA_PARROQ": 71359,
+    "DPA_DESPAR": "SALVIAS"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 714,
+    "DPA_DESCAN": "LAS LAJAS",
+    "DPA_PARROQ": 71450,
+    "DPA_DESPAR": "LA VICTORIA"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 714,
+    "DPA_DESCAN": "LAS LAJAS",
+    "DPA_PARROQ": 71451,
+    "DPA_DESPAR": "LA LIBERTAD"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 714,
+    "DPA_DESCAN": "LAS LAJAS",
+    "DPA_PARROQ": 71452,
+    "DPA_DESPAR": "EL PARAÍSO"
+  },
+  {
+    "DPA_PROVIN": 7,
+    "DPA_DESPRO": "EL ORO",
+    "DPA_CANTON": 714,
+    "DPA_DESCAN": "LAS LAJAS",
+    "DPA_PARROQ": 71453,
+    "DPA_DESPAR": "SAN ISIDRO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80150,
+    "DPA_DESPAR": "ESMERALDAS"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80152,
+    "DPA_DESPAR": "CAMARONES"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80153,
+    "DPA_DESPAR": "CORONEL CARLOS CONCHA TORRES"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80154,
+    "DPA_DESPAR": "CHINCA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80159,
+    "DPA_DESPAR": "MAJUA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80163,
+    "DPA_DESPAR": "SAN MATEO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80165,
+    "DPA_DESPAR": "TABIAZO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80166,
+    "DPA_DESPAR": "TACHINA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 801,
+    "DPA_DESCAN": "ESMERALDAS",
+    "DPA_PARROQ": 80168,
+    "DPA_DESPAR": "VUELTA LARGA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80250,
+    "DPA_DESPAR": "VALDEZ"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80251,
+    "DPA_DESPAR": "ANCHAYACU"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80252,
+    "DPA_DESPAR": "ATAHUALPA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80253,
+    "DPA_DESPAR": "BORBÓN"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80254,
+    "DPA_DESPAR": "LA TOLA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80255,
+    "DPA_DESPAR": "LUIS VARGAS TORRES"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80256,
+    "DPA_DESPAR": "MALDONADO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80257,
+    "DPA_DESPAR": "PAMPANAL DE BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80258,
+    "DPA_DESPAR": "SAN FRANCISCO DE ONZOLE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80259,
+    "DPA_DESPAR": "SANTO DOMINGO DE ONZOLE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80260,
+    "DPA_DESPAR": "SELVA ALEGRE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80261,
+    "DPA_DESPAR": "TELEMBÍ"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80262,
+    "DPA_DESPAR": "COLÓN ELOY DEL MARÍA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80263,
+    "DPA_DESPAR": "SAN JOSÉ DE CAYAPAS"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80264,
+    "DPA_DESPAR": "TIMBIRÉ"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 802,
+    "DPA_DESCAN": "ELOY ALFARO",
+    "DPA_PARROQ": 80265,
+    "DPA_DESPAR": "SANTA LUCÍA DE LAS PEÑAS"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80350,
+    "DPA_DESPAR": "MUISNE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80351,
+    "DPA_DESPAR": "BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80352,
+    "DPA_DESPAR": "DAULE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80353,
+    "DPA_DESPAR": "GALERA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80354,
+    "DPA_DESPAR": "QUINGUE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80355,
+    "DPA_DESPAR": "SÁLIMA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80356,
+    "DPA_DESPAR": "SAN FRANCISCO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80357,
+    "DPA_DESPAR": "SAN GREGORIO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 803,
+    "DPA_DESCAN": "MUISNE",
+    "DPA_PARROQ": 80358,
+    "DPA_DESPAR": "SAN JOSÉ DE CHAMANGA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 804,
+    "DPA_DESCAN": "QUININDÉ",
+    "DPA_PARROQ": 80450,
+    "DPA_DESPAR": "ROSA ZÁRATE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 804,
+    "DPA_DESCAN": "QUININDÉ",
+    "DPA_PARROQ": 80451,
+    "DPA_DESPAR": "CUBE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 804,
+    "DPA_DESCAN": "QUININDÉ",
+    "DPA_PARROQ": 80452,
+    "DPA_DESPAR": "CHURA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 804,
+    "DPA_DESCAN": "QUININDÉ",
+    "DPA_PARROQ": 80453,
+    "DPA_DESPAR": "MALIMPIA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 804,
+    "DPA_DESCAN": "QUININDÉ",
+    "DPA_PARROQ": 80454,
+    "DPA_DESPAR": "VICHE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 804,
+    "DPA_DESCAN": "QUININDÉ",
+    "DPA_PARROQ": 80455,
+    "DPA_DESPAR": "LA UNIÓN"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80550,
+    "DPA_DESPAR": "SAN LORENZO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80551,
+    "DPA_DESPAR": "ALTO TAMBO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80552,
+    "DPA_DESPAR": "ANCÓN"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80553,
+    "DPA_DESPAR": "CALDERÓN"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80554,
+    "DPA_DESPAR": "CARONDELET"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80555,
+    "DPA_DESPAR": "5 DE JUNIO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80556,
+    "DPA_DESPAR": "CONCEPCIÓN"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80557,
+    "DPA_DESPAR": "MATAJE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80558,
+    "DPA_DESPAR": "SAN JAVIER DE CACHAVÍ"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80559,
+    "DPA_DESPAR": "SANTA RITA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80560,
+    "DPA_DESPAR": "TAMBILLO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80561,
+    "DPA_DESPAR": "TULULBÍ"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 805,
+    "DPA_DESCAN": "SAN LORENZO",
+    "DPA_PARROQ": 80562,
+    "DPA_DESPAR": "URBINA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 806,
+    "DPA_DESCAN": "ATACAMES",
+    "DPA_PARROQ": 80650,
+    "DPA_DESPAR": "ATACAMES"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 806,
+    "DPA_DESCAN": "ATACAMES",
+    "DPA_PARROQ": 80651,
+    "DPA_DESPAR": "LA UNIÓN"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 806,
+    "DPA_DESCAN": "ATACAMES",
+    "DPA_PARROQ": 80652,
+    "DPA_DESPAR": "SÚA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 806,
+    "DPA_DESCAN": "ATACAMES",
+    "DPA_PARROQ": 80653,
+    "DPA_DESPAR": "TONCHIGÜE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 806,
+    "DPA_DESCAN": "ATACAMES",
+    "DPA_PARROQ": 80654,
+    "DPA_DESPAR": "TONSUPA"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 807,
+    "DPA_DESCAN": "RIOVERDE",
+    "DPA_PARROQ": 80750,
+    "DPA_DESPAR": "RIOVERDE"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 807,
+    "DPA_DESCAN": "RIOVERDE",
+    "DPA_PARROQ": 80751,
+    "DPA_DESPAR": "CHONTADURO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 807,
+    "DPA_DESCAN": "RIOVERDE",
+    "DPA_PARROQ": 80752,
+    "DPA_DESPAR": "CHUMUNDÉ"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 807,
+    "DPA_DESCAN": "RIOVERDE",
+    "DPA_PARROQ": 80753,
+    "DPA_DESPAR": "LAGARTO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 807,
+    "DPA_DESCAN": "RIOVERDE",
+    "DPA_PARROQ": 80754,
+    "DPA_DESPAR": "MONTALVO"
+  },
+  {
+    "DPA_PROVIN": 8,
+    "DPA_DESPRO": "ESMERALDAS",
+    "DPA_CANTON": 807,
+    "DPA_DESCAN": "RIOVERDE",
+    "DPA_PARROQ": 80755,
+    "DPA_DESPAR": "ROCAFUERTE"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 901,
+    "DPA_DESCAN": "GUAYAQUIL",
+    "DPA_PARROQ": 90150,
+    "DPA_DESPAR": "GUAYAQUIL"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 901,
+    "DPA_DESCAN": "GUAYAQUIL",
+    "DPA_PARROQ": 90152,
+    "DPA_DESPAR": "JUAN GÓMEZ RENDÓN"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 901,
+    "DPA_DESCAN": "GUAYAQUIL",
+    "DPA_PARROQ": 90153,
+    "DPA_DESPAR": "MORRO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 901,
+    "DPA_DESCAN": "GUAYAQUIL",
+    "DPA_PARROQ": 90156,
+    "DPA_DESPAR": "POSORJA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 901,
+    "DPA_DESCAN": "GUAYAQUIL",
+    "DPA_PARROQ": 90157,
+    "DPA_DESPAR": "PUNÁ"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 901,
+    "DPA_DESCAN": "GUAYAQUIL",
+    "DPA_PARROQ": 90158,
+    "DPA_DESPAR": "TENGUEL"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 902,
+    "DPA_DESCAN": "ALFREDO BAQUERIZO MORENO (JUJÁN)",
+    "DPA_PARROQ": 90250,
+    "DPA_DESPAR": "ALFREDO BAQUERIZO MORENO (JUJÁN)"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 903,
+    "DPA_DESCAN": "BALAO",
+    "DPA_PARROQ": 90350,
+    "DPA_DESPAR": "BALAO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 904,
+    "DPA_DESCAN": "BALZAR",
+    "DPA_PARROQ": 90450,
+    "DPA_DESPAR": "BALZAR"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 905,
+    "DPA_DESCAN": "COLIMES",
+    "DPA_PARROQ": 90550,
+    "DPA_DESPAR": "COLIMES"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 905,
+    "DPA_DESCAN": "COLIMES",
+    "DPA_PARROQ": 90551,
+    "DPA_DESPAR": "SAN JACINTO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 906,
+    "DPA_DESCAN": "DAULE",
+    "DPA_PARROQ": 90650,
+    "DPA_DESPAR": "DAULE"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 906,
+    "DPA_DESCAN": "DAULE",
+    "DPA_PARROQ": 90652,
+    "DPA_DESPAR": "JUAN BAUTISTA AGUIRRE"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 906,
+    "DPA_DESCAN": "DAULE",
+    "DPA_PARROQ": 90653,
+    "DPA_DESPAR": "LAUREL"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 906,
+    "DPA_DESCAN": "DAULE",
+    "DPA_PARROQ": 90654,
+    "DPA_DESPAR": "LIMONAL"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 906,
+    "DPA_DESCAN": "DAULE",
+    "DPA_PARROQ": 90656,
+    "DPA_DESPAR": "LOS LOJAS"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 907,
+    "DPA_DESCAN": "DURÁN",
+    "DPA_PARROQ": 90750,
+    "DPA_DESPAR": "ELOY ALFARO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 908,
+    "DPA_DESCAN": "EL EMPALME",
+    "DPA_PARROQ": 90850,
+    "DPA_DESPAR": "VELASCO IBARRA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 908,
+    "DPA_DESCAN": "EL EMPALME",
+    "DPA_PARROQ": 90851,
+    "DPA_DESPAR": "GUAYAS"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 908,
+    "DPA_DESCAN": "EL EMPALME",
+    "DPA_PARROQ": 90852,
+    "DPA_DESPAR": "EL ROSARIO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 909,
+    "DPA_DESCAN": "EL TRIUNFO",
+    "DPA_PARROQ": 90950,
+    "DPA_DESPAR": "EL TRIUNFO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 910,
+    "DPA_DESCAN": "MILAGRO",
+    "DPA_PARROQ": 91050,
+    "DPA_DESPAR": "MILAGRO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 910,
+    "DPA_DESCAN": "MILAGRO",
+    "DPA_PARROQ": 91051,
+    "DPA_DESPAR": "CHOBO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 910,
+    "DPA_DESCAN": "MILAGRO",
+    "DPA_PARROQ": 91053,
+    "DPA_DESPAR": "MARISCAL SUCRE"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 910,
+    "DPA_DESCAN": "MILAGRO",
+    "DPA_PARROQ": 91054,
+    "DPA_DESPAR": "ROBERTO ASTUDILLO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 911,
+    "DPA_DESCAN": "NARANJAL",
+    "DPA_PARROQ": 91150,
+    "DPA_DESPAR": "NARANJAL"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 911,
+    "DPA_DESCAN": "NARANJAL",
+    "DPA_PARROQ": 91151,
+    "DPA_DESPAR": "JESÚS MARÍA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 911,
+    "DPA_DESCAN": "NARANJAL",
+    "DPA_PARROQ": 91152,
+    "DPA_DESPAR": "SAN CARLOS"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 911,
+    "DPA_DESCAN": "NARANJAL",
+    "DPA_PARROQ": 91153,
+    "DPA_DESPAR": "SANTA ROSA DE FLANDES"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 911,
+    "DPA_DESCAN": "NARANJAL",
+    "DPA_PARROQ": 91154,
+    "DPA_DESPAR": "TAURA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 912,
+    "DPA_DESCAN": "NARANJITO",
+    "DPA_PARROQ": 91250,
+    "DPA_DESPAR": "NARANJITO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 913,
+    "DPA_DESCAN": "PALESTINA",
+    "DPA_PARROQ": 91350,
+    "DPA_DESPAR": "PALESTINA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 914,
+    "DPA_DESCAN": "PEDRO CARBO",
+    "DPA_PARROQ": 91450,
+    "DPA_DESPAR": "PEDRO CARBO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 914,
+    "DPA_DESCAN": "PEDRO CARBO",
+    "DPA_PARROQ": 91451,
+    "DPA_DESPAR": "VALLE DE LA VIRGEN"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 914,
+    "DPA_DESCAN": "PEDRO CARBO",
+    "DPA_PARROQ": 91452,
+    "DPA_DESPAR": "SABANILLA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 916,
+    "DPA_DESCAN": "SAMBORONDÓN",
+    "DPA_PARROQ": 91650,
+    "DPA_DESPAR": "SAMBORONDÓN"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 916,
+    "DPA_DESCAN": "SAMBORONDÓN",
+    "DPA_PARROQ": 91651,
+    "DPA_DESPAR": "TARIFA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 918,
+    "DPA_DESCAN": "SANTA LUCÍA",
+    "DPA_PARROQ": 91850,
+    "DPA_DESPAR": "SANTA LUCÍA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 919,
+    "DPA_DESCAN": "SALITRE",
+    "DPA_PARROQ": 91950,
+    "DPA_DESPAR": "EL SALITRE"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 919,
+    "DPA_DESCAN": "SALITRE",
+    "DPA_PARROQ": 91951,
+    "DPA_DESPAR": "GENERAL VERNAZA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 919,
+    "DPA_DESCAN": "SALITRE",
+    "DPA_PARROQ": 91952,
+    "DPA_DESPAR": "LA VICTORIA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 919,
+    "DPA_DESCAN": "SALITRE",
+    "DPA_PARROQ": 91953,
+    "DPA_DESPAR": "JUNQUILLAL"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 920,
+    "DPA_DESCAN": "SAN JACINTO DE YAGUACHI",
+    "DPA_PARROQ": 92050,
+    "DPA_DESPAR": "SAN JACINTO DE YAGUACHI"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 920,
+    "DPA_DESCAN": "SAN JACINTO DE YAGUACHI",
+    "DPA_PARROQ": 92053,
+    "DPA_DESPAR": "GENERAL PEDRO J. MONTERO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 920,
+    "DPA_DESCAN": "SAN JACINTO DE YAGUACHI",
+    "DPA_PARROQ": 92055,
+    "DPA_DESPAR": "YAGUACHI VIEJO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 920,
+    "DPA_DESCAN": "SAN JACINTO DE YAGUACHI",
+    "DPA_PARROQ": 92056,
+    "DPA_DESPAR": "VIRGEN DE FÁTIMA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 921,
+    "DPA_DESCAN": "PLAYAS",
+    "DPA_PARROQ": 92150,
+    "DPA_DESPAR": "GENERAL VILLAMIL"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 922,
+    "DPA_DESCAN": "SIMÓN BOLÍVAR",
+    "DPA_PARROQ": 92250,
+    "DPA_DESPAR": "SIMÓN BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 922,
+    "DPA_DESCAN": "SIMÓN BOLÍVAR",
+    "DPA_PARROQ": 92251,
+    "DPA_DESPAR": "CORONEL LORENZO DE GARAYCOA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 923,
+    "DPA_DESCAN": "CORONEL MARCELINO MARIDUEÑA",
+    "DPA_PARROQ": 92350,
+    "DPA_DESPAR": "CORONEL MARCELINO MARIDUEÑA"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 924,
+    "DPA_DESCAN": "LOMAS DE SARGENTILLO",
+    "DPA_PARROQ": 92450,
+    "DPA_DESPAR": "LOMAS DE SARGENTILLO"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 925,
+    "DPA_DESCAN": "NOBOL",
+    "DPA_PARROQ": 92550,
+    "DPA_DESPAR": "NARCISA DE JESÚS"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 927,
+    "DPA_DESCAN": "GENERAL  ANTONIO ELIZALDE",
+    "DPA_PARROQ": 92750,
+    "DPA_DESPAR": "GENERAL ANTONIO ELIZALDE"
+  },
+  {
+    "DPA_PROVIN": 9,
+    "DPA_DESPRO": "GUAYAS",
+    "DPA_CANTON": 928,
+    "DPA_DESCAN": "ISIDRO AYORA",
+    "DPA_PARROQ": 92850,
+    "DPA_DESPAR": "ISIDRO AYORA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100150,
+    "DPA_DESPAR": "SAN MIGUEL DE IBARRA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100151,
+    "DPA_DESPAR": "AMBUQUÍ"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100152,
+    "DPA_DESPAR": "ANGOCHAGUA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100153,
+    "DPA_DESPAR": "CAROLINA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100154,
+    "DPA_DESPAR": "LA ESPERANZA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100155,
+    "DPA_DESPAR": "LITA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100156,
+    "DPA_DESPAR": "SALINAS"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1001,
+    "DPA_DESCAN": "IBARRA",
+    "DPA_PARROQ": 100157,
+    "DPA_DESPAR": "SAN ANTONIO"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1002,
+    "DPA_DESCAN": "ANTONIO ANTE",
+    "DPA_PARROQ": 100250,
+    "DPA_DESPAR": "ATUNTAQUI"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1002,
+    "DPA_DESCAN": "ANTONIO ANTE",
+    "DPA_PARROQ": 100251,
+    "DPA_DESPAR": "IMBAYA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1002,
+    "DPA_DESCAN": "ANTONIO ANTE",
+    "DPA_PARROQ": 100252,
+    "DPA_DESPAR": "SAN FRANCISCO DE NATABUELA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1002,
+    "DPA_DESCAN": "ANTONIO ANTE",
+    "DPA_PARROQ": 100253,
+    "DPA_DESPAR": "SAN JOSÉ DE CHALTURA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1002,
+    "DPA_DESCAN": "ANTONIO ANTE",
+    "DPA_PARROQ": 100254,
+    "DPA_DESPAR": "SAN ROQUE"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100350,
+    "DPA_DESPAR": "COTACACHI"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100351,
+    "DPA_DESPAR": "APUELA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100352,
+    "DPA_DESPAR": "GARCÍA MORENO"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100353,
+    "DPA_DESPAR": "IMANTAG"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100354,
+    "DPA_DESPAR": "PEÑAHERRERA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100355,
+    "DPA_DESPAR": "PLAZA GUTIÉRREZ"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100356,
+    "DPA_DESPAR": "QUIROGA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100357,
+    "DPA_DESPAR": "SEIS DE JULIO DE CUELLAJE"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1003,
+    "DPA_DESCAN": "COTACACHI",
+    "DPA_PARROQ": 100358,
+    "DPA_DESPAR": "VACAS GALINDO"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100450,
+    "DPA_DESPAR": "OTAVALO"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100451,
+    "DPA_DESPAR": "DR. MIGUEL EGAS CABEZAS"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100452,
+    "DPA_DESPAR": "EUGENIO ESPEJO"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100453,
+    "DPA_DESPAR": "GONZÁLEZ SUÁREZ"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100454,
+    "DPA_DESPAR": "PATAQUÍ"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100455,
+    "DPA_DESPAR": "SAN JOSÉ DE QUICHINCHE"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100456,
+    "DPA_DESPAR": "SAN JUAN DE ILUMÁN"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100457,
+    "DPA_DESPAR": "SAN PABLO"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100458,
+    "DPA_DESPAR": "SAN RAFAEL"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1004,
+    "DPA_DESCAN": "OTAVALO",
+    "DPA_PARROQ": 100459,
+    "DPA_DESPAR": "SELVA ALEGRE"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1005,
+    "DPA_DESCAN": "PIMAMPIRO",
+    "DPA_PARROQ": 100550,
+    "DPA_DESPAR": "PIMAMPIRO"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1005,
+    "DPA_DESCAN": "PIMAMPIRO",
+    "DPA_PARROQ": 100551,
+    "DPA_DESPAR": "CHUGÁ"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1005,
+    "DPA_DESCAN": "PIMAMPIRO",
+    "DPA_PARROQ": 100552,
+    "DPA_DESPAR": "MARIANO ACOSTA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1005,
+    "DPA_DESCAN": "PIMAMPIRO",
+    "DPA_PARROQ": 100553,
+    "DPA_DESPAR": "SAN FRANCISCO DE SIGSIPAMBA"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1006,
+    "DPA_DESCAN": "SAN MIGUEL DE URCUQUÍ",
+    "DPA_PARROQ": 100650,
+    "DPA_DESPAR": "URCUQUÍ"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1006,
+    "DPA_DESCAN": "SAN MIGUEL DE URCUQUÍ",
+    "DPA_PARROQ": 100651,
+    "DPA_DESPAR": "CAHUASQUÍ"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1006,
+    "DPA_DESCAN": "SAN MIGUEL DE URCUQUÍ",
+    "DPA_PARROQ": 100652,
+    "DPA_DESPAR": "LA MERCED DE BUENOS AIRES"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1006,
+    "DPA_DESCAN": "SAN MIGUEL DE URCUQUÍ",
+    "DPA_PARROQ": 100653,
+    "DPA_DESPAR": "PABLO ARENAS"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1006,
+    "DPA_DESCAN": "SAN MIGUEL DE URCUQUÍ",
+    "DPA_PARROQ": 100654,
+    "DPA_DESPAR": "SAN BLAS"
+  },
+  {
+    "DPA_PROVIN": 10,
+    "DPA_DESPRO": "IMBABURA",
+    "DPA_CANTON": 1006,
+    "DPA_DESCAN": "SAN MIGUEL DE URCUQUÍ",
+    "DPA_PARROQ": 100655,
+    "DPA_DESPAR": "TUMBABIRO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110150,
+    "DPA_DESPAR": "LOJA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110151,
+    "DPA_DESPAR": "CHANTACO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110152,
+    "DPA_DESPAR": "CHUQUIRIBAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110153,
+    "DPA_DESPAR": "EL CISNE"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110154,
+    "DPA_DESPAR": "GUALEL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110155,
+    "DPA_DESPAR": "JIMBILLA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110156,
+    "DPA_DESPAR": "MALACATOS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110157,
+    "DPA_DESPAR": "SAN LUCAS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110158,
+    "DPA_DESPAR": "SAN PEDRO DE VILCABAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110159,
+    "DPA_DESPAR": "SANTIAGO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110160,
+    "DPA_DESPAR": "TAQUIL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110161,
+    "DPA_DESPAR": "VILCABAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110162,
+    "DPA_DESPAR": "YANGANA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1101,
+    "DPA_DESCAN": "LOJA",
+    "DPA_PARROQ": 110163,
+    "DPA_DESPAR": "QUINARA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1102,
+    "DPA_DESCAN": "CALVAS",
+    "DPA_PARROQ": 110250,
+    "DPA_DESPAR": "CARIAMANGA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1102,
+    "DPA_DESCAN": "CALVAS",
+    "DPA_PARROQ": 110251,
+    "DPA_DESPAR": "COLAISACA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1102,
+    "DPA_DESCAN": "CALVAS",
+    "DPA_PARROQ": 110252,
+    "DPA_DESPAR": "EL LUCERO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1102,
+    "DPA_DESCAN": "CALVAS",
+    "DPA_PARROQ": 110253,
+    "DPA_DESPAR": "UTUANA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1102,
+    "DPA_DESCAN": "CALVAS",
+    "DPA_PARROQ": 110254,
+    "DPA_DESPAR": "SANGUILLÍN"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1103,
+    "DPA_DESCAN": "CATAMAYO",
+    "DPA_PARROQ": 110350,
+    "DPA_DESPAR": "CATAMAYO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1103,
+    "DPA_DESCAN": "CATAMAYO",
+    "DPA_PARROQ": 110351,
+    "DPA_DESPAR": "EL TAMBO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1103,
+    "DPA_DESCAN": "CATAMAYO",
+    "DPA_PARROQ": 110352,
+    "DPA_DESPAR": "GUAYQUICHUMA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1103,
+    "DPA_DESCAN": "CATAMAYO",
+    "DPA_PARROQ": 110353,
+    "DPA_DESPAR": "SAN PEDRO DE LA BENDITA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1103,
+    "DPA_DESCAN": "CATAMAYO",
+    "DPA_PARROQ": 110354,
+    "DPA_DESPAR": "ZAMBI"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1104,
+    "DPA_DESCAN": "CELICA",
+    "DPA_PARROQ": 110450,
+    "DPA_DESPAR": "CELICA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1104,
+    "DPA_DESCAN": "CELICA",
+    "DPA_PARROQ": 110451,
+    "DPA_DESPAR": "CRUZPAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1104,
+    "DPA_DESCAN": "CELICA",
+    "DPA_PARROQ": 110455,
+    "DPA_DESPAR": "PÓZUL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1104,
+    "DPA_DESCAN": "CELICA",
+    "DPA_PARROQ": 110456,
+    "DPA_DESPAR": "SABANILLA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1104,
+    "DPA_DESCAN": "CELICA",
+    "DPA_PARROQ": 110457,
+    "DPA_DESPAR": "TENIENTE MAXIMILIANO RODRÍGUEZ LOAIZA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1105,
+    "DPA_DESCAN": "CHAGUARPAMBA",
+    "DPA_PARROQ": 110550,
+    "DPA_DESPAR": "CHAGUARPAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1105,
+    "DPA_DESCAN": "CHAGUARPAMBA",
+    "DPA_PARROQ": 110551,
+    "DPA_DESPAR": "BUENAVISTA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1105,
+    "DPA_DESCAN": "CHAGUARPAMBA",
+    "DPA_PARROQ": 110552,
+    "DPA_DESPAR": "EL ROSARIO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1105,
+    "DPA_DESCAN": "CHAGUARPAMBA",
+    "DPA_PARROQ": 110553,
+    "DPA_DESPAR": "SANTA RUFINA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1105,
+    "DPA_DESCAN": "CHAGUARPAMBA",
+    "DPA_PARROQ": 110554,
+    "DPA_DESPAR": "AMARILLOS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1106,
+    "DPA_DESCAN": "ESPÍNDOLA",
+    "DPA_PARROQ": 110650,
+    "DPA_DESPAR": "AMALUZA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1106,
+    "DPA_DESCAN": "ESPÍNDOLA",
+    "DPA_PARROQ": 110651,
+    "DPA_DESPAR": "BELLAVISTA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1106,
+    "DPA_DESCAN": "ESPÍNDOLA",
+    "DPA_PARROQ": 110652,
+    "DPA_DESPAR": "JIMBURA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1106,
+    "DPA_DESCAN": "ESPÍNDOLA",
+    "DPA_PARROQ": 110653,
+    "DPA_DESPAR": "SANTA TERESITA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1106,
+    "DPA_DESCAN": "ESPÍNDOLA",
+    "DPA_PARROQ": 110654,
+    "DPA_DESPAR": "27 DE ABRIL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1106,
+    "DPA_DESCAN": "ESPÍNDOLA",
+    "DPA_PARROQ": 110655,
+    "DPA_DESPAR": "EL INGENIO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1106,
+    "DPA_DESCAN": "ESPÍNDOLA",
+    "DPA_PARROQ": 110656,
+    "DPA_DESPAR": "EL AIRO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1107,
+    "DPA_DESCAN": "GONZANAMÁ",
+    "DPA_PARROQ": 110750,
+    "DPA_DESPAR": "GONZANAMÁ"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1107,
+    "DPA_DESCAN": "GONZANAMÁ",
+    "DPA_PARROQ": 110751,
+    "DPA_DESPAR": "CHANGAIMINA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1107,
+    "DPA_DESCAN": "GONZANAMÁ",
+    "DPA_PARROQ": 110753,
+    "DPA_DESPAR": "NAMBACOLA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1107,
+    "DPA_DESCAN": "GONZANAMÁ",
+    "DPA_PARROQ": 110754,
+    "DPA_DESPAR": "PURUNUMA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1107,
+    "DPA_DESCAN": "GONZANAMÁ",
+    "DPA_PARROQ": 110756,
+    "DPA_DESPAR": "SACAPALCA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1108,
+    "DPA_DESCAN": "MACARÁ",
+    "DPA_PARROQ": 110850,
+    "DPA_DESPAR": "MACARÁ"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1108,
+    "DPA_DESCAN": "MACARÁ",
+    "DPA_PARROQ": 110851,
+    "DPA_DESPAR": "LARAMA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1108,
+    "DPA_DESCAN": "MACARÁ",
+    "DPA_PARROQ": 110852,
+    "DPA_DESPAR": "LA VICTORIA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1108,
+    "DPA_DESCAN": "MACARÁ",
+    "DPA_PARROQ": 110853,
+    "DPA_DESPAR": "SABIANGO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110950,
+    "DPA_DESPAR": "CATACOCHA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110951,
+    "DPA_DESPAR": "CANGONAMÁ"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110952,
+    "DPA_DESPAR": "GUACHANAMÁ"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110954,
+    "DPA_DESPAR": "LAURO GUERRERO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110956,
+    "DPA_DESPAR": "ORIANGA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110957,
+    "DPA_DESPAR": "SAN ANTONIO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110958,
+    "DPA_DESPAR": "CASANGA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1109,
+    "DPA_DESCAN": "PALTAS",
+    "DPA_PARROQ": 110959,
+    "DPA_DESPAR": "YAMANA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1110,
+    "DPA_DESCAN": "PUYANGO",
+    "DPA_PARROQ": 111050,
+    "DPA_DESPAR": "ALAMOR"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1110,
+    "DPA_DESCAN": "PUYANGO",
+    "DPA_PARROQ": 111051,
+    "DPA_DESPAR": "CIANO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1110,
+    "DPA_DESCAN": "PUYANGO",
+    "DPA_PARROQ": 111052,
+    "DPA_DESPAR": "EL ARENAL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1110,
+    "DPA_DESCAN": "PUYANGO",
+    "DPA_PARROQ": 111053,
+    "DPA_DESPAR": "EL LIMO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1110,
+    "DPA_DESCAN": "PUYANGO",
+    "DPA_PARROQ": 111054,
+    "DPA_DESPAR": "MERCADILLO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1110,
+    "DPA_DESCAN": "PUYANGO",
+    "DPA_PARROQ": 111055,
+    "DPA_DESPAR": "VICENTINO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111150,
+    "DPA_DESPAR": "SARAGURO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111151,
+    "DPA_DESPAR": "EL PARAÍSO DE CELEN"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111152,
+    "DPA_DESPAR": "EL TABLÓN"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111153,
+    "DPA_DESPAR": "LLUZHAPA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111154,
+    "DPA_DESPAR": "MANÚ"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111155,
+    "DPA_DESPAR": "SAN ANTONIO DE QUMBE"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111156,
+    "DPA_DESPAR": "SAN PABLO DE TENTA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111157,
+    "DPA_DESPAR": "SAN SEBASTIÁN DE YÚLUC"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111158,
+    "DPA_DESPAR": "SELVA ALEGRE"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111159,
+    "DPA_DESPAR": "URDANETA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1111,
+    "DPA_DESCAN": "SARAGURO",
+    "DPA_PARROQ": 111160,
+    "DPA_DESPAR": "SUMAYPAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1112,
+    "DPA_DESCAN": "SOZORANGA",
+    "DPA_PARROQ": 111250,
+    "DPA_DESPAR": "SOZORANGA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1112,
+    "DPA_DESCAN": "SOZORANGA",
+    "DPA_PARROQ": 111251,
+    "DPA_DESPAR": "NUEVA FÁTIMA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1112,
+    "DPA_DESCAN": "SOZORANGA",
+    "DPA_PARROQ": 111252,
+    "DPA_DESPAR": "TACAMOROS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1113,
+    "DPA_DESCAN": "ZAPOTILLO",
+    "DPA_PARROQ": 111350,
+    "DPA_DESPAR": "ZAPOTILLO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1113,
+    "DPA_DESCAN": "ZAPOTILLO",
+    "DPA_PARROQ": 111351,
+    "DPA_DESPAR": "MANGAHURCO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1113,
+    "DPA_DESCAN": "ZAPOTILLO",
+    "DPA_PARROQ": 111352,
+    "DPA_DESPAR": "GARZAREAL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1113,
+    "DPA_DESCAN": "ZAPOTILLO",
+    "DPA_PARROQ": 111353,
+    "DPA_DESPAR": "LIMONES"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1113,
+    "DPA_DESCAN": "ZAPOTILLO",
+    "DPA_PARROQ": 111354,
+    "DPA_DESPAR": "PALETILLAS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1113,
+    "DPA_DESCAN": "ZAPOTILLO",
+    "DPA_PARROQ": 111355,
+    "DPA_DESPAR": "BOLASPAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1113,
+    "DPA_DESCAN": "ZAPOTILLO",
+    "DPA_PARROQ": 111356,
+    "DPA_DESPAR": "CAZADEROS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1114,
+    "DPA_DESCAN": "PINDAL",
+    "DPA_PARROQ": 111450,
+    "DPA_DESPAR": "PINDAL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1114,
+    "DPA_DESCAN": "PINDAL",
+    "DPA_PARROQ": 111451,
+    "DPA_DESPAR": "CHAQUINAL"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1114,
+    "DPA_DESCAN": "PINDAL",
+    "DPA_PARROQ": 111452,
+    "DPA_DESPAR": "12 DE DICIEMBRE"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1114,
+    "DPA_DESCAN": "PINDAL",
+    "DPA_PARROQ": 111453,
+    "DPA_DESPAR": "MILAGROS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1115,
+    "DPA_DESCAN": "QUILANGA",
+    "DPA_PARROQ": 111550,
+    "DPA_DESPAR": "QUILANGA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1115,
+    "DPA_DESCAN": "QUILANGA",
+    "DPA_PARROQ": 111551,
+    "DPA_DESPAR": "FUNDOCHAMBA"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1115,
+    "DPA_DESCAN": "QUILANGA",
+    "DPA_PARROQ": 111552,
+    "DPA_DESPAR": "SAN ANTONIO DE LAS ARADAS"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1116,
+    "DPA_DESCAN": "OLMEDO",
+    "DPA_PARROQ": 111650,
+    "DPA_DESPAR": "OLMEDO"
+  },
+  {
+    "DPA_PROVIN": 11,
+    "DPA_DESPRO": "LOJA",
+    "DPA_CANTON": 1116,
+    "DPA_DESCAN": "OLMEDO",
+    "DPA_PARROQ": 111651,
+    "DPA_DESPAR": "LA TINGUE"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1201,
+    "DPA_DESCAN": "BABAHOYO",
+    "DPA_PARROQ": 120150,
+    "DPA_DESPAR": "BABAHOYO"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1201,
+    "DPA_DESCAN": "BABAHOYO",
+    "DPA_PARROQ": 120152,
+    "DPA_DESPAR": "CARACOL"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1201,
+    "DPA_DESCAN": "BABAHOYO",
+    "DPA_PARROQ": 120153,
+    "DPA_DESPAR": "FEBRES CORDERO"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1201,
+    "DPA_DESCAN": "BABAHOYO",
+    "DPA_PARROQ": 120154,
+    "DPA_DESPAR": "PIMOCHA"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1201,
+    "DPA_DESCAN": "BABAHOYO",
+    "DPA_PARROQ": 120155,
+    "DPA_DESPAR": "LA UNIÓN"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1202,
+    "DPA_DESCAN": "BABA",
+    "DPA_PARROQ": 120250,
+    "DPA_DESPAR": "BABA"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1202,
+    "DPA_DESCAN": "BABA",
+    "DPA_PARROQ": 120251,
+    "DPA_DESPAR": "GUARE"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1202,
+    "DPA_DESCAN": "BABA",
+    "DPA_PARROQ": 120252,
+    "DPA_DESPAR": "ISLA DE BEJUCAL"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1203,
+    "DPA_DESCAN": "MONTALVO",
+    "DPA_PARROQ": 120350,
+    "DPA_DESPAR": "MONTALVO"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1203,
+    "DPA_DESCAN": "MONTALVO",
+    "DPA_PARROQ": 120351,
+    "DPA_DESPAR": "LA ESMERALDA"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1204,
+    "DPA_DESCAN": "PUEBLOVIEJO",
+    "DPA_PARROQ": 120450,
+    "DPA_DESPAR": "PUEBLOVIEJO"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1204,
+    "DPA_DESCAN": "PUEBLOVIEJO",
+    "DPA_PARROQ": 120451,
+    "DPA_DESPAR": "PUERTO PECHICHE"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1204,
+    "DPA_DESCAN": "PUEBLOVIEJO",
+    "DPA_PARROQ": 120452,
+    "DPA_DESPAR": "SAN JUAN"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1205,
+    "DPA_DESCAN": "QUEVEDO",
+    "DPA_PARROQ": 120550,
+    "DPA_DESPAR": "QUEVEDO"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1205,
+    "DPA_DESCAN": "QUEVEDO",
+    "DPA_PARROQ": 120553,
+    "DPA_DESPAR": "SAN CARLOS"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1205,
+    "DPA_DESCAN": "QUEVEDO",
+    "DPA_PARROQ": 120555,
+    "DPA_DESPAR": "LA ESPERANZA"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1206,
+    "DPA_DESCAN": "URDANETA",
+    "DPA_PARROQ": 120650,
+    "DPA_DESPAR": "CATARAMA"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1206,
+    "DPA_DESCAN": "URDANETA",
+    "DPA_PARROQ": 120651,
+    "DPA_DESPAR": "RICAURTE"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1207,
+    "DPA_DESCAN": "VENTANAS",
+    "DPA_PARROQ": 120750,
+    "DPA_DESPAR": "VENTANAS"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1207,
+    "DPA_DESCAN": "VENTANAS",
+    "DPA_PARROQ": 120752,
+    "DPA_DESPAR": "ZAPOTAL"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1207,
+    "DPA_DESCAN": "VENTANAS",
+    "DPA_PARROQ": 120753,
+    "DPA_DESPAR": "CHACARITA"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1207,
+    "DPA_DESCAN": "VENTANAS",
+    "DPA_PARROQ": 120754,
+    "DPA_DESPAR": "LOS ÁNGELES"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1208,
+    "DPA_DESCAN": "VINCES",
+    "DPA_PARROQ": 120850,
+    "DPA_DESPAR": "VINCES"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1208,
+    "DPA_DESCAN": "VINCES",
+    "DPA_PARROQ": 120851,
+    "DPA_DESPAR": "ANTONIO SOTOMAYOR"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1209,
+    "DPA_DESCAN": "PALENQUE",
+    "DPA_PARROQ": 120950,
+    "DPA_DESPAR": "PALENQUE"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1210,
+    "DPA_DESCAN": "BUENA FE",
+    "DPA_PARROQ": 121050,
+    "DPA_DESPAR": "SAN JACINTO DE BUENA FE"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1210,
+    "DPA_DESCAN": "BUENA FE",
+    "DPA_PARROQ": 121051,
+    "DPA_DESPAR": "PATRICIA PILAR"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1211,
+    "DPA_DESCAN": "VALENCIA",
+    "DPA_PARROQ": 121150,
+    "DPA_DESPAR": "VALENCIA"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1212,
+    "DPA_DESCAN": "MOCACHE",
+    "DPA_PARROQ": 121250,
+    "DPA_DESPAR": "MOCACHE"
+  },
+  {
+    "DPA_PROVIN": 12,
+    "DPA_DESPRO": "LOS RÍOS",
+    "DPA_CANTON": 1213,
+    "DPA_DESCAN": "QUINSALOMA",
+    "DPA_PARROQ": 121350,
+    "DPA_DESPAR": "QUINSALOMA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130150,
+    "DPA_DESPAR": "PORTOVIEJO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130151,
+    "DPA_DESPAR": "ABDÓN CALDERÓN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130152,
+    "DPA_DESPAR": "ALHAJUELA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130153,
+    "DPA_DESPAR": "CRUCITA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130154,
+    "DPA_DESPAR": "PUEBLO NUEVO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130155,
+    "DPA_DESPAR": "RIOCHICO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130156,
+    "DPA_DESPAR": "SAN PLÁCIDO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1301,
+    "DPA_DESCAN": "PORTOVIEJO",
+    "DPA_PARROQ": 130157,
+    "DPA_DESPAR": "CHIRIJOS"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1302,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 130250,
+    "DPA_DESPAR": "CALCETA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1302,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 130251,
+    "DPA_DESPAR": "MEMBRILLO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1302,
+    "DPA_DESCAN": "BOLÍVAR",
+    "DPA_PARROQ": 130252,
+    "DPA_DESPAR": "QUIROGA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130350,
+    "DPA_DESPAR": "CHONE"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130351,
+    "DPA_DESPAR": "BOYACÁ"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130352,
+    "DPA_DESPAR": "CANUTO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130353,
+    "DPA_DESPAR": "CONVENTO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130354,
+    "DPA_DESPAR": "CHIBUNGA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130355,
+    "DPA_DESPAR": "ELOY ALFARO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130356,
+    "DPA_DESPAR": "RICAURTE"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1303,
+    "DPA_DESCAN": "CHONE",
+    "DPA_PARROQ": 130357,
+    "DPA_DESPAR": "SAN ANTONIO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1304,
+    "DPA_DESCAN": "EL CARMEN",
+    "DPA_PARROQ": 130450,
+    "DPA_DESPAR": "EL CARMEN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1304,
+    "DPA_DESCAN": "EL CARMEN",
+    "DPA_PARROQ": 130451,
+    "DPA_DESPAR": "WILFRIDO LOOR MOREIRA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1304,
+    "DPA_DESCAN": "EL CARMEN",
+    "DPA_PARROQ": 130452,
+    "DPA_DESPAR": "SAN PEDRO DE SUMA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1304,
+    "DPA_DESCAN": "EL CARMEN",
+    "DPA_PARROQ": 130453,
+    "DPA_DESPAR": "SANTA MARÍA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1304,
+    "DPA_DESCAN": "EL CARMEN",
+    "DPA_PARROQ": 130454,
+    "DPA_DESPAR": "EL PARAÍSO LA 14"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1305,
+    "DPA_DESCAN": "FLAVIO ALFARO",
+    "DPA_PARROQ": 130550,
+    "DPA_DESPAR": "FLAVIO ALFARO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1305,
+    "DPA_DESCAN": "FLAVIO ALFARO",
+    "DPA_PARROQ": 130551,
+    "DPA_DESPAR": "SAN FRANCISCO DE NOVILLO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1305,
+    "DPA_DESCAN": "FLAVIO ALFARO",
+    "DPA_PARROQ": 130552,
+    "DPA_DESPAR": "ZAPALLO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130650,
+    "DPA_DESPAR": "JIPIJAPA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130651,
+    "DPA_DESPAR": "AMÉRICA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130652,
+    "DPA_DESPAR": "EL ANEGADO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130653,
+    "DPA_DESPAR": "JULCUY"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130654,
+    "DPA_DESPAR": "LA UNIÓN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130656,
+    "DPA_DESPAR": "MEMBRILLAL"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130657,
+    "DPA_DESPAR": "PEDRO PABLO GÓMEZ"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1306,
+    "DPA_DESCAN": "JIPIJAPA",
+    "DPA_PARROQ": 130658,
+    "DPA_DESPAR": "PUERTO CAYO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1307,
+    "DPA_DESCAN": "JUNÍN",
+    "DPA_PARROQ": 130750,
+    "DPA_DESPAR": "JUNÍN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1308,
+    "DPA_DESCAN": "MANTA",
+    "DPA_PARROQ": 130850,
+    "DPA_DESPAR": "MANTA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1308,
+    "DPA_DESCAN": "MANTA",
+    "DPA_PARROQ": 130851,
+    "DPA_DESPAR": "SAN LORENZO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1308,
+    "DPA_DESCAN": "MANTA",
+    "DPA_PARROQ": 130852,
+    "DPA_DESPAR": "SANTA MARIANITA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1309,
+    "DPA_DESCAN": "MONTECRISTI",
+    "DPA_PARROQ": 130950,
+    "DPA_DESPAR": "MONTECRISTI"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1309,
+    "DPA_DESCAN": "MONTECRISTI",
+    "DPA_PARROQ": 130952,
+    "DPA_DESPAR": "LA PILA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1310,
+    "DPA_DESCAN": "PAJÁN",
+    "DPA_PARROQ": 131050,
+    "DPA_DESPAR": "PAJÁN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1310,
+    "DPA_DESCAN": "PAJÁN",
+    "DPA_PARROQ": 131051,
+    "DPA_DESPAR": "CAMPOZANO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1310,
+    "DPA_DESCAN": "PAJÁN",
+    "DPA_PARROQ": 131052,
+    "DPA_DESPAR": "CASCOL"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1310,
+    "DPA_DESCAN": "PAJÁN",
+    "DPA_PARROQ": 131053,
+    "DPA_DESPAR": "GUALE"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1310,
+    "DPA_DESCAN": "PAJÁN",
+    "DPA_PARROQ": 131054,
+    "DPA_DESPAR": "LASCANO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1311,
+    "DPA_DESCAN": "PICHINCHA",
+    "DPA_PARROQ": 131150,
+    "DPA_DESPAR": "PICHINCHA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1311,
+    "DPA_DESCAN": "PICHINCHA",
+    "DPA_PARROQ": 131151,
+    "DPA_DESPAR": "BARRAGANETE"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1311,
+    "DPA_DESCAN": "PICHINCHA",
+    "DPA_PARROQ": 131152,
+    "DPA_DESPAR": "SAN SEBASTIÁN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1312,
+    "DPA_DESCAN": "ROCAFUERTE",
+    "DPA_PARROQ": 131250,
+    "DPA_DESPAR": "ROCAFUERTE"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1313,
+    "DPA_DESCAN": "SANTA ANA",
+    "DPA_PARROQ": 131350,
+    "DPA_DESPAR": "SANTA ANA DE VUELTA LARGA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1313,
+    "DPA_DESCAN": "SANTA ANA",
+    "DPA_PARROQ": 131351,
+    "DPA_DESPAR": "AYACUCHO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1313,
+    "DPA_DESCAN": "SANTA ANA",
+    "DPA_PARROQ": 131352,
+    "DPA_DESPAR": "HONORATO VÁSQUEZ"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1313,
+    "DPA_DESCAN": "SANTA ANA",
+    "DPA_PARROQ": 131353,
+    "DPA_DESPAR": "LA UNIÓN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1313,
+    "DPA_DESCAN": "SANTA ANA",
+    "DPA_PARROQ": 131355,
+    "DPA_DESPAR": "SAN PABLO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1314,
+    "DPA_DESCAN": "SUCRE",
+    "DPA_PARROQ": 131450,
+    "DPA_DESPAR": "BAHÍA DE CARÁQUEZ"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1314,
+    "DPA_DESCAN": "SUCRE",
+    "DPA_PARROQ": 131453,
+    "DPA_DESPAR": "CHARAPOTÓ"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1314,
+    "DPA_DESCAN": "SUCRE",
+    "DPA_PARROQ": 131457,
+    "DPA_DESPAR": "SAN ISIDRO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1315,
+    "DPA_DESCAN": "TOSAGUA",
+    "DPA_PARROQ": 131550,
+    "DPA_DESPAR": "TOSAGUA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1315,
+    "DPA_DESCAN": "TOSAGUA",
+    "DPA_PARROQ": 131551,
+    "DPA_DESPAR": "BACHILLERO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1315,
+    "DPA_DESCAN": "TOSAGUA",
+    "DPA_PARROQ": 131552,
+    "DPA_DESPAR": "ÁNGEL PEDRO GILER"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1316,
+    "DPA_DESCAN": "24 DE MAYO",
+    "DPA_PARROQ": 131650,
+    "DPA_DESPAR": "SUCRE"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1316,
+    "DPA_DESCAN": "24 DE MAYO",
+    "DPA_PARROQ": 131651,
+    "DPA_DESPAR": "BELLAVISTA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1316,
+    "DPA_DESCAN": "24 DE MAYO",
+    "DPA_PARROQ": 131652,
+    "DPA_DESPAR": "NOBOA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1316,
+    "DPA_DESCAN": "24 DE MAYO",
+    "DPA_PARROQ": 131653,
+    "DPA_DESPAR": "ARQUITECTO SIXTO DURÁN BALLÉN"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1317,
+    "DPA_DESCAN": "PEDERNALES",
+    "DPA_PARROQ": 131750,
+    "DPA_DESPAR": "PEDERNALES"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1317,
+    "DPA_DESCAN": "PEDERNALES",
+    "DPA_PARROQ": 131751,
+    "DPA_DESPAR": "COJIMÍES"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1317,
+    "DPA_DESCAN": "PEDERNALES",
+    "DPA_PARROQ": 131752,
+    "DPA_DESPAR": "DIEZ DE AGOSTO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1317,
+    "DPA_DESCAN": "PEDERNALES",
+    "DPA_PARROQ": 131753,
+    "DPA_DESPAR": "ATAHUALPA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1318,
+    "DPA_DESCAN": "OLMEDO",
+    "DPA_PARROQ": 131850,
+    "DPA_DESPAR": "OLMEDO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1319,
+    "DPA_DESCAN": "PUERTO LÓPEZ",
+    "DPA_PARROQ": 131950,
+    "DPA_DESPAR": "PUERTO LÓPEZ"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1319,
+    "DPA_DESCAN": "PUERTO LÓPEZ",
+    "DPA_PARROQ": 131951,
+    "DPA_DESPAR": "MACHALILLA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1319,
+    "DPA_DESCAN": "PUERTO LÓPEZ",
+    "DPA_PARROQ": 131952,
+    "DPA_DESPAR": "SALANGO"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1320,
+    "DPA_DESCAN": "JAMA",
+    "DPA_PARROQ": 132050,
+    "DPA_DESPAR": "JAMA"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1321,
+    "DPA_DESCAN": "JARAMIJÓ",
+    "DPA_PARROQ": 132150,
+    "DPA_DESPAR": "JARAMIJÓ"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1322,
+    "DPA_DESCAN": "SAN VICENTE",
+    "DPA_PARROQ": 132250,
+    "DPA_DESPAR": "SAN VICENTE"
+  },
+  {
+    "DPA_PROVIN": 13,
+    "DPA_DESPRO": "MANABÍ",
+    "DPA_CANTON": 1322,
+    "DPA_DESCAN": "SAN VICENTE",
+    "DPA_PARROQ": 132251,
+    "DPA_DESPAR": "CANOA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140150,
+    "DPA_DESPAR": "MACAS"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140151,
+    "DPA_DESPAR": "ALSHI"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140153,
+    "DPA_DESPAR": "GENERAL PROAÑO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140156,
+    "DPA_DESPAR": "SAN ISIDRO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140157,
+    "DPA_DESPAR": "SEVILLA DON BOSCO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140158,
+    "DPA_DESPAR": "SINAÍ"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140160,
+    "DPA_DESPAR": "ZUÑA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140162,
+    "DPA_DESPAR": "CUCHAENTZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1401,
+    "DPA_DESCAN": "MORONA",
+    "DPA_PARROQ": 140164,
+    "DPA_DESPAR": "RÍO BLANCO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140250,
+    "DPA_DESPAR": "GUALAQUIZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140251,
+    "DPA_DESPAR": "AMAZONAS"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140252,
+    "DPA_DESPAR": "BERMEJOS"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140253,
+    "DPA_DESPAR": "BOMBOÍZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140254,
+    "DPA_DESPAR": "CHIGÜINDA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140255,
+    "DPA_DESPAR": "EL ROSARIO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140256,
+    "DPA_DESPAR": "NUEVA TARQUI"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140257,
+    "DPA_DESPAR": "SAN MIGUEL DE CUYES"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1402,
+    "DPA_DESCAN": "GUALAQUIZA",
+    "DPA_PARROQ": 140258,
+    "DPA_DESPAR": "EL IDEAL"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1403,
+    "DPA_DESCAN": "LIMÓN INDANZA",
+    "DPA_PARROQ": 140350,
+    "DPA_DESPAR": "GENERAL LEONIDAS PLAZA GUTIÉRREZ"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1403,
+    "DPA_DESCAN": "LIMÓN INDANZA",
+    "DPA_PARROQ": 140351,
+    "DPA_DESPAR": "INDANZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1403,
+    "DPA_DESCAN": "LIMÓN INDANZA",
+    "DPA_PARROQ": 140353,
+    "DPA_DESPAR": "SAN ANTONIO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1403,
+    "DPA_DESCAN": "LIMÓN INDANZA",
+    "DPA_PARROQ": 140356,
+    "DPA_DESPAR": "SAN MIGUEL DE CONCHAY"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1403,
+    "DPA_DESCAN": "LIMÓN INDANZA",
+    "DPA_PARROQ": 140357,
+    "DPA_DESPAR": "SANTA SUSANA DE CHIVIAZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1403,
+    "DPA_DESCAN": "LIMÓN INDANZA",
+    "DPA_PARROQ": 140358,
+    "DPA_DESPAR": "YUNGANZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1404,
+    "DPA_DESCAN": "PALORA",
+    "DPA_PARROQ": 140450,
+    "DPA_DESPAR": "PALORA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1404,
+    "DPA_DESCAN": "PALORA",
+    "DPA_PARROQ": 140451,
+    "DPA_DESPAR": "ARAPICOS"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1404,
+    "DPA_DESCAN": "PALORA",
+    "DPA_PARROQ": 140452,
+    "DPA_DESPAR": "CUMANDÁ"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1404,
+    "DPA_DESCAN": "PALORA",
+    "DPA_PARROQ": 140454,
+    "DPA_DESPAR": "SANGAY"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1404,
+    "DPA_DESCAN": "PALORA",
+    "DPA_PARROQ": 140455,
+    "DPA_DESPAR": "16 DE AGOSTO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1405,
+    "DPA_DESCAN": "SANTIAGO",
+    "DPA_PARROQ": 140550,
+    "DPA_DESPAR": "SANTIAGO DE MÉNDEZ"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1405,
+    "DPA_DESCAN": "SANTIAGO",
+    "DPA_PARROQ": 140551,
+    "DPA_DESPAR": "COPAL"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1405,
+    "DPA_DESCAN": "SANTIAGO",
+    "DPA_PARROQ": 140552,
+    "DPA_DESPAR": "CHUPIANZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1405,
+    "DPA_DESCAN": "SANTIAGO",
+    "DPA_PARROQ": 140553,
+    "DPA_DESPAR": "PATUCA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1405,
+    "DPA_DESCAN": "SANTIAGO",
+    "DPA_PARROQ": 140554,
+    "DPA_DESPAR": "SAN LUIS DE EL ACHO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1405,
+    "DPA_DESCAN": "SANTIAGO",
+    "DPA_PARROQ": 140556,
+    "DPA_DESPAR": "TAYUZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1405,
+    "DPA_DESCAN": "SANTIAGO",
+    "DPA_PARROQ": 140557,
+    "DPA_DESPAR": "SAN FRANCISCO DE CHINIMBIMI"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1406,
+    "DPA_DESCAN": "SUCÚA",
+    "DPA_PARROQ": 140650,
+    "DPA_DESPAR": "SUCÚA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1406,
+    "DPA_DESCAN": "SUCÚA",
+    "DPA_PARROQ": 140651,
+    "DPA_DESPAR": "ASUNCIÓN"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1406,
+    "DPA_DESCAN": "SUCÚA",
+    "DPA_PARROQ": 140652,
+    "DPA_DESPAR": "HUAMBI"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1406,
+    "DPA_DESCAN": "SUCÚA",
+    "DPA_PARROQ": 140655,
+    "DPA_DESPAR": "SANTA MARIANITA DE JESÚS"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1407,
+    "DPA_DESCAN": "HUAMBOYA",
+    "DPA_PARROQ": 140750,
+    "DPA_DESPAR": "HUAMBOYA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1407,
+    "DPA_DESCAN": "HUAMBOYA",
+    "DPA_PARROQ": 140751,
+    "DPA_DESPAR": "CHIGUAZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1408,
+    "DPA_DESCAN": "SAN JUAN BOSCO",
+    "DPA_PARROQ": 140850,
+    "DPA_DESPAR": "SAN JUAN BOSCO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1408,
+    "DPA_DESCAN": "SAN JUAN BOSCO",
+    "DPA_PARROQ": 140851,
+    "DPA_DESPAR": "PAN DE AZÚCAR"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1408,
+    "DPA_DESCAN": "SAN JUAN BOSCO",
+    "DPA_PARROQ": 140852,
+    "DPA_DESPAR": "SAN CARLOS DE LIMÓN"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1408,
+    "DPA_DESCAN": "SAN JUAN BOSCO",
+    "DPA_PARROQ": 140853,
+    "DPA_DESPAR": "SAN JACINTO DE WAKAMBEIS"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1408,
+    "DPA_DESCAN": "SAN JUAN BOSCO",
+    "DPA_PARROQ": 140854,
+    "DPA_DESPAR": "SANTIAGO DE PANANZA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1409,
+    "DPA_DESCAN": "TAISHA",
+    "DPA_PARROQ": 140950,
+    "DPA_DESPAR": "TAISHA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1409,
+    "DPA_DESCAN": "TAISHA",
+    "DPA_PARROQ": 140951,
+    "DPA_DESPAR": "HUASAGA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1409,
+    "DPA_DESCAN": "TAISHA",
+    "DPA_PARROQ": 140952,
+    "DPA_DESPAR": "MACUMA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1409,
+    "DPA_DESCAN": "TAISHA",
+    "DPA_PARROQ": 140953,
+    "DPA_DESPAR": "TUUTINENTSA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1409,
+    "DPA_DESCAN": "TAISHA",
+    "DPA_PARROQ": 140954,
+    "DPA_DESPAR": "PUMPUENTSA"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1410,
+    "DPA_DESCAN": "LOGROÑO",
+    "DPA_PARROQ": 141050,
+    "DPA_DESPAR": "LOGROÑO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1410,
+    "DPA_DESCAN": "LOGROÑO",
+    "DPA_PARROQ": 141051,
+    "DPA_DESPAR": "YAUPI"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1410,
+    "DPA_DESCAN": "LOGROÑO",
+    "DPA_PARROQ": 141052,
+    "DPA_DESPAR": "SHIMPIS"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1411,
+    "DPA_DESCAN": "PABLO SEXTO",
+    "DPA_PARROQ": 141150,
+    "DPA_DESPAR": "PABLO SEXTO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1412,
+    "DPA_DESCAN": "TIWINTZA",
+    "DPA_PARROQ": 141250,
+    "DPA_DESPAR": "SANTIAGO"
+  },
+  {
+    "DPA_PROVIN": 14,
+    "DPA_DESPRO": "MORONA SANTIAGO",
+    "DPA_CANTON": 1412,
+    "DPA_DESCAN": "TIWINTZA",
+    "DPA_PARROQ": 141251,
+    "DPA_DESPAR": "SAN JOSÉ DE MORONA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150150,
+    "DPA_DESPAR": "TENA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150151,
+    "DPA_DESPAR": "AHUANO"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150153,
+    "DPA_DESPAR": "CHONTAPUNTA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150154,
+    "DPA_DESPAR": "PANO"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150155,
+    "DPA_DESPAR": "PUERTO MISAHUALLÍ"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150156,
+    "DPA_DESPAR": "PUERTO NAPO"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150157,
+    "DPA_DESPAR": "TÁLAG"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1501,
+    "DPA_DESCAN": "TENA",
+    "DPA_PARROQ": 150158,
+    "DPA_DESPAR": "SAN JUAN DE MUYUNA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1503,
+    "DPA_DESCAN": "ARCHIDONA",
+    "DPA_PARROQ": 150350,
+    "DPA_DESPAR": "ARCHIDONA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1503,
+    "DPA_DESCAN": "ARCHIDONA",
+    "DPA_PARROQ": 150352,
+    "DPA_DESPAR": "COTUNDO"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1503,
+    "DPA_DESCAN": "ARCHIDONA",
+    "DPA_PARROQ": 150354,
+    "DPA_DESPAR": "SAN PABLO DE USHPAYACU"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1503,
+    "DPA_DESCAN": "ARCHIDONA",
+    "DPA_PARROQ": 150356,
+    "DPA_DESPAR": "HATUN SUMAKU"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1504,
+    "DPA_DESCAN": "EL CHACO",
+    "DPA_PARROQ": 150450,
+    "DPA_DESPAR": "EL CHACO"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1504,
+    "DPA_DESCAN": "EL CHACO",
+    "DPA_PARROQ": 150451,
+    "DPA_DESPAR": "GONZALO DÍAZ DE PINEDA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1504,
+    "DPA_DESCAN": "EL CHACO",
+    "DPA_PARROQ": 150452,
+    "DPA_DESPAR": "LINARES"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1504,
+    "DPA_DESCAN": "EL CHACO",
+    "DPA_PARROQ": 150453,
+    "DPA_DESPAR": "OYACACHI"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1504,
+    "DPA_DESCAN": "EL CHACO",
+    "DPA_PARROQ": 150454,
+    "DPA_DESPAR": "SANTA ROSA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1504,
+    "DPA_DESCAN": "EL CHACO",
+    "DPA_PARROQ": 150455,
+    "DPA_DESPAR": "SARDINAS"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1507,
+    "DPA_DESCAN": "QUIJOS",
+    "DPA_PARROQ": 150750,
+    "DPA_DESPAR": "BAEZA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1507,
+    "DPA_DESCAN": "QUIJOS",
+    "DPA_PARROQ": 150751,
+    "DPA_DESPAR": "COSANGA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1507,
+    "DPA_DESCAN": "QUIJOS",
+    "DPA_PARROQ": 150752,
+    "DPA_DESPAR": "CUYUJA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1507,
+    "DPA_DESCAN": "QUIJOS",
+    "DPA_PARROQ": 150753,
+    "DPA_DESPAR": "PAPALLACTA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1507,
+    "DPA_DESCAN": "QUIJOS",
+    "DPA_PARROQ": 150754,
+    "DPA_DESPAR": "SAN FRANCISCO DE BORJA"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1507,
+    "DPA_DESCAN": "QUIJOS",
+    "DPA_PARROQ": 150756,
+    "DPA_DESPAR": "SUMACO"
+  },
+  {
+    "DPA_PROVIN": 15,
+    "DPA_DESPRO": "NAPO",
+    "DPA_CANTON": 1509,
+    "DPA_DESCAN": "CARLOS JULIO AROSEMENA TOLA",
+    "DPA_PARROQ": 150950,
+    "DPA_DESPAR": "CARLOS JULIO AROSEMENA TOLA"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160150,
+    "DPA_DESPAR": "PUYO"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160152,
+    "DPA_DESPAR": "CANELOS"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160154,
+    "DPA_DESPAR": "DIEZ DE AGOSTO"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160155,
+    "DPA_DESPAR": "FÁTIMA"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160156,
+    "DPA_DESPAR": "MONTALVO"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160157,
+    "DPA_DESPAR": "POMONA"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160158,
+    "DPA_DESPAR": "RÍO CORRIENTES"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160159,
+    "DPA_DESPAR": "RÍO TIGRE"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160161,
+    "DPA_DESPAR": "SARAYACU"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160162,
+    "DPA_DESPAR": "SIMÓN BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160163,
+    "DPA_DESPAR": "TARQUI"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160164,
+    "DPA_DESPAR": "TENIENTE HUGO ORTIZ"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160165,
+    "DPA_DESPAR": "VERACRUZ"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1601,
+    "DPA_DESCAN": "PASTAZA",
+    "DPA_PARROQ": 160166,
+    "DPA_DESPAR": "EL TRIUNFO"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1602,
+    "DPA_DESCAN": "MERA",
+    "DPA_PARROQ": 160250,
+    "DPA_DESPAR": "MERA"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1602,
+    "DPA_DESCAN": "MERA",
+    "DPA_PARROQ": 160251,
+    "DPA_DESPAR": "MADRE TIERRA"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1602,
+    "DPA_DESCAN": "MERA",
+    "DPA_PARROQ": 160252,
+    "DPA_DESPAR": "SHELL"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1603,
+    "DPA_DESCAN": "SANTA CLARA",
+    "DPA_PARROQ": 160350,
+    "DPA_DESPAR": "SANTA CLARA"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1603,
+    "DPA_DESCAN": "SANTA CLARA",
+    "DPA_PARROQ": 160351,
+    "DPA_DESPAR": "SAN JOSÉ"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1604,
+    "DPA_DESCAN": "ARAJUNO",
+    "DPA_PARROQ": 160450,
+    "DPA_DESPAR": "ARAJUNO"
+  },
+  {
+    "DPA_PROVIN": 16,
+    "DPA_DESPRO": "PASTAZA",
+    "DPA_CANTON": 1604,
+    "DPA_DESCAN": "ARAJUNO",
+    "DPA_PARROQ": 160451,
+    "DPA_DESPAR": "CURARAY"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170150,
+    "DPA_DESPAR": "QUITO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170151,
+    "DPA_DESPAR": "ALANGASÍ"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170152,
+    "DPA_DESPAR": "AMAGUAÑA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170153,
+    "DPA_DESPAR": "ATAHUALPA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170154,
+    "DPA_DESPAR": "CALACALÍ"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170155,
+    "DPA_DESPAR": "CALDERÓN"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170156,
+    "DPA_DESPAR": "CONOCOTO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170157,
+    "DPA_DESPAR": "CUMBAYÁ"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170158,
+    "DPA_DESPAR": "CHAVEZPAMBA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170159,
+    "DPA_DESPAR": "CHECA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170160,
+    "DPA_DESPAR": "EL QUINCHE"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170161,
+    "DPA_DESPAR": "GUALEA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170162,
+    "DPA_DESPAR": "GUANGOPOLO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170163,
+    "DPA_DESPAR": "GUAYLLABAMBA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170164,
+    "DPA_DESPAR": "LA MERCED"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170165,
+    "DPA_DESPAR": "LLANO CHICO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170166,
+    "DPA_DESPAR": "LLOA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170168,
+    "DPA_DESPAR": "NANEGAL"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170169,
+    "DPA_DESPAR": "NANEGALITO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170170,
+    "DPA_DESPAR": "NAYÓN"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170171,
+    "DPA_DESPAR": "NONO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170172,
+    "DPA_DESPAR": "PACTO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170174,
+    "DPA_DESPAR": "PERUCHO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170175,
+    "DPA_DESPAR": "PIFO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170176,
+    "DPA_DESPAR": "PÍNTAG"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170177,
+    "DPA_DESPAR": "POMASQUI"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170178,
+    "DPA_DESPAR": "PUÉLLARO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170179,
+    "DPA_DESPAR": "PUEMBO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170180,
+    "DPA_DESPAR": "SAN ANTONIO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170181,
+    "DPA_DESPAR": "SAN JOSÉ DE MINAS"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170183,
+    "DPA_DESPAR": "TABABELA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170184,
+    "DPA_DESPAR": "TUMBACO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170185,
+    "DPA_DESPAR": "YARUQUÍ"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1701,
+    "DPA_DESCAN": "DISTRITO METROPOLITANO DE QUITO",
+    "DPA_PARROQ": 170186,
+    "DPA_DESPAR": "ZÁMBIZA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1702,
+    "DPA_DESCAN": "CAYAMBE",
+    "DPA_PARROQ": 170250,
+    "DPA_DESPAR": "CAYAMBE"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1702,
+    "DPA_DESCAN": "CAYAMBE",
+    "DPA_PARROQ": 170251,
+    "DPA_DESPAR": "ASCÁZUBI"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1702,
+    "DPA_DESCAN": "CAYAMBE",
+    "DPA_PARROQ": 170252,
+    "DPA_DESPAR": "CANGAHUA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1702,
+    "DPA_DESCAN": "CAYAMBE",
+    "DPA_PARROQ": 170253,
+    "DPA_DESPAR": "OLMEDO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1702,
+    "DPA_DESCAN": "CAYAMBE",
+    "DPA_PARROQ": 170254,
+    "DPA_DESPAR": "OTÓN"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1702,
+    "DPA_DESCAN": "CAYAMBE",
+    "DPA_PARROQ": 170255,
+    "DPA_DESPAR": "SANTA ROSA DE CUZUBAMBA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1702,
+    "DPA_DESCAN": "CAYAMBE",
+    "DPA_PARROQ": 170256,
+    "DPA_DESPAR": "SAN JOSÉ DE AYORA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170350,
+    "DPA_DESPAR": "MACHACHI"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170351,
+    "DPA_DESPAR": "ALOAG"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170352,
+    "DPA_DESPAR": "ALOASÍ"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170353,
+    "DPA_DESPAR": "CUTUGLAHUA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170354,
+    "DPA_DESPAR": "EL CHAUPI"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170355,
+    "DPA_DESPAR": "MANUEL CORNEJO ASTORGA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170356,
+    "DPA_DESPAR": "TAMBILLO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1703,
+    "DPA_DESCAN": "MEJÍA",
+    "DPA_PARROQ": 170357,
+    "DPA_DESPAR": "UYUMBICHO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1704,
+    "DPA_DESCAN": "PEDRO MONCAYO",
+    "DPA_PARROQ": 170450,
+    "DPA_DESPAR": "TABACUNDO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1704,
+    "DPA_DESCAN": "PEDRO MONCAYO",
+    "DPA_PARROQ": 170451,
+    "DPA_DESPAR": "LA ESPERANZA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1704,
+    "DPA_DESCAN": "PEDRO MONCAYO",
+    "DPA_PARROQ": 170452,
+    "DPA_DESPAR": "MALCHINGUÍ"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1704,
+    "DPA_DESCAN": "PEDRO MONCAYO",
+    "DPA_PARROQ": 170453,
+    "DPA_DESPAR": "TOCACHI"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1704,
+    "DPA_DESCAN": "PEDRO MONCAYO",
+    "DPA_PARROQ": 170454,
+    "DPA_DESPAR": "TUPIGACHI"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1705,
+    "DPA_DESCAN": "RUMIÑAHUI",
+    "DPA_PARROQ": 170550,
+    "DPA_DESPAR": "SANGOLQUÍ"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1705,
+    "DPA_DESCAN": "RUMIÑAHUI",
+    "DPA_PARROQ": 170551,
+    "DPA_DESPAR": "COTOGCHOA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1705,
+    "DPA_DESCAN": "RUMIÑAHUI",
+    "DPA_PARROQ": 170552,
+    "DPA_DESPAR": "RUMIPAMBA"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1707,
+    "DPA_DESCAN": "SAN MIGUEL DE LOS BANCOS",
+    "DPA_PARROQ": 170750,
+    "DPA_DESPAR": "SAN MIGUEL DE LOS BANCOS"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1707,
+    "DPA_DESCAN": "SAN MIGUEL DE LOS BANCOS",
+    "DPA_PARROQ": 170751,
+    "DPA_DESPAR": "MINDO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1708,
+    "DPA_DESCAN": "PEDRO VICENTE MALDONADO",
+    "DPA_PARROQ": 170850,
+    "DPA_DESPAR": "PEDRO VICENTE MALDONADO"
+  },
+  {
+    "DPA_PROVIN": 17,
+    "DPA_DESPRO": "PICHINCHA",
+    "DPA_CANTON": 1709,
+    "DPA_DESCAN": "PUERTO QUITO",
+    "DPA_PARROQ": 170950,
+    "DPA_DESPAR": "PUERTO QUITO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180150,
+    "DPA_DESPAR": "AMBATO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180151,
+    "DPA_DESPAR": "AMBATILLO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180152,
+    "DPA_DESPAR": "ATAHUALPA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180153,
+    "DPA_DESPAR": "AUGUSTO N. MARTÍNEZ"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180154,
+    "DPA_DESPAR": "CONSTANTINO FERNÁNDEZ"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180155,
+    "DPA_DESPAR": "HUACHI GRANDE"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180156,
+    "DPA_DESPAR": "IZAMBA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180157,
+    "DPA_DESPAR": "JUAN BENIGNO VELA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180158,
+    "DPA_DESPAR": "MONTALVO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180159,
+    "DPA_DESPAR": "PASA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180160,
+    "DPA_DESPAR": "PICAIHUA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180161,
+    "DPA_DESPAR": "PILAGÜÍN"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180162,
+    "DPA_DESPAR": "QUISAPINCHA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180163,
+    "DPA_DESPAR": "SAN BARTOLOMÉ DE PINLLO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180164,
+    "DPA_DESPAR": "SAN FERNANDO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180165,
+    "DPA_DESPAR": "SANTA ROSA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180166,
+    "DPA_DESPAR": "TOTORAS"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180167,
+    "DPA_DESPAR": "CUNCHIBAMBA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1801,
+    "DPA_DESCAN": "AMBATO",
+    "DPA_PARROQ": 180168,
+    "DPA_DESPAR": "UNAMUNCHO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1802,
+    "DPA_DESCAN": "BAÑOS DE AGUA SANTA",
+    "DPA_PARROQ": 180250,
+    "DPA_DESPAR": "BAÑOS"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1802,
+    "DPA_DESCAN": "BAÑOS DE AGUA SANTA",
+    "DPA_PARROQ": 180251,
+    "DPA_DESPAR": "LLIGUA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1802,
+    "DPA_DESCAN": "BAÑOS DE AGUA SANTA",
+    "DPA_PARROQ": 180252,
+    "DPA_DESPAR": "RÍO NEGRO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1802,
+    "DPA_DESCAN": "BAÑOS DE AGUA SANTA",
+    "DPA_PARROQ": 180253,
+    "DPA_DESPAR": "RÍO VERDE"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1802,
+    "DPA_DESCAN": "BAÑOS DE AGUA SANTA",
+    "DPA_PARROQ": 180254,
+    "DPA_DESPAR": "ULBA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1803,
+    "DPA_DESCAN": "CEVALLOS",
+    "DPA_PARROQ": 180350,
+    "DPA_DESPAR": "CEVALLOS"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1804,
+    "DPA_DESCAN": "MOCHA",
+    "DPA_PARROQ": 180450,
+    "DPA_DESPAR": "MOCHA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1804,
+    "DPA_DESCAN": "MOCHA",
+    "DPA_PARROQ": 180451,
+    "DPA_DESPAR": "PINGUILÍ"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1805,
+    "DPA_DESCAN": "PATATE",
+    "DPA_PARROQ": 180550,
+    "DPA_DESPAR": "PATATE"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1805,
+    "DPA_DESCAN": "PATATE",
+    "DPA_PARROQ": 180551,
+    "DPA_DESPAR": "EL TRIUNFO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1805,
+    "DPA_DESCAN": "PATATE",
+    "DPA_PARROQ": 180552,
+    "DPA_DESPAR": "LOS ANDES"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1805,
+    "DPA_DESCAN": "PATATE",
+    "DPA_PARROQ": 180553,
+    "DPA_DESPAR": "SUCRE"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1806,
+    "DPA_DESCAN": "QUERO",
+    "DPA_PARROQ": 180650,
+    "DPA_DESPAR": "QUERO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1806,
+    "DPA_DESCAN": "QUERO",
+    "DPA_PARROQ": 180651,
+    "DPA_DESPAR": "RUMIPAMBA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1806,
+    "DPA_DESCAN": "QUERO",
+    "DPA_PARROQ": 180652,
+    "DPA_DESPAR": "YANAYACU-MOCHAPATA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180750,
+    "DPA_DESPAR": "PELILEO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180751,
+    "DPA_DESPAR": "BENÍTEZ"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180752,
+    "DPA_DESPAR": "BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180753,
+    "DPA_DESPAR": "COTALÓ"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180754,
+    "DPA_DESPAR": "CHIQUICHA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180755,
+    "DPA_DESPAR": "EL ROSARIO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180756,
+    "DPA_DESPAR": "GARCÍA MORENO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180757,
+    "DPA_DESPAR": "GUAMBALÓ"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1807,
+    "DPA_DESCAN": "SAN PEDRO DE PELILEO",
+    "DPA_PARROQ": 180758,
+    "DPA_DESPAR": "SALASACA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180850,
+    "DPA_DESPAR": "PÍLLARO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180851,
+    "DPA_DESPAR": "BAQUERIZO MORENO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180852,
+    "DPA_DESPAR": "EMILIO MARÍA TERÁN"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180853,
+    "DPA_DESPAR": "MARCOS ESPINEL"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180854,
+    "DPA_DESPAR": "PRESIDENTE URBINA"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180855,
+    "DPA_DESPAR": "SAN ANDRÉS"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180856,
+    "DPA_DESPAR": "SAN JOSÉ DE POALÓ"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1808,
+    "DPA_DESCAN": "SANTIAGO DE PÍLLARO",
+    "DPA_PARROQ": 180857,
+    "DPA_DESPAR": "SAN MIGUELITO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1809,
+    "DPA_DESCAN": "TISALEO",
+    "DPA_PARROQ": 180950,
+    "DPA_DESPAR": "TISALEO"
+  },
+  {
+    "DPA_PROVIN": 18,
+    "DPA_DESPRO": "TUNGURAHUA",
+    "DPA_CANTON": 1809,
+    "DPA_DESCAN": "TISALEO",
+    "DPA_PARROQ": 180951,
+    "DPA_DESPAR": "QUINCHICOTO"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1901,
+    "DPA_DESCAN": "ZAMORA",
+    "DPA_PARROQ": 190150,
+    "DPA_DESPAR": "ZAMORA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1901,
+    "DPA_DESCAN": "ZAMORA",
+    "DPA_PARROQ": 190151,
+    "DPA_DESPAR": "CUMBARATZA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1901,
+    "DPA_DESCAN": "ZAMORA",
+    "DPA_PARROQ": 190152,
+    "DPA_DESPAR": "GUADALUPE"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1901,
+    "DPA_DESCAN": "ZAMORA",
+    "DPA_PARROQ": 190153,
+    "DPA_DESPAR": "IMBANA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1901,
+    "DPA_DESCAN": "ZAMORA",
+    "DPA_PARROQ": 190155,
+    "DPA_DESPAR": "SABANILLA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1901,
+    "DPA_DESCAN": "ZAMORA",
+    "DPA_PARROQ": 190156,
+    "DPA_DESPAR": "TIMBARA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1901,
+    "DPA_DESCAN": "ZAMORA",
+    "DPA_PARROQ": 190158,
+    "DPA_DESPAR": "SAN CARLOS DE LAS MINAS"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1902,
+    "DPA_DESCAN": "CHINCHIPE",
+    "DPA_PARROQ": 190250,
+    "DPA_DESPAR": "ZUMBA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1902,
+    "DPA_DESCAN": "CHINCHIPE",
+    "DPA_PARROQ": 190251,
+    "DPA_DESPAR": "CHITO"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1902,
+    "DPA_DESCAN": "CHINCHIPE",
+    "DPA_PARROQ": 190252,
+    "DPA_DESPAR": "EL CHORRO"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1902,
+    "DPA_DESCAN": "CHINCHIPE",
+    "DPA_PARROQ": 190254,
+    "DPA_DESPAR": "LA CHONTA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1902,
+    "DPA_DESCAN": "CHINCHIPE",
+    "DPA_PARROQ": 190256,
+    "DPA_DESPAR": "PUCAPAMBA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1902,
+    "DPA_DESCAN": "CHINCHIPE",
+    "DPA_PARROQ": 190259,
+    "DPA_DESPAR": "SAN ANDRÉS"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1903,
+    "DPA_DESCAN": "NANGARITZA",
+    "DPA_PARROQ": 190350,
+    "DPA_DESPAR": "GUAYZIMI"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1903,
+    "DPA_DESCAN": "NANGARITZA",
+    "DPA_PARROQ": 190351,
+    "DPA_DESPAR": "ZURMI"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1903,
+    "DPA_DESCAN": "NANGARITZA",
+    "DPA_PARROQ": 190352,
+    "DPA_DESPAR": "NUEVO PARAÍSO"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1903,
+    "DPA_DESCAN": "NANGARITZA",
+    "DPA_PARROQ": 190353,
+    "DPA_DESPAR": "NANKAIS"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1904,
+    "DPA_DESCAN": "YACUAMBI",
+    "DPA_PARROQ": 190450,
+    "DPA_DESPAR": "28 DE MAYO"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1904,
+    "DPA_DESCAN": "YACUAMBI",
+    "DPA_PARROQ": 190451,
+    "DPA_DESPAR": "LA PAZ"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1904,
+    "DPA_DESCAN": "YACUAMBI",
+    "DPA_PARROQ": 190452,
+    "DPA_DESPAR": "TUTUPALI"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1905,
+    "DPA_DESCAN": "YANTZAZA",
+    "DPA_PARROQ": 190550,
+    "DPA_DESPAR": "YANTZAZA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1905,
+    "DPA_DESCAN": "YANTZAZA",
+    "DPA_PARROQ": 190551,
+    "DPA_DESPAR": "CHICAÑA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1905,
+    "DPA_DESCAN": "YANTZAZA",
+    "DPA_PARROQ": 190553,
+    "DPA_DESPAR": "LOS ENCUENTROS"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1906,
+    "DPA_DESCAN": "EL PANGUI",
+    "DPA_PARROQ": 190650,
+    "DPA_DESPAR": "EL PANGUI"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1906,
+    "DPA_DESCAN": "EL PANGUI",
+    "DPA_PARROQ": 190651,
+    "DPA_DESPAR": "EL GUISME"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1906,
+    "DPA_DESCAN": "EL PANGUI",
+    "DPA_PARROQ": 190652,
+    "DPA_DESPAR": "PACHICUTZA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1906,
+    "DPA_DESCAN": "EL PANGUI",
+    "DPA_PARROQ": 190653,
+    "DPA_DESPAR": "TUNDAYME"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1907,
+    "DPA_DESCAN": "CENTINELA DEL CÓNDOR",
+    "DPA_PARROQ": 190750,
+    "DPA_DESPAR": "ZUMBI"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1907,
+    "DPA_DESCAN": "CENTINELA DEL CÓNDOR",
+    "DPA_PARROQ": 190752,
+    "DPA_DESPAR": "TRIUNFO DORADO"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1907,
+    "DPA_DESCAN": "CENTINELA DEL CÓNDOR",
+    "DPA_PARROQ": 190753,
+    "DPA_DESPAR": "PANGUINTZA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1908,
+    "DPA_DESCAN": "PALANDA",
+    "DPA_PARROQ": 190850,
+    "DPA_DESPAR": "PALANDA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1908,
+    "DPA_DESCAN": "PALANDA",
+    "DPA_PARROQ": 190851,
+    "DPA_DESPAR": "EL PORVENIR DEL CARMEN"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1908,
+    "DPA_DESCAN": "PALANDA",
+    "DPA_PARROQ": 190852,
+    "DPA_DESPAR": "SAN FRANCISCO DEL VERGEL"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1908,
+    "DPA_DESCAN": "PALANDA",
+    "DPA_PARROQ": 190853,
+    "DPA_DESPAR": "VALLADOLID"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1908,
+    "DPA_DESCAN": "PALANDA",
+    "DPA_PARROQ": 190854,
+    "DPA_DESPAR": "LA CANELA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1909,
+    "DPA_DESCAN": "PAQUISHA",
+    "DPA_PARROQ": 190950,
+    "DPA_DESPAR": "PAQUISHA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1909,
+    "DPA_DESCAN": "PAQUISHA",
+    "DPA_PARROQ": 190951,
+    "DPA_DESPAR": "BELLAVISTA"
+  },
+  {
+    "DPA_PROVIN": 19,
+    "DPA_DESPRO": "ZAMORA CHINCHIPE",
+    "DPA_CANTON": 1909,
+    "DPA_DESCAN": "PAQUISHA",
+    "DPA_PARROQ": 190952,
+    "DPA_DESPAR": "NUEVO QUITO"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2001,
+    "DPA_DESCAN": "SAN CRISTÓBAL",
+    "DPA_PARROQ": 200150,
+    "DPA_DESPAR": "PUERTO BAQUERIZO MORENO"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2001,
+    "DPA_DESCAN": "SAN CRISTÓBAL",
+    "DPA_PARROQ": 200151,
+    "DPA_DESPAR": "EL PROGRESO"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2001,
+    "DPA_DESCAN": "SAN CRISTÓBAL",
+    "DPA_PARROQ": 200152,
+    "DPA_DESPAR": "ISLA SANTA MARÍA FLOREANA"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2002,
+    "DPA_DESCAN": "ISABELA",
+    "DPA_PARROQ": 200250,
+    "DPA_DESPAR": "PUERTO VILLAMIL"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2002,
+    "DPA_DESCAN": "ISABELA",
+    "DPA_PARROQ": 200251,
+    "DPA_DESPAR": "TOMÁS DE BERLANGA"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2003,
+    "DPA_DESCAN": "SANTA CRUZ",
+    "DPA_PARROQ": 200350,
+    "DPA_DESPAR": "PUERTO AYORA"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2003,
+    "DPA_DESCAN": "SANTA CRUZ",
+    "DPA_PARROQ": 200351,
+    "DPA_DESPAR": "BELLA VISTA"
+  },
+  {
+    "DPA_PROVIN": 20,
+    "DPA_DESPRO": "GALÁPAGOS",
+    "DPA_CANTON": 2003,
+    "DPA_DESCAN": "SANTA CRUZ",
+    "DPA_PARROQ": 200352,
+    "DPA_DESPAR": "SANTA ROSA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210150,
+    "DPA_DESPAR": "NUEVA LOJA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210152,
+    "DPA_DESPAR": "DURENO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210153,
+    "DPA_DESPAR": "GENERAL FARFÁN"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210155,
+    "DPA_DESPAR": "EL ENO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210156,
+    "DPA_DESPAR": "PACAYACU"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210157,
+    "DPA_DESPAR": "JAMBELÍ"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210158,
+    "DPA_DESPAR": "SANTA CECILIA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2101,
+    "DPA_DESCAN": "LAGO AGRIO",
+    "DPA_PARROQ": 210160,
+    "DPA_DESPAR": "10 DE AGOSTO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2102,
+    "DPA_DESCAN": "GONZALO PIZARRO",
+    "DPA_PARROQ": 210250,
+    "DPA_DESPAR": "LUMBAQUÍ"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2102,
+    "DPA_DESCAN": "GONZALO PIZARRO",
+    "DPA_PARROQ": 210251,
+    "DPA_DESPAR": "EL REVENTADOR"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2102,
+    "DPA_DESCAN": "GONZALO PIZARRO",
+    "DPA_PARROQ": 210252,
+    "DPA_DESPAR": "GONZALO PIZARRO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2102,
+    "DPA_DESCAN": "GONZALO PIZARRO",
+    "DPA_PARROQ": 210254,
+    "DPA_DESPAR": "PUERTO LIBRE"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2103,
+    "DPA_DESCAN": "PUTUMAYO",
+    "DPA_PARROQ": 210350,
+    "DPA_DESPAR": "PUERTO EL CARMEN DE PUTUMAYO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2103,
+    "DPA_DESCAN": "PUTUMAYO",
+    "DPA_PARROQ": 210351,
+    "DPA_DESPAR": "PALMA ROJA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2103,
+    "DPA_DESCAN": "PUTUMAYO",
+    "DPA_PARROQ": 210352,
+    "DPA_DESPAR": "PUERTO BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2103,
+    "DPA_DESCAN": "PUTUMAYO",
+    "DPA_PARROQ": 210353,
+    "DPA_DESPAR": "PUERTO RODRÍGUEZ"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2103,
+    "DPA_DESCAN": "PUTUMAYO",
+    "DPA_PARROQ": 210354,
+    "DPA_DESPAR": "SANTA ELENA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2103,
+    "DPA_DESCAN": "PUTUMAYO",
+    "DPA_PARROQ": 210355,
+    "DPA_DESPAR": "SANSAHUARI"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2104,
+    "DPA_DESCAN": "SHUSHUFINDI",
+    "DPA_PARROQ": 210450,
+    "DPA_DESPAR": "SHUSHUFINDI"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2104,
+    "DPA_DESCAN": "SHUSHUFINDI",
+    "DPA_PARROQ": 210451,
+    "DPA_DESPAR": "LIMONCOCHA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2104,
+    "DPA_DESCAN": "SHUSHUFINDI",
+    "DPA_PARROQ": 210452,
+    "DPA_DESPAR": "PAÑACOCHA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2104,
+    "DPA_DESCAN": "SHUSHUFINDI",
+    "DPA_PARROQ": 210453,
+    "DPA_DESPAR": "SAN ROQUE"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2104,
+    "DPA_DESCAN": "SHUSHUFINDI",
+    "DPA_PARROQ": 210454,
+    "DPA_DESPAR": "SAN PEDRO DE LOS COFÁNES"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2104,
+    "DPA_DESCAN": "SHUSHUFINDI",
+    "DPA_PARROQ": 210455,
+    "DPA_DESPAR": "SIETE DE JULIO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2105,
+    "DPA_DESCAN": "SUCUMBÍOS",
+    "DPA_PARROQ": 210550,
+    "DPA_DESPAR": "LA BONITA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2105,
+    "DPA_DESCAN": "SUCUMBÍOS",
+    "DPA_PARROQ": 210551,
+    "DPA_DESPAR": "EL PLAYÓN DE SAN FRANCISCO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2105,
+    "DPA_DESCAN": "SUCUMBÍOS",
+    "DPA_PARROQ": 210552,
+    "DPA_DESPAR": "LA SOFÍA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2105,
+    "DPA_DESCAN": "SUCUMBÍOS",
+    "DPA_PARROQ": 210553,
+    "DPA_DESPAR": "ROSA FLORIDA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2105,
+    "DPA_DESCAN": "SUCUMBÍOS",
+    "DPA_PARROQ": 210554,
+    "DPA_DESPAR": "SANTA BÁRBARA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2106,
+    "DPA_DESCAN": "CASCALES",
+    "DPA_PARROQ": 210650,
+    "DPA_DESPAR": "EL DORADO DE CASCALES"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2106,
+    "DPA_DESCAN": "CASCALES",
+    "DPA_PARROQ": 210651,
+    "DPA_DESPAR": "SANTA ROSA DE SUCUMBÍOS"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2106,
+    "DPA_DESCAN": "CASCALES",
+    "DPA_PARROQ": 210652,
+    "DPA_DESPAR": "SEVILLA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2106,
+    "DPA_DESCAN": "CASCALES",
+    "DPA_PARROQ": 210653,
+    "DPA_DESPAR": "NUEVA TRONCAL"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2107,
+    "DPA_DESCAN": "CUYABENO",
+    "DPA_PARROQ": 210750,
+    "DPA_DESPAR": "TARAPOA"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2107,
+    "DPA_DESCAN": "CUYABENO",
+    "DPA_PARROQ": 210751,
+    "DPA_DESPAR": "CUYABENO"
+  },
+  {
+    "DPA_PROVIN": 21,
+    "DPA_DESPRO": "SUCUMBÍOS",
+    "DPA_CANTON": 2107,
+    "DPA_DESCAN": "CUYABENO",
+    "DPA_PARROQ": 210752,
+    "DPA_DESPAR": "AGUAS NEGRAS"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220150,
+    "DPA_DESPAR": "EL COCA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220151,
+    "DPA_DESPAR": "DAYUMA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220152,
+    "DPA_DESPAR": "TARACOA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220153,
+    "DPA_DESPAR": "ALEJANDRO LABAKA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220154,
+    "DPA_DESPAR": "EL DORADO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220155,
+    "DPA_DESPAR": "EL EDÉN"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220156,
+    "DPA_DESPAR": "GARCÍA MORENO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220157,
+    "DPA_DESPAR": "INÉS ARANGO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220158,
+    "DPA_DESPAR": "LA BELLEZA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220159,
+    "DPA_DESPAR": "NUEVO PARAÍSO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220160,
+    "DPA_DESPAR": "SAN JOSÉ DE GUAYUSA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2201,
+    "DPA_DESCAN": "FRANCISCO DE ORELLANA",
+    "DPA_PARROQ": 220161,
+    "DPA_DESPAR": "SAN LUIS DE ARMENIA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2202,
+    "DPA_DESCAN": "AGUARICO",
+    "DPA_PARROQ": 220250,
+    "DPA_DESPAR": "NUEVO ROCAFUERTE"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2202,
+    "DPA_DESCAN": "AGUARICO",
+    "DPA_PARROQ": 220251,
+    "DPA_DESPAR": "CAPITÁN AUGUSTO RIVADENEYRA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2202,
+    "DPA_DESCAN": "AGUARICO",
+    "DPA_PARROQ": 220252,
+    "DPA_DESPAR": "CONONACO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2202,
+    "DPA_DESCAN": "AGUARICO",
+    "DPA_PARROQ": 220253,
+    "DPA_DESPAR": "SANTA MARÍA DE HUIRIRIMA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2202,
+    "DPA_DESCAN": "AGUARICO",
+    "DPA_PARROQ": 220255,
+    "DPA_DESPAR": "YASUNÍ"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220350,
+    "DPA_DESPAR": "LA JOYA DE LOS SACHAS"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220351,
+    "DPA_DESPAR": "ENOKANQUI"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220352,
+    "DPA_DESPAR": "POMPEYA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220353,
+    "DPA_DESPAR": "SAN CARLOS"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220354,
+    "DPA_DESPAR": "SAN SEBASTIÁN DEL COCA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220355,
+    "DPA_DESPAR": "LAGO SAN PEDRO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220356,
+    "DPA_DESPAR": "RUMIPAMBA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220357,
+    "DPA_DESPAR": "TRES DE NOVIEMBRE"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2203,
+    "DPA_DESCAN": "LA JOYA DE LOS SACHAS",
+    "DPA_PARROQ": 220358,
+    "DPA_DESPAR": "UNIÓN MILAGREÑA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2204,
+    "DPA_DESCAN": "LORETO",
+    "DPA_PARROQ": 220450,
+    "DPA_DESPAR": "LORETO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2204,
+    "DPA_DESCAN": "LORETO",
+    "DPA_PARROQ": 220451,
+    "DPA_DESPAR": "ÁVILA"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2204,
+    "DPA_DESCAN": "LORETO",
+    "DPA_PARROQ": 220452,
+    "DPA_DESPAR": "PUERTO MURIALDO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2204,
+    "DPA_DESCAN": "LORETO",
+    "DPA_PARROQ": 220453,
+    "DPA_DESPAR": "SAN JOSÉ DE PAYAMINO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2204,
+    "DPA_DESCAN": "LORETO",
+    "DPA_PARROQ": 220454,
+    "DPA_DESPAR": "SAN JOSÉ DE DAHUANO"
+  },
+  {
+    "DPA_PROVIN": 22,
+    "DPA_DESPRO": "ORELLANA",
+    "DPA_CANTON": 2204,
+    "DPA_DESCAN": "LORETO",
+    "DPA_PARROQ": 220455,
+    "DPA_DESPAR": "SAN VICENTE DE HUATICOCHA"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230150,
+    "DPA_DESPAR": "SANTO DOMINGO DE LOS COLORADOS"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230151,
+    "DPA_DESPAR": "ALLURIQUÍN"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230152,
+    "DPA_DESPAR": "PUERTO LIMÓN"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230153,
+    "DPA_DESPAR": "LUZ DE AMÉRICA"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230154,
+    "DPA_DESPAR": "SAN JACINTO DEL BÚA"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230155,
+    "DPA_DESPAR": "VALLE HERMOSO"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230156,
+    "DPA_DESPAR": "EL ESFUERZO"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2301,
+    "DPA_DESCAN": "SANTO DOMINGO",
+    "DPA_PARROQ": 230157,
+    "DPA_DESPAR": "SANTA MARÍA DEL TOACHI"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2302,
+    "DPA_DESCAN": "LA CONCORDIA",
+    "DPA_PARROQ": 230250,
+    "DPA_DESPAR": "LA CONCORDIA"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2302,
+    "DPA_DESCAN": "LA CONCORDIA",
+    "DPA_PARROQ": 230251,
+    "DPA_DESPAR": "MONTERREY"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2302,
+    "DPA_DESCAN": "LA CONCORDIA",
+    "DPA_PARROQ": 230252,
+    "DPA_DESPAR": "LA VILLEGAS"
+  },
+  {
+    "DPA_PROVIN": 23,
+    "DPA_DESPRO": "SANTO DOMINGO DE LOS TSÁCHILAS",
+    "DPA_CANTON": 2302,
+    "DPA_DESCAN": "LA CONCORDIA",
+    "DPA_PARROQ": 230253,
+    "DPA_DESPAR": "PLAN PILOTO"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2401,
+    "DPA_DESCAN": "SANTA ELENA",
+    "DPA_PARROQ": 240150,
+    "DPA_DESPAR": "SANTA ELENA"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2401,
+    "DPA_DESCAN": "SANTA ELENA",
+    "DPA_PARROQ": 240151,
+    "DPA_DESPAR": "ATAHUALPA"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2401,
+    "DPA_DESCAN": "SANTA ELENA",
+    "DPA_PARROQ": 240152,
+    "DPA_DESPAR": "COLONCHE"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2401,
+    "DPA_DESCAN": "SANTA ELENA",
+    "DPA_PARROQ": 240153,
+    "DPA_DESPAR": "CHANDUY"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2401,
+    "DPA_DESCAN": "SANTA ELENA",
+    "DPA_PARROQ": 240154,
+    "DPA_DESPAR": "MANGLARALTO"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2401,
+    "DPA_DESCAN": "SANTA ELENA",
+    "DPA_PARROQ": 240155,
+    "DPA_DESPAR": "SIMÓN BOLÍVAR"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2401,
+    "DPA_DESCAN": "SANTA ELENA",
+    "DPA_PARROQ": 240156,
+    "DPA_DESPAR": "SAN JOSÉ DE ANCÓN"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2402,
+    "DPA_DESCAN": "LA LIBERTAD",
+    "DPA_PARROQ": 240250,
+    "DPA_DESPAR": "LA LIBERTAD"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2403,
+    "DPA_DESCAN": "SALINAS",
+    "DPA_PARROQ": 240350,
+    "DPA_DESPAR": "SALINAS"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2403,
+    "DPA_DESCAN": "SALINAS",
+    "DPA_PARROQ": 240351,
+    "DPA_DESPAR": "ANCONCITO"
+  },
+  {
+    "DPA_PROVIN": 24,
+    "DPA_DESPRO": "SANTA ELENA",
+    "DPA_CANTON": 2403,
+    "DPA_DESCAN": "SALINAS",
+    "DPA_PARROQ": 240352,
+    "DPA_DESPAR": "JOSÉ LUIS TAMAYO"
+  }
+]

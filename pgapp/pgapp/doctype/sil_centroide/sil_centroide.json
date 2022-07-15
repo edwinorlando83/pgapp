@@ -1,0 +1,61 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:cent_pda",
+ "creation": "2022-07-15 14:10:03.563027",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "cent_pda",
+  "cent_lat",
+  "cent_lon"
+ ],
+ "fields": [
+  {
+   "fieldname": "cent_pda",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "cent_pda",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "cent_lat",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "cent_lat",
+   "reqd": 1
+  },
+  {
+   "fieldname": "cent_lon",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "cent_lon",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-15 14:23:42.876973",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_centroide",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

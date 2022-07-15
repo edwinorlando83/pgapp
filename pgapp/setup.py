@@ -1,5 +1,6 @@
-import frappe
-import json
+import frappe,os
+import json 
+import csv
 
 def after_install ():
     config_app()
@@ -165,5 +166,50 @@ def config_app():
     per.per_ennumero = 12
     per.tipper_codigo = "TR"
     per.insert()
+    frappe.db.commit()
+    insertDPA();
+    insertcentroides();
 
+#bench --site silweb execute pgapp.setup.insertDPA 
+def insertDPA( ):
+    ruta = os.path.abspath(frappe.get_app_path("pgapp","datos"))
+    dpas= abrirjson(ruta+"/dpa.json") 
+    frappe.db.delete("sil_dpa")
+    for rw in dpas:
+        dpa = frappe.new_doc("sil_dpa")
+        dpa.dpa_anio = "2020"
+        dpa.dpa_provincia = str(rw["DPA_PROVIN"]).zfill(2)
+        dpa.dpa_canton = str(rw["DPA_CANTON"]).zfill(4)
+        dpa.dpa_parroquia = str(rw["DPA_PARROQ"]).zfill(6)
+        dpa.dpa_nprovincia = rw["DPA_DESPRO"]
+        dpa.dpa_ncanton = rw["DPA_DESCAN"]
+        dpa.dpa_nparroquia = rw["DPA_DESPAR"]
+        dpa.insert()
+    
+    print("DPA insertados")
+#bench --site silweb execute pgapp.setup.insertcentroides 
+def insertcentroides():
+    ruta = os.path.abspath(frappe.get_app_path("pgapp","datos"))
+    frappe.db.delete("sil_centroide")
+    with open(ruta+'/centroides.csv') as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=',')
+        line_count = 0
+        for row in csv_reader:
+            if line_count == 0:
+                print(f' ===> {", ".join(row)}')
+                line_count += 1
+            else:
+              
+                dpac = frappe.new_doc("sil_centroide")
+                dpac.cent_pda = row[0]
+                dpac.cent_lat = row[1]
+                dpac.cent_lon = row[2]
+                dpac.insert()
 
+                line_count += 1
+    print(f'Processed {line_count} lines.')
+
+def abrirjson(ruta):
+    	with open(ruta, 'r') as f:
+            data = json.load(f)
+            return data
