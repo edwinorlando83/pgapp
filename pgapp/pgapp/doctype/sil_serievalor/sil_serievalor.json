@@ -1,43 +1,28 @@
 {
  "actions": [],
  "allow_import": 1,
- "autoname": "field:serval_codigo",
+ "autoname": "format:{ind_codigo}-{per_codigo}-{period_codigo}",
  "creation": "2021-07-03 18:07:38.020678",
  "doctype": "DocType",
  "document_type": "Document",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "sil_ingreso_ind",
-  "sil_periodicidad",
-  "sil_periodo",
-  "column_break_3",
+  "ind_codigo",
   "ind_nombre",
+  "per_codigo",
   "ind_geof",
-  "section_break_2",
-  "sil_ing_valorserie",
-  "serval_codigo",
+  "period_codigo",
+  "serval_meta",
+  "serval_valor",
+  "serval_codcategoria",
+  "serval_categoria",
+  "serval_longitud",
+  "serval_latitud",
+  "column_break_3",
   "amended_from"
  ],
  "fields": [
-  {
-   "fieldname": "section_break_2",
-   "fieldtype": "Section Break"
-  },
-  {
-   "allow_bulk_edit": 1,
-   "fieldname": "sil_ing_valorserie",
-   "fieldtype": "Table",
-   "label": "sil_ing_valorserie",
-   "options": "sil_ing_valorserie"
-  },
-  {
-   "fieldname": "sil_ingreso_ind",
-   "fieldtype": "Link",
-   "label": "Indicador",
-   "options": "sil_indicador",
-   "reqd": 1
-  },
   {
    "fetch_from": "sil_ingreso_ind.ind_geof",
    "fieldname": "ind_geof",
@@ -50,30 +35,64 @@
    "fieldtype": "Column Break"
   },
   {
-   "fetch_from": "sil_ingreso_ind.ind_nombre",
+   "fetch_from": "ind_codigo.ind_nombre",
    "fieldname": "ind_nombre",
    "fieldtype": "Read Only",
+   "in_list_view": 1,
    "label": "Indicador nombre"
   },
   {
-   "fetch_from": "sil_ingreso_ind.sil_periodicidad",
-   "fieldname": "sil_periodicidad",
-   "fieldtype": "Read Only",
-   "label": "sil_periodicidad"
-  },
-  {
-   "fieldname": "sil_periodo",
+   "fieldname": "period_codigo",
    "fieldtype": "Link",
+   "in_list_view": 1,
    "label": "sil_periodo",
    "options": "sil_periodo",
    "reqd": 1
   },
   {
-   "fieldname": "serval_codigo",
+   "fieldname": "ind_codigo",
+   "fieldtype": "Link",
+   "label": "Indicador",
+   "options": "sil_indicador",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "sil_ingreso_ind.sil_periodicidad",
+   "fieldname": "per_codigo",
+   "fieldtype": "Link",
+   "label": "sil_periodicidad",
+   "options": "sil_periodicidad",
+   "reqd": 1
+  },
+  {
+   "fieldname": "serval_meta",
+   "fieldtype": "Currency",
+   "label": "SERVAL_META"
+  },
+  {
+   "fieldname": "serval_valor",
+   "fieldtype": "Currency",
+   "label": "SERVAL_VALOR "
+  },
+  {
+   "fieldname": "serval_codcategoria",
    "fieldtype": "Data",
-   "hidden": 1,
-   "label": "serval_codigo",
-   "unique": 1
+   "label": "SERVAL_CODCATEGORIA "
+  },
+  {
+   "fieldname": "serval_categoria",
+   "fieldtype": "Data",
+   "label": "SERVAL_CATEGORIA "
+  },
+  {
+   "fieldname": "serval_longitud",
+   "fieldtype": "Float",
+   "label": "SERVAL_LONGITUD "
+  },
+  {
+   "fieldname": "serval_latitud",
+   "fieldtype": "Float",
+   "label": "SERVAL_LATITUD"
   },
   {
    "fieldname": "amended_from",
@@ -85,9 +104,8 @@
    "read_only": 1
   }
  ],
- "is_submittable": 1,
  "links": [],
- "modified": "2021-08-01 09:48:09.421599",
+ "modified": "2022-07-15 08:01:01.680405",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
@@ -132,5 +150,6 @@
  ],
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "ind_nombre",
  "track_changes": 1
 }

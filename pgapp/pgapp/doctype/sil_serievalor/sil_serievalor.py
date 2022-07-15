@@ -7,12 +7,12 @@ import frappe
 from frappe.model.document import Document
 
 class sil_serievalor(Document):
-	def before_insert(self):
-		if not self.sil_periodicidad:
-			indicador = frappe.get_doc("sil_indicador",self.sil_ingreso_ind) 
-			self.sil_periodicidad = indicador.sil_periodicidad
+	#def before_insert(self):
+		#if not self.sil_periodicidad:
+			#indicador = frappe.get_doc("sil_indicador",self.sil_ingreso_ind) 
+			#self.sil_periodicidad = indicador.sil_periodicidad
 			
-		self.serval_codigo = self.sil_ingreso_ind+"_" +self.sil_periodicidad+"_" + self.sil_periodo
+		#self.serval_codigo = self.sil_ingreso_ind+"_" +self.sil_periodicidad+"_" + self.sil_periodo
 
 	@frappe.whitelist()
 	def getProvincia(self):

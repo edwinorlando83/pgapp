@@ -9,37 +9,52 @@
   "period_codigo",
   "period_anio",
   "period_mes",
-  "period_estado"
+  "period_estado",
+  "tipper_codigo"
  ],
  "fields": [
   {
    "fieldname": "period_codigo",
    "fieldtype": "Data",
-   "in_list_view": 1,
+   "hidden": 1,
    "label": "C\u00f3digo",
-   "reqd": 1,
    "unique": 1
   },
   {
    "fieldname": "period_anio",
    "fieldtype": "Int",
-   "label": "A\u00f1o"
+   "in_list_view": 1,
+   "label": "A\u00f1o",
+   "non_negative": 1,
+   "reqd": 1
   },
   {
+   "description": "1->Enero, 2-> Febrero, ... 12->Diciembre",
    "fieldname": "period_mes",
-   "fieldtype": "Data",
-   "label": "Mes"
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Mes (n\u00famero)",
+   "non_negative": 1,
+   "reqd": 1
   },
   {
    "default": "ABIERTO",
    "fieldname": "period_estado",
    "fieldtype": "Select",
+   "in_list_view": 1,
    "label": "Estado",
-   "options": "ABIERTO\nCERRADO"
+   "options": "ABIERTO\nCERRADO",
+   "reqd": 1
+  },
+  {
+   "fieldname": "tipper_codigo",
+   "fieldtype": "Link",
+   "label": "tipper_codigo",
+   "options": "sil_tipoperiodicidad"
   }
  ],
  "links": [],
- "modified": "2021-07-30 10:35:12.986965",
+ "modified": "2022-07-15 06:40:27.106323",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_periodo",

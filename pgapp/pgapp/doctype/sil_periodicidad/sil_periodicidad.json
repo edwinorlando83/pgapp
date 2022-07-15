@@ -16,7 +16,6 @@
   {
    "fieldname": "per_codigo",
    "fieldtype": "Data",
-   "in_list_view": 1,
    "label": "C\u00f3digo",
    "reqd": 1,
    "unique": 1
@@ -29,12 +28,15 @@
   {
    "fieldname": "per_ennumero",
    "fieldtype": "Int",
+   "in_list_view": 1,
    "label": "per_ennumero",
    "reqd": 1
   },
   {
    "fieldname": "tipper_codigo",
    "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
    "label": "tipper_codigo",
    "options": "sil_tipoperiodicidad",
    "reqd": 1
@@ -42,12 +44,13 @@
   {
    "fieldname": "per_nombre",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "Nombre",
    "reqd": 1
   }
  ],
  "links": [],
- "modified": "2022-07-15 05:37:35.059673",
+ "modified": "2022-07-15 07:00:17.442823",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_periodicidad",
@@ -88,6 +91,7 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "per_nombre,per_ennumero",
  "sort_field": "modified",
  "sort_order": "DESC",
  "track_changes": 1

@@ -1,20 +1,21 @@
 {
  "actions": [],
- "creation": "2021-08-27 20:57:34.593124",
+ "creation": "2022-07-15 07:33:12.941068",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
   "url",
   "dpa_provincia",
-  "dpa_canton"
+  "dpa_canton",
+  "par_anio"
  ],
  "fields": [
   {
    "description": "Dominio donde se est\u00e1 ejecutando la aplicaci\u00f3n, por ejemplo: http://frappe:8081",
    "fieldname": "url",
    "fieldtype": "Data",
-   "label": "Url Servidor Frappe"
+   "label": "Url Servidor "
   },
   {
    "description": "C\u00f3digo DPA ejemplo: 18 para Tungurahua",
@@ -26,15 +27,22 @@
    "fieldname": "dpa_canton",
    "fieldtype": "Data",
    "label": "C\u00f3digo DPA del Cant\u00f3n"
+  },
+  {
+   "fieldname": "par_anio",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "A\u00f1o Actual",
+   "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2021-09-25 09:26:27.469669",
+ "modified": "2022-07-15 07:33:12.941068",
  "modified_by": "Administrator",
- "module": "inversiones",
- "name": "parametros",
+ "module": "pgapp",
+ "name": "sil_parametrosg",
  "owner": "Administrator",
  "permissions": [
   {

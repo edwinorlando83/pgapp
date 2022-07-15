@@ -1,7 +1,7 @@
-// Copyright (c) 2021, orlando and contributors
+// Copyright (c) 2022, orlando and contributors
 // For license information, please see license.txt
 
-frappe.ui.form.on('paramatros', {
+frappe.ui.form.on('sil_parametrosg', {
 	// refresh: function(frm) {
 
 	// }
