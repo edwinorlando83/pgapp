@@ -28,6 +28,8 @@ def generar_sil_serievalor(ind_codigo, tipper_codigo , ind_geof):
             ser.serval_longitud = dpa.longitud
             ser.serval_latitud = dpa.latitud   
             ser.insert()
+            frappe.db.commit()
+            
 
 def referecnias_geografica(ind_geof):
 

@@ -247,6 +247,190 @@ def insertsatelites():
     obj.unimed_codigo = "KM"
     obj.unimed_desc = "KILOMETROS"
     obj.insert()
+    ################
+  
+    frappe.db.delete("sil_tipovalor")
+    obj = frappe.new_doc("sil_tipovalor")
+    obj.tipval_codigo = "VUN"
+    obj.tipval_descripcion = "Valor Único"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipovalor")
+    obj.tipval_codigo = "VPC"
+    obj.tipval_descripcion = "Valor porcentual por Categoria"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipovalor")
+    obj.tipval_codigo = "VUC"
+    obj.tipval_descripcion = "Valor unico por categoria"
+    obj.insert()
+    ################
+
+    frappe.db.delete("sil_tipoadjunto")
+    obj = frappe.new_doc("sil_tipoadjunto")
+    obj.tipadj_codigo = "IMG"
+    obj.tipadj_desc = "IMAGEN"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoadjunto")
+    obj.tipadj_codigo = "VID"
+    obj.tipadj_desc = "VIDEO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoadjunto")
+    obj.tipadj_codigo = "PDF"
+    obj.tipadj_desc = "DOCUMENTO PD"
+    obj.insert()
+    ################
+
+    frappe.db.delete("sil_componente")
+    obj = frappe.new_doc("sil_componente")
+    obj.com_codigo = "TE"
+    obj.com_nombre = "Territorial"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_componente")
+    obj.com_codigo = "AC"
+    obj.com_nombre = "Atencion Ciudadana"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_componente")
+    obj.com_codigo = "AF"
+    obj.com_nombre = "Administrativo Financiero"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_componente")
+    obj.com_codigo = "IP"
+    obj.com_nombre = "Institucional"
+    obj.insert()
+
+    ################
+
+    frappe.db.delete("sil_estado")
+    obj = frappe.new_doc("sil_estado")
+    obj.est_codigo = "A"
+    obj.est_descripcion = "ACTIVO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_estado")
+    obj.est_codigo = "I"
+    obj.est_descripcion = "INACTIVO"
+    obj.insert()
+
+     ################
+
+    frappe.db.delete("sil_estadoobra")
+    obj = frappe.new_doc("sil_estadoobra")
+    obj.estobr_codigo = "I"
+    obj.estobr_desc = "Inicio"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_estadoobra")
+    obj.estobr_codigo = "P"
+    obj.estobr_desc = "En Proceso"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_estadoobra")
+    obj.estobr_codigo = "T"
+    obj.estobr_desc = "Terminada"
+    obj.insert()
+
+    ################
+
+    frappe.db.delete("sil_tipoobra")
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "VIAVIA"
+    obj.tipobr_icono = "VIAS"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "VIAASF"
+    obj.tipobr_icono = "ASFALTADO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "VIAADO"
+    obj.tipobr_icono = "ADOQUINADO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "VIAEMP"
+    obj.tipobr_icono = "EMPREDADO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "VIALAS"
+    obj.tipobr_icono = "LASTRADO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "ALCDUC"
+    obj.tipobr_icono = "ALCANTARILLADO DUCTOS"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "LIMDES"
+    obj.tipobr_icono = "LIMPIEZA Y DESAZOLVE"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "CANRIE"
+    obj.tipobr_icono = "CANALES DE RIEGO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "REHRIE"
+    obj.tipobr_icono = "REHABILITACION RIEGO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "DRAREL"
+    obj.tipobr_icono = "DRAGADO Y RELLENO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "PUEPUE"
+    obj.tipobr_icono = "PUENTES"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "AGRAGR"
+    obj.tipobr_icono = "AGROPECUARIO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "EQUIEQUI"
+    obj.tipobr_icono = "EQUIPAMIENTO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "MEJRIE"
+    obj.tipobr_icono = "MEJORAMIENTO RIEGO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "MEJVIA"
+    obj.tipobr_icono = "MEJORAMIENTO VIAL"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "MURCON"
+    obj.tipobr_icono = "MURO DE CONTENCION"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "CONEST"
+    obj.tipobr_icono = "CONSULTORIA ESTUDIOS"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipoobra")
+    obj.tipobr_desc = "OTROBR "
+    obj.tipobr_icono = "OTRAS OBRA"
+    obj.insert()
+
+
+
+
 
 #bench --site silweb execute pgapp.setup.insertcentroides 
 def insertcentroides():

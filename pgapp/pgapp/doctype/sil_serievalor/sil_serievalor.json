@@ -11,15 +11,23 @@
   "ind_codigo",
   "ind_nombre",
   "per_codigo",
-  "ind_dpa",
-  "dpa_descripcion",
-  "ind_geof",
   "period_codigo",
   "serval_meta",
   "serval_valor",
+  "column_break_4",
+  "ind_geof",
+  "ind_dpa",
+  "dpa_descripcion",
+  "ind_nprovincia",
+  "ind_ncanton",
+  "ind_nparroquia",
+  "section_break_11",
   "serval_codcategoria",
+  "column_break_13",
   "serval_categoria",
+  "section_break_12",
   "serval_longitud",
+  "column_break_14",
   "serval_latitud",
   "column_break_3",
   "amended_from"
@@ -49,14 +57,16 @@
    "in_list_view": 1,
    "label": "Periodo",
    "options": "sil_periodo",
-   "reqd": 1
+   "reqd": 1,
+   "set_only_once": 1
   },
   {
    "fieldname": "ind_codigo",
    "fieldtype": "Link",
    "label": "Indicador",
    "options": "sil_indicador",
-   "reqd": 1
+   "reqd": 1,
+   "set_only_once": 1
   },
   {
    "fetch_from": "sil_ingreso_ind.sil_periodicidad",
@@ -64,7 +74,8 @@
    "fieldtype": "Link",
    "label": "Periodicidad",
    "options": "sil_periodicidad",
-   "reqd": 1
+   "reqd": 1,
+   "set_only_once": 1
   },
   {
    "fieldname": "serval_meta",
@@ -90,13 +101,15 @@
    "fieldname": "serval_longitud",
    "fieldtype": "Float",
    "label": "Longitud",
-   "precision": "9"
+   "precision": "9",
+   "set_only_once": 1
   },
   {
    "fieldname": "serval_latitud",
    "fieldtype": "Float",
    "label": "Latitud",
-   "precision": "9"
+   "precision": "9",
+   "set_only_once": 1
   },
   {
    "fieldname": "amended_from",
@@ -112,18 +125,55 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "DPA",
-   "reqd": 1
+   "reqd": 1,
+   "set_only_once": 1
   },
   {
    "fieldname": "dpa_descripcion",
    "fieldtype": "Data",
    "label": "Descripci\u00f3n",
    "read_only": 1
+  },
+  {
+   "fieldname": "section_break_12",
+   "fieldtype": "Section Break",
+   "label": "Coordenadas"
+  },
+  {
+   "fieldname": "column_break_14",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "section_break_11",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "column_break_13",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ind_nprovincia",
+   "fieldtype": "Read Only",
+   "label": "Provincia"
+  },
+  {
+   "fieldname": "ind_ncanton",
+   "fieldtype": "Read Only",
+   "label": "Cant\u00f3n"
+  },
+  {
+   "fieldname": "ind_nparroquia",
+   "fieldtype": "Read Only",
+   "label": "Parroquia"
   }
  ],
  "in_create": 1,
  "links": [],
- "modified": "2022-07-16 11:16:22.619473",
+ "modified": "2022-07-16 13:02:53.615482",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
