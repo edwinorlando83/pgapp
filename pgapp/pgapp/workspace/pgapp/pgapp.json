@@ -9,6 +9,7 @@
  "doctype": "Workspace",
  "extends_another_page": 0,
  "hide_custom": 0,
+ "icon": "crm",
  "idx": 0,
  "is_default": 0,
  "is_standard": 1,
@@ -166,7 +167,7 @@
    "type": "Link"
   }
  ],
- "modified": "2021-11-25 09:05:58.263354",
+ "modified": "2022-07-16 06:10:42.214011",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "pgapp",
