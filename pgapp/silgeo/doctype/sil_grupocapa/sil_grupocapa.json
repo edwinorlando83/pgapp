@@ -1,36 +1,40 @@
 {
  "actions": [],
- "autoname": "field:tipper_codigo",
- "creation": "2021-07-02 21:32:55.440790",
+ "allow_rename": 1,
+ "autoname": "field:grucap_codigo",
+ "creation": "2022-07-16 05:10:51.011157",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "tipper_codigo",
-  "tipper_descripcion"
+  "grucap_codigo",
+  "grucap_nombre",
+  "grucap_desc"
  ],
  "fields": [
   {
-   "fieldname": "tipper_codigo",
+   "fieldname": "grucap_codigo",
    "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "C\u00f3digo",
-   "reqd": 1,
+   "label": "GRUCAP_CODIGO",
    "unique": 1
   },
   {
-   "fieldname": "tipper_descripcion",
+   "fieldname": "grucap_nombre",
    "fieldtype": "Data",
-   "label": "Descripci\u00f3n",
-   "reqd": 1,
-   "unique": 1
+   "label": "GRUCAP_NOMBRE"
+  },
+  {
+   "fieldname": "grucap_desc",
+   "fieldtype": "Small Text",
+   "label": "GRUCAP_DESC"
   }
  ],
+ "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 05:00:40.679581",
+ "modified": "2022-07-16 05:11:46.417504",
  "modified_by": "Administrator",
- "module": "pgapp",
- "name": "sil_tipoperiodicidad",
+ "module": "silgeo",
+ "name": "sil_grupocapa",
  "owner": "Administrator",
  "permissions": [
   {
@@ -67,10 +71,6 @@
    "share": 1
   }
  ],
- "quick_entry": 1,
- "search_fields": "tipper_descripcion",
  "sort_field": "modified",
- "sort_order": "DESC",
- "title_field": "tipper_descripcion",
- "track_changes": 1
+ "sort_order": "DESC"
 }

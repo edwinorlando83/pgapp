@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "autoname": "field:adj_codigo",
  "creation": "2021-07-02 21:49:01.675028",
  "doctype": "DocType",
@@ -53,7 +54,8 @@
    "label": "adj_doc"
   }
  ],
- "modified": "2021-07-02 21:49:01.675028",
+ "links": [],
+ "modified": "2022-07-16 05:06:41.192368",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_adjuntos",
@@ -68,6 +70,30 @@
    "read": 1,
    "report": 1,
    "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "COORDINADOR",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "OPERADOR",
    "share": 1,
    "write": 1
   }

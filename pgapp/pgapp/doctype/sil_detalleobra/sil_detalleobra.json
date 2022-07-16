@@ -31,7 +31,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-05 09:41:00.508627",
+ "modified": "2022-07-16 05:02:35.725314",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_detalleobra",
@@ -48,6 +48,27 @@
    "role": "System Manager",
    "share": 1,
    "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "COORDINADOR",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "OPERADOR",
+   "share": 1
   }
  ],
  "sort_field": "modified",

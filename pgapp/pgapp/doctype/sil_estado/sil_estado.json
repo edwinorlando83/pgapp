@@ -1,4 +1,5 @@
 {
+ "actions": [],
  "autoname": "field:est_descripcion",
  "creation": "2021-07-02 21:12:48.860591",
  "doctype": "DocType",
@@ -24,7 +25,8 @@
    "unique": 1
   }
  ],
- "modified": "2021-07-02 22:04:32.279529",
+ "links": [],
+ "modified": "2022-07-16 05:06:08.701421",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_estado",
@@ -39,6 +41,27 @@
    "read": 1,
    "report": 1,
    "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "OPERADOR",
+   "share": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "COORDINADOR",
    "share": 1,
    "write": 1
   }
