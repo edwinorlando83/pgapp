@@ -91,3 +91,7 @@
       --icon-stroke: currentColor;
       --icon-fill-bg: var(--color-azul);
   }
+
+  img.app-logo {
+    min-height:90px;
+  }

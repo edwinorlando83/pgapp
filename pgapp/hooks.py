@@ -20,6 +20,9 @@ website_context = {
 }
 
 app_include_css = "/assets/pgapp/css/pgapp.css"
+app_logo_url = "/assets/pgapp/logo-gpm-2.png"
+brand_html = ' <img src="/assets/pgapp/logo-gpm-2.png"> '
+web_include_css = ["/assets/pgapp/css/pgapp.css" ]
 # Includes in <head>
 # ------------------
 
