@@ -16,7 +16,7 @@
    "fieldname": "sil_indicador",
    "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "sil_indicador",
+   "label": "Indicador",
    "options": "sil_indicador",
    "reqd": 1
   },
@@ -36,7 +36,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 05:03:50.765034",
+ "modified": "2022-07-16 11:24:11.327337",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_categoria",

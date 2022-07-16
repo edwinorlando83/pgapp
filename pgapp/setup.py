@@ -169,6 +169,7 @@ def config_app():
     frappe.db.commit()
     insertDPA();
     insertcentroides();
+    roles();
 
 #bench --site silweb execute pgapp.setup.insertDPA 
 def insertDPA( ):
@@ -187,6 +188,66 @@ def insertDPA( ):
         dpa.insert()
     
     print("DPA insertados")
+#bench --site silweb execute pgapp.setup.insertsatelites 
+def insertsatelites():
+    frappe.db.delete("sil_fuenteinformacion")
+    obj = frappe.new_doc("sil_fuenteinformacion")
+    obj.fueinf_codigo = "01"
+    obj.fueinf_descripcion = "Registro Institucional"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_fuenteinformacion")
+    obj.fueinf_codigo = "02"
+    obj.fueinf_descripcion = "Registro Admnistrativo del GAD"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_fuenteinformacion")
+    obj.fueinf_codigo = "03"
+    obj.fueinf_descripcion = "Catastro Predial Urbano o Rural"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_fuenteinformacion")
+    obj.fueinf_codigo = "04"
+    obj.fueinf_descripcion = "Certificados de Uso del Suelo"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_fuenteinformacion")
+    obj.fueinf_codigo = "05"
+    obj.fueinf_descripcion = "Reporte de Agua Potable y Alcantarillado"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_fuenteinformacion")
+    obj.fueinf_codigo = "06"
+    obj.fueinf_descripcion = "Sistema Financiero GAD"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_fuenteinformacion")
+    obj.fueinf_codigo = "07"
+    obj.fueinf_descripcion = "COE Provincial"
+    obj.insert()
+
+    ##### 
+    frappe.db.delete("sil_unidadmedida")
+    obj = frappe.new_doc("sil_unidadmedida")
+    obj.unimed_codigo = "POR"
+    obj.unimed_desc = "PORCENTAJE"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_unidadmedida")
+    obj.unimed_codigo = "NUM"
+    obj.unimed_desc = "NUMERO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_unidadmedida")
+    obj.unimed_codigo = "UNI"
+    obj.unimed_desc = "UNIDAD"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_unidadmedida")
+    obj.unimed_codigo = "KM"
+    obj.unimed_desc = "KILOMETROS"
+    obj.insert()
+
 #bench --site silweb execute pgapp.setup.insertcentroides 
 def insertcentroides():
     ruta = os.path.abspath(frappe.get_app_path("pgapp","datos"))
@@ -208,6 +269,30 @@ def insertcentroides():
 
                 line_count += 1
     print(f'Processed {line_count} lines.')
+
+def roles():
+    roles=['COORDINADOR','OPERADOR','Accounts User']
+    rol=frappe.new_doc('Role Profile')     
+    rol.role_profile="sil_admin"
+    rol.save()
+    ix=1
+    for r in roles:
+            hr=frappe.new_doc('Has Role')
+            hr.parent= rol.name
+            hr.role=r
+            hr.parentfield='roles'
+            hr.parenttype='Role Profile'
+            hr.idx=ix
+            hr.save()
+            ix=ix+1
+    
+    modprof = frappe.new_doc("Module Profile")
+    modprof.module_profile_name = "ModEmpresa"
+    modulosNoOcupa=["Workflow","Integrations","Custom","Website","Core","Social" ,"Event Streaming"]
+    for md in modulosNoOcupa:
+        modprof.append("block_modules", {"module": md} )
+    modprof.insert()
+
 
 def abrirjson(ruta):
     	with open(ruta, 'r') as f:

@@ -81,43 +81,43 @@
   {
    "fieldname": "ind_definicionformula",
    "fieldtype": "Small Text",
-   "label": "Definici\u00f3n de las variables relacionadas"
+   "label": "Definici\u00f3n de las Variables Relacionadas"
   },
   {
    "fieldname": "ind_metodologia",
    "fieldtype": "Data",
-   "label": "Metodolog\u00eda de calculo"
+   "label": "Metodolog\u00eda de C\u00e1lculo"
   },
   {
    "fieldname": "ind_unidadmedida",
    "fieldtype": "Select",
-   "label": "Unidad de medida o expresi\u00f3n del indicador",
+   "label": "Unidad de Medida o Expresi\u00f3n del Indicador",
    "options": "PORCENTAJE"
   },
   {
    "fieldname": "ind_interpretacion",
    "fieldtype": "Data",
-   "label": "Interpretaci\u00f3n del indicador"
+   "label": "Interpretaci\u00f3n del Indicador"
   },
   {
    "fieldname": "ind_disponibilidad",
    "fieldtype": "Data",
-   "label": "Disponibilidad de datos"
+   "label": "Disponibilidad de Datos"
   },
   {
    "fieldname": "ind_consejo",
    "fieldtype": "Data",
-   "label": "Consejo sectorial y/o instituci\u00f3n responsable de la transferencia de la informaci\u00f3n"
+   "label": "Consejo Sectorial y/o Instituci\u00f3n Responsable de la Transferencia de la Informaci\u00f3n"
   },
   {
    "fieldname": "ind_fechatrans",
    "fieldtype": "Data",
-   "label": "Fechas de la transferencia de la informaci\u00f3n"
+   "label": "Fechas de la Transferencia de la Informaci\u00f3n"
   },
   {
    "fieldname": "sec_nivel",
    "fieldtype": "Section Break",
-   "label": "Nivel de desagregaci\u00f3n "
+   "label": "Nivel de Desagregaci\u00f3n "
   },
   {
    "fieldname": "ind_geof",
@@ -236,13 +236,13 @@
   {
    "fieldname": "sil_formatosxindicador",
    "fieldtype": "Table",
-   "label": "Formatos por indicador",
+   "label": "Formatos por Indicador",
    "options": "sil_formatosxindicador"
   },
   {
    "fieldname": "tipper_codigo",
    "fieldtype": "Link",
-   "label": "Periodicidad del indicador",
+   "label": "Periodicidad del Indicador",
    "options": "sil_tipoperiodicidad",
    "reqd": 1
   },
@@ -256,7 +256,7 @@
   {
    "fieldname": "fueinf_codigo",
    "fieldtype": "Link",
-   "label": "Fuente de datos",
+   "label": "Fuente de Datos",
    "options": "sil_fuenteinformacion",
    "reqd": 1
   },
@@ -279,12 +279,12 @@
   {
    "fieldname": "unimed_codigo",
    "fieldtype": "Link",
-   "label": "unidad de medida",
+   "label": "Unidad de Medida",
    "options": "sil_unidadmedida"
   }
  ],
  "links": [],
- "modified": "2022-07-15 05:09:51.023854",
+ "modified": "2022-07-16 11:56:16.904013",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

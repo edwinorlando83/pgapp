@@ -32,14 +32,14 @@
    "fieldname": "grupo_capas",
    "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "grupo_capas ",
+   "label": "Grupo de Capas ",
    "options": "sil_grupocapa",
    "reqd": 1
   },
   {
    "fieldname": "servidores_mapa",
    "fieldtype": "Link",
-   "label": "servidores_mapa",
+   "label": "Servidores de Mapa",
    "options": "servidores_mapa",
    "reqd": 1
   },
@@ -64,7 +64,7 @@
    "default": "0",
    "fieldname": "inicio_marcado",
    "fieldtype": "Check",
-   "label": "Inicia marcado"
+   "label": "Inicio Marcado"
   },
   {
    "fieldname": "cap_origen",
@@ -79,7 +79,7 @@
   {
    "fieldname": "cap_fechaact",
    "fieldtype": "Date",
-   "label": "Fecha de actulizaci\u00f3n"
+   "label": "Fecha de Actulizaci\u00f3n"
   },
   {
    "fieldname": "cap_desc",
@@ -94,12 +94,12 @@
   {
    "fieldname": "sil_tipogeografico",
    "fieldtype": "Link",
-   "label": "Tipo Geografico",
+   "label": "Tipo Geogr\u00e1fico",
    "options": "sil_tipogeografico"
   }
  ],
  "links": [],
- "modified": "2022-07-16 05:11:56.310325",
+ "modified": "2022-07-16 11:27:47.380343",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "sil_capa",

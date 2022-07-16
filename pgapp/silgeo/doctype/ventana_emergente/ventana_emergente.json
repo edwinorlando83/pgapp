@@ -44,7 +44,7 @@
   {
    "fieldname": "naming_series",
    "fieldtype": "Code",
-   "label": "c\u00f3digo",
+   "label": "C\u00f3digo",
    "options": "EM-",
    "read_only": 1
   },
@@ -92,7 +92,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 05:12:32.564517",
+ "modified": "2022-07-16 11:18:43.671370",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "ventana_emergente",

@@ -16,7 +16,7 @@
    "fieldname": "cent_pda",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "cent_pda",
+   "label": "PDA",
    "reqd": 1,
    "unique": 1
   },
@@ -24,7 +24,7 @@
    "fieldname": "cent_lat",
    "fieldtype": "Float",
    "in_list_view": 1,
-   "label": "cent_lat",
+   "label": "Latitud",
    "precision": "9",
    "reqd": 1
   },
@@ -32,14 +32,14 @@
    "fieldname": "cent_lon",
    "fieldtype": "Float",
    "in_list_view": 1,
-   "label": "cent_lon",
+   "label": "Longitud",
    "precision": "9",
    "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 04:55:52.687584",
+ "modified": "2022-07-16 11:43:31.063582",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_centroide",

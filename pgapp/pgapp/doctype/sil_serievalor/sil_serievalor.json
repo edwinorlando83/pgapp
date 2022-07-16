@@ -47,7 +47,7 @@
    "fieldname": "period_codigo",
    "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "sil_periodo",
+   "label": "Periodo",
    "options": "sil_periodo",
    "reqd": 1
   },
@@ -62,46 +62,46 @@
    "fetch_from": "sil_ingreso_ind.sil_periodicidad",
    "fieldname": "per_codigo",
    "fieldtype": "Link",
-   "label": "sil_periodicidad",
+   "label": "Periodicidad",
    "options": "sil_periodicidad",
    "reqd": 1
   },
   {
    "fieldname": "serval_meta",
    "fieldtype": "Currency",
-   "label": "SERVAL_META"
+   "label": "Meta"
   },
   {
    "fieldname": "serval_valor",
    "fieldtype": "Currency",
-   "label": "SERVAL_VALOR "
+   "label": "Valor "
   },
   {
    "fieldname": "serval_codcategoria",
    "fieldtype": "Data",
-   "label": "SERVAL_CODCATEGORIA "
+   "label": "C\u00f3digo Categor\u00eda"
   },
   {
    "fieldname": "serval_categoria",
    "fieldtype": "Data",
-   "label": "SERVAL_CATEGORIA "
+   "label": "Categor\u00eda"
   },
   {
    "fieldname": "serval_longitud",
    "fieldtype": "Float",
-   "label": "SERVAL_LONGITUD ",
+   "label": "Longitud",
    "precision": "9"
   },
   {
    "fieldname": "serval_latitud",
    "fieldtype": "Float",
-   "label": "SERVAL_LATITUD",
+   "label": "Latitud",
    "precision": "9"
   },
   {
    "fieldname": "amended_from",
    "fieldtype": "Link",
-   "label": "Amended From",
+   "label": "Serie Valor",
    "no_copy": 1,
    "options": "sil_serievalor",
    "print_hide": 1,
@@ -111,18 +111,19 @@
    "fieldname": "ind_dpa",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "IND_DPA",
+   "label": "DPA",
    "reqd": 1
   },
   {
    "fieldname": "dpa_descripcion",
    "fieldtype": "Data",
-   "label": "DPA_DEScripcion",
+   "label": "Descripci\u00f3n",
    "read_only": 1
   }
  ],
+ "in_create": 1,
  "links": [],
- "modified": "2022-07-16 04:55:18.578484",
+ "modified": "2022-07-16 11:16:22.619473",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",

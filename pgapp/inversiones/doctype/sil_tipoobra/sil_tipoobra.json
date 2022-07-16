@@ -14,7 +14,7 @@
    "fieldname": "tipobr_desc",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Nombre",
+   "label": "Descripci\u00f3n",
    "reqd": 1,
    "unique": 1
   },
@@ -22,13 +22,13 @@
    "fieldname": "tipobr_icono",
    "fieldtype": "Attach Image",
    "hidden": 1,
-   "label": "icono"
+   "label": "Icono"
   }
  ],
  "image_field": "tipobr_icono",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 05:13:48.056879",
+ "modified": "2022-07-16 10:56:07.244672",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_tipoobra",

@@ -15,23 +15,23 @@
    "fieldname": "sil_version",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "version",
+   "label": "Versi\u00f3n",
    "reqd": 1
   },
   {
    "fieldname": "sil_objtivo",
    "fieldtype": "Data",
-   "label": "objetivo"
+   "label": "Objetivo"
   },
   {
    "fieldname": "sil_descripcion",
    "fieldtype": "Data",
-   "label": "descripcion"
+   "label": "Descripci\u00f3n"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 05:03:28.985827",
+ "modified": "2022-07-16 11:22:02.291702",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil",

@@ -14,7 +14,7 @@
    "fieldname": "gruind_codigo",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "C\u00f3odigo",
+   "label": "C\u00f3digo",
    "reqd": 1,
    "unique": 1
   },
@@ -27,7 +27,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-16 05:00:14.450030",
+ "modified": "2022-07-16 11:35:43.316442",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_grupoindicador",

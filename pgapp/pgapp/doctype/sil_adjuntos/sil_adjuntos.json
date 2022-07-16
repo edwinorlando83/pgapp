@@ -36,26 +36,26 @@
   {
    "fieldname": "adj_nombre",
    "fieldtype": "Data",
-   "label": "adj_nombre"
+   "label": "Nombre"
   },
   {
    "fieldname": "adj_descripcion",
    "fieldtype": "Data",
-   "label": "adj_descripcion"
+   "label": "Descripci\u00f3n"
   },
   {
    "fieldname": "adj_path",
    "fieldtype": "Data",
-   "label": "adj_path"
+   "label": "Path"
   },
   {
    "fieldname": "adj_doc",
    "fieldtype": "Attach",
-   "label": "adj_doc"
+   "label": "Documento"
   }
  ],
  "links": [],
- "modified": "2022-07-16 05:06:41.192368",
+ "modified": "2022-07-16 11:30:27.121620",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_adjuntos",

@@ -15,20 +15,20 @@
    "fieldname": "for_codigo",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Codigo",
+   "label": "C\u00f3digo",
    "reqd": 1,
    "unique": 1
   },
   {
    "fieldname": "for_descripcion",
    "fieldtype": "Data",
-   "label": "Dscripcion",
+   "label": "Descripci\u00f3n",
    "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 04:59:00.706330",
+ "modified": "2022-07-16 11:39:04.062411",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_formato",

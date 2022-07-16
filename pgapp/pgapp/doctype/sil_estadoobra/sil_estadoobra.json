@@ -15,20 +15,20 @@
    "fieldname": "estobr_codigo",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Codigo",
+   "label": "C\u00f3digo",
    "reqd": 1,
    "unique": 1
   },
   {
    "fieldname": "estobr_desc",
    "fieldtype": "Data",
-   "label": "Descripcion",
+   "label": "Descripci\u00f3n",
    "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 04:59:51.914320",
+ "modified": "2022-07-16 11:38:22.416267",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_estadoobra",

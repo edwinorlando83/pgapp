@@ -15,23 +15,23 @@
   {
    "fieldname": "grucap_codigo",
    "fieldtype": "Data",
-   "label": "GRUCAP_CODIGO",
+   "label": "C\u00f3digo",
    "unique": 1
   },
   {
    "fieldname": "grucap_nombre",
    "fieldtype": "Data",
-   "label": "GRUCAP_NOMBRE"
+   "label": "Nombre"
   },
   {
    "fieldname": "grucap_desc",
    "fieldtype": "Small Text",
-   "label": "GRUCAP_DESC"
+   "label": "Descripci\u00f3n"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 05:11:46.417504",
+ "modified": "2022-07-16 11:20:36.305799",
  "modified_by": "Administrator",
  "module": "silgeo",
  "name": "sil_grupocapa",

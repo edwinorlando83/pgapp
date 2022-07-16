@@ -20,56 +20,56 @@
    "fieldname": "dpa_anio",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "dpa_anio",
+   "label": "A\u00f1o",
    "reqd": 1
   },
   {
    "fieldname": "dpa_provincia",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "dpa_provincia",
+   "label": "C\u00f3digo Provincia",
    "reqd": 1
   },
   {
    "fieldname": "dpa_canton",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "dpa_canton",
+   "label": "C\u00f3digo Cant\u00f3n",
    "reqd": 1
   },
   {
    "fieldname": "dpa_parroquia",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "dpa_parroquia",
+   "label": "C\u00f3digo Parroquia",
    "reqd": 1
   },
   {
    "fieldname": "dpa_tipoparroquia",
    "fieldtype": "Data",
-   "label": "dpa_tipoparroquia"
+   "label": "Tipo Parroquia"
   },
   {
    "fieldname": "dpa_nprovincia",
    "fieldtype": "Data",
-   "label": "dpa_nprovincia",
+   "label": "Provincia",
    "reqd": 1
   },
   {
    "fieldname": "dpa_ncanton",
    "fieldtype": "Data",
-   "label": "dpa_ncanton",
+   "label": "Cant\u00f3n",
    "reqd": 1
   },
   {
    "fieldname": "dpa_nparroquia",
    "fieldtype": "Data",
-   "label": "dpa_nparroquia",
+   "label": "Parroquia",
    "reqd": 1
   }
  ],
  "links": [],
- "modified": "2022-07-15 13:25:47.977475",
+ "modified": "2022-07-16 11:50:00.740339",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_dpa",
