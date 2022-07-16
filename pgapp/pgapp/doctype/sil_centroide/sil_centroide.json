@@ -22,22 +22,24 @@
   },
   {
    "fieldname": "cent_lat",
-   "fieldtype": "Data",
+   "fieldtype": "Float",
    "in_list_view": 1,
    "label": "cent_lat",
+   "precision": "9",
    "reqd": 1
   },
   {
    "fieldname": "cent_lon",
-   "fieldtype": "Data",
+   "fieldtype": "Float",
    "in_list_view": 1,
    "label": "cent_lon",
+   "precision": "9",
    "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-15 14:23:42.876973",
+ "modified": "2022-07-15 16:45:17.844369",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_centroide",

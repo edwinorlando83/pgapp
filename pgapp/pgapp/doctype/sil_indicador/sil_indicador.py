@@ -8,5 +8,5 @@ from frappe.model.document import Document
 import pgapp.utils as util
 class sil_indicador(Document):
 	def on_update(self):
-		util.generar_sil_serievalor( self.ind_codigo , self.tipper_codigo )
+		util.generar_sil_serievalor( self.ind_codigo , self.tipper_codigo , self.ind_geof)
 
