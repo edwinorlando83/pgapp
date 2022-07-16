@@ -14,6 +14,12 @@ app_logo_url = "/files/logo.png"
 
 after_install = "pgapp.setup.after_install"
 
+website_context = {
+"favicon": "/assets/pgapp/icon.png",
+"splash_image": "/assets/pgapp/logo-gpm-2.png"
+}
+
+app_include_css = "/assets/pgapp/css/pgapp.css"
 # Includes in <head>
 # ------------------
 

@@ -1,0 +1,93 @@
+:root {
+    --color-rojo: #078930;
+    --color-azul: #B0B1B3;
+    --color-grey: #FAFAFA;
+    --color-fondo: #F2F3F5;
+    --heading-color:18px;
+  }
+  .layout-side-section {
+     border-radius: 10px;
+    background-color: #FEFEFE;
+   border: 1px solid #FEFEFE;
+   margin-right:20px;
+   padding-top:15px;
+   padding-top:15px;
+  }
+  .desk-sidebar .standard-sidebar-item.selected, .search-dialog .search-results .search-sidebar .standard-sidebar-item.selected, .standard-sidebar .standard-sidebar-item.selected {
+    background-color: var(--color-rojo);
+    color: #FEFEFE !important;
+  }
+  body{
+     background-color: var(--color-fondo)!important;
+  }
+  
+  .layout-main {
+    
+    background-color: var(--color-fondo);
+    
+  
+  }
+  .page-head.drop-shadow{
+       background-color: var(--color-fondo);
+  }
+  .page-container{
+    
+    background-color: var(--color-fondo);
+    
+  
+  }
+  .page-head{
+  background-color: var(--color-fondo);	
+  }
+  
+  .page-head-content{
+    
+    background-color: var(--color-fondo);
+    
+  
+  }
+  .page-form {
+    margin: 0;
+    padding: var(--padding-sm);
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--color-azul);
+   
+  }
+  /* cards */
+  .widget {
+    display: flex;
+    flex-direction: column;
+    min-height: 1px;
+    padding: 15px;
+    border-radius: var(--border-radius-md);
+    height: 100%;
+    border-top: 15px solid  var(--color-azul) ;
+    box-shadow: var(--card-shadow);
+    background-color: var(--card-bg);
+  }
+  
+  .widget-title1 {
+    
+      color: var(--color-rojo) !important;
+      font-weight: bold;
+       
+  }
+  
+  
+  /* Encabezado */
+  .navbar {
+      height: 60px;
+      background: var(--color-grey);
+       border-bottom: 2px solid  var(--color-azul) ; 
+      padding: 0;
+  }
+   
+  
+  .btn.btn-primary {
+      background-color: var(--color-azul);
+      color: var(--white);
+      white-space: nowrap;
+      --icon-stroke: currentColor;
+      --icon-fill-bg: var(--color-azul);
+  }
