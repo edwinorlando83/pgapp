@@ -1,0 +1,51 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-07-18 11:43:58.808812",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "coo_codigo",
+  "coo_descripcion"
+ ],
+ "fields": [
+  {
+   "fieldname": "coo_codigo",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "C\u00f3digo",
+   "reqd": 1
+  },
+  {
+   "fieldname": "coo_descripcion",
+   "fieldtype": "Data",
+   "label": "Descripci\u00f3n"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-18 11:44:57.239540",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_coordinacion",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "search_fields": "coo_descripcion",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "title_field": "coo_descripcion"
+}

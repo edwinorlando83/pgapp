@@ -25,7 +25,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-16 11:24:58.825171",
+ "modified": "2022-07-18 11:11:54.379564",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_zonasgad",
@@ -66,7 +66,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "zongad_descripcion",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "zongad_descripcion",
  "track_changes": 1
 }

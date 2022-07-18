@@ -26,7 +26,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-16 05:04:59.172571",
+ "modified": "2022-07-18 11:37:58.826656",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_tipovalor",
@@ -67,7 +67,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "tipval_descripcion",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "tipval_descripcion",
  "track_changes": 1
 }

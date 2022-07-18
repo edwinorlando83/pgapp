@@ -170,6 +170,7 @@ def config_app():
     insertDPA();
     insertcentroides();
     roles();
+    insertsatelites();
 
 #bench --site silweb execute pgapp.setup.insertDPA 
 def insertDPA( ):
@@ -427,6 +428,124 @@ def insertsatelites():
     obj.tipobr_desc = "OTROBR "
     obj.tipobr_icono = "OTRAS OBRA"
     obj.insert()
+
+    
+    ################
+
+    frappe.db.delete("sil_formato")
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "TAB"
+    obj.for_descripcion = "Tabla"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GBA"
+    obj.for_descripcion = "Grafico Barras"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GBC"
+    obj.for_descripcion = "Grafico Columnas"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GPI"
+    obj.for_descripcion = "Grafico Pie"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GPD"
+    obj.for_descripcion = "Grafico Dona"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GLI"
+    obj.for_descripcion = "Grafico Lineas"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GAR"
+    obj.for_descripcion = "Grafico Areas"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GMA"
+    obj.for_descripcion = "Grafico Mapa Punto"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "GMC"
+    obj.for_descripcion = "Grafico Mapa Areas (coropletico)"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "PDF"
+    obj.for_descripcion = "Archivo PDF a exhibir"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "TXT"
+    obj.for_descripcion = "Archivo TEXTO a exhibir"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_formato")
+    obj.for_codigo = "IMG"
+    obj.for_descripcion = "Archivo Imagen a exhibir"
+    obj.insert()
+
+    ################
+
+    frappe.db.delete("tipodetalle")
+    obj = frappe.new_doc("tipodetalle")
+    obj.tipdet_codigo = "LON"
+    obj.tipdet_desc = "LONGITUD DE LA OBRA"
+    obj.insert()
+
+    obj = frappe.new_doc("tipodetalle")
+    obj.tipdet_codigo = "SUP"
+    obj.tipdet_desc = "SUPERFICIE DE LAOBRA"
+    obj.insert()
+
+    obj = frappe.new_doc("tipodetalle")
+    obj.tipdet_codigo = "POB"
+    obj.tipdet_desc = "POBLACION BENEFICIARIA"
+    obj.insert()
+
+    obj = frappe.new_doc("tipodetalle")
+    obj.tipdet_codigo = "AVA"
+    obj.tipdet_desc = "AVANCE DE LA OBRA"
+    obj.insert()
+
+    obj = frappe.new_doc("tipodetalle")
+    obj.tipdet_codigo = "CON"
+    obj.tipdet_desc = "CONTRATO"
+    obj.insert()
+
+     ################
+
+ 
+    frappe.db.delete("sil_tipogeografico")
+    obj = frappe.new_doc("sil_tipogeografico")
+    obj.tipgeo_codigo = "PU"
+    obj.tipgeo_desc = "PUNTO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipogeografico")
+    obj.tipgeo_codigo = "LI"
+    obj.tipgeo_desc = "LINEA"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipogeografico")
+    obj.tipgeo_codigo = "PO"
+    obj.tipgeo_desc = "POLIGONO"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_tipogeografico")
+    obj.tipgeo_codigo = "SN"
+    obj.tipgeo_desc = "SIN TIPO"
+    obj.insert()
+
+
 
 
 

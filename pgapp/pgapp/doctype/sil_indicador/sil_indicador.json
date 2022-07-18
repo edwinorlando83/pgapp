@@ -22,14 +22,17 @@
   "fueinf_codigo",
   "tipper_codigo",
   "ind_disponibilidad",
+  "coo_codigo",
   "column_break_13",
   "ind_consejo",
   "com_codigo",
   "ind_fechatrans",
   "gruind_codigo",
   "ind_valor",
+  "tipval_codigo",
   "sec_nivel",
   "ind_geof",
+  "zongad_codigo",
   "column_break_21",
   "ind_general",
   "column_break_23",
@@ -281,10 +284,28 @@
    "fieldtype": "Link",
    "label": "Unidad de Medida",
    "options": "sil_unidadmedida"
+  },
+  {
+   "fieldname": "zongad_codigo",
+   "fieldtype": "Link",
+   "label": "sil_zonasgad",
+   "options": "sil_zonasgad"
+  },
+  {
+   "fieldname": "tipval_codigo",
+   "fieldtype": "Link",
+   "label": "Tipo Valor",
+   "options": "sil_tipovalor"
+  },
+  {
+   "fieldname": "coo_codigo",
+   "fieldtype": "Link",
+   "label": "Coordinacion",
+   "options": "sil_coordinacion"
   }
  ],
  "links": [],
- "modified": "2022-07-16 11:56:16.904013",
+ "modified": "2022-07-18 11:45:19.000723",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
