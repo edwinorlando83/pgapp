@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_import": 1,
- "autoname": "format:{ind_codigo}-{per_codigo}-{period_codigo}-{ind_dpa}",
+ "autoname": "naming_series:",
  "creation": "2021-07-03 18:07:38.020678",
  "doctype": "DocType",
  "document_type": "Document",
@@ -30,7 +30,8 @@
   "column_break_14",
   "serval_latitud",
   "column_break_3",
-  "amended_from"
+  "amended_from",
+  "naming_series"
  ],
  "fields": [
   {
@@ -169,11 +170,17 @@
    "fieldname": "ind_nparroquia",
    "fieldtype": "Read Only",
    "label": "Parroquia"
+  },
+  {
+   "fieldname": "naming_series",
+   "fieldtype": "Code",
+   "hidden": 1,
+   "options": "SERVAL-"
   }
  ],
  "in_create": 1,
  "links": [],
- "modified": "2022-07-16 13:02:53.615482",
+ "modified": "2022-07-16 21:13:47.222442",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",
@@ -217,6 +224,5 @@
  ],
  "sort_field": "modified",
  "sort_order": "DESC",
- "title_field": "ind_nombre",
- "track_changes": 1
+ "title_field": "ind_nombre"
 }

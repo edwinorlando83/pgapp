@@ -1,7 +1,7 @@
 from __future__ import unicode_literals
 import frappe
 
-def generar_sil_serievalor(ind_codigo, tipper_codigo , ind_geof):
+def generar_sil_serievalor(ind_codigo, tipper_codigo , ind_geof):    
     anio = frappe.db.get_single_value('sil_parametrosg', 'par_anio')
     if not anio:
         frappe.throw("No se ha definido el año , por favor defina el año en el formulario de  parámetros")
@@ -22,11 +22,27 @@ def generar_sil_serievalor(ind_codigo, tipper_codigo , ind_geof):
         for dpa in referecnias_geografica(ind_geof):
             ser = frappe.new_doc("sil_serievalor")
             ser.ind_codigo = ind_codigo
-            ser.ind_dpa = dpa.dpa
+            
             ser.per_codigo =  periodicidad.per_codigo
             ser.period_codigo = per.period_codigo 
             ser.serval_longitud = dpa.longitud
             ser.serval_latitud = dpa.latitud   
+            
+            if ind_geof == "PROVINCIAL":                
+                ser.ind_nprovincia = dpa.dpa_nprovincia
+                ser.ind_dpa = dpa.dpa_provincia 
+		
+            if ind_geof == "CANTONAL":                
+                ser.ind_nprovincia = dpa.dpa_nprovincia
+                ser.ind_ncanton = dpa.dpa_ncanton
+                ser.ind_dpa = dpa.dpa_canton
+
+            if ind_geof == "PARROQUIAL":                
+                ser.ind_nprovincia = dpa.dpa_nprovincia
+                ser.ind_ncanton = dpa.dpa_ncanton		
+                ser.ind_nparroquia = dpa.dpa_nparroquia
+                ser.ind_dpa = dpa.dpa_parroquia	
+
             ser.insert()
             frappe.db.commit()
             
@@ -48,33 +64,33 @@ def referecnias_geografica(ind_geof):
     
 
 def getCantones(provincia):
-    sql = """ select DISTINCT dpa_canton  as dpa from  tabsil_dpa td   where dpa_provincia = '{0}' """.format(provincia)
+    sql = """select DISTINCT dpa_ncanton , dpa_canton ,dpa_nprovincia,dpa_provincia  
+    from  tabsil_dpa  where dpa_provincia ='{0}' """.format(provincia)
     cantones = frappe.db.sql (sql, as_dict=1)
     for rw in cantones:
-        cent = getcentroide(rw.dpa)
+        cent = getcentroide(rw.dpa_canton)
         rw["longitud"] = cent.cent_lon
         rw["latitud"] = cent.cent_lat
     return cantones
 
 def getParroquias(provincia):
-    sql = """ select   dpa_parroquia   as dpa 
-     from  tabsil_dpa  where dpa_provincia = '{0}'
-     order by dpa_ncanton,dpa_nparroquia """.format(provincia)
-    cantones = frappe.db.sql (sql, as_dict=1)
-    for rw in cantones:
-        cent = getcentroide(rw.dpa)
+    sql = """select DISTINCT dpa_ncanton , dpa_canton ,dpa_nprovincia,dpa_provincia, dpa_parroquia , dpa_nparroquia
+		from  tabsil_dpa  where dpa_provincia ='{0}'  """.format(provincia)
+    parroquias = frappe.db.sql (sql, as_dict=1)
+    for rw in parroquias:
+        cent = getcentroide(rw.dpa_parroquia)
         rw["longitud"] = cent.cent_lon
         rw["latitud"] = cent.cent_lat
-    return cantones
+    return parroquias
 
 def getProvincia(provincia):
-    sql = """ select DISTINCT dpa_provincia as dpa   from  tabsil_dpa  where dpa_provincia = '{0}' """.format(provincia)
-    cantones = frappe.db.sql (sql, as_dict=1)
-    for rw in cantones:
-        cent = getcentroide(rw.dpa)
+    sql = """select DISTINCT dpa_nprovincia,dpa_provincia from  tabsil_dpa  where dpa_provincia ='{0}' """.format(provincia)
+    provincias = frappe.db.sql (sql, as_dict=1)
+    for rw in provincias:
+        cent = getcentroide(rw.dpa_provincia)
         rw["longitud"] = cent.cent_lon
         rw["latitud"] = cent.cent_lat
-    return cantones
+    return provincias
 
 def getcentroide(pda):
     sql = """ select  cent_lat , cent_lon  from tabsil_centroide   where cent_pda = '{0}' """.format(pda)

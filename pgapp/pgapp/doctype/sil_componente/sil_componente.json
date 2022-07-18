@@ -33,7 +33,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-14 14:41:33.010872",
+ "modified": "2022-07-16 21:16:39.712238",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_componente",
@@ -74,7 +74,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "com_nombre",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "com_nombre",
  "track_changes": 1
 }
