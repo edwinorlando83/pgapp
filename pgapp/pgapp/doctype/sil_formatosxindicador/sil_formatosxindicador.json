@@ -8,14 +8,16 @@
  "engine": "InnoDB",
  "field_order": [
   "for_codigo",
+  "for_descripcion",
   "forind_estado"
  ],
  "fields": [
   {
    "fieldname": "forind_estado",
-   "fieldtype": "Data",
+   "fieldtype": "Select",
    "in_list_view": 1,
-   "label": "Estado"
+   "label": "Estado",
+   "options": "ACTIVO\nINACTIVO"
   },
   {
    "fieldname": "for_codigo",
@@ -24,12 +26,19 @@
    "label": "C\u00f3digo",
    "options": "sil_formato",
    "reqd": 1
+  },
+  {
+   "fetch_from": "for_codigo.for_descripcion",
+   "fieldname": "for_descripcion",
+   "fieldtype": "Read Only",
+   "in_list_view": 1,
+   "label": "Detalle"
   }
  ],
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2022-07-15 05:23:15.327034",
+ "modified": "2022-07-18 17:44:49.826336",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_formatosxindicador",

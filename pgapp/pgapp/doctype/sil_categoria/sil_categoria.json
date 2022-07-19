@@ -36,7 +36,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 11:24:11.327337",
+ "modified": "2022-07-18 17:49:06.654849",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_categoria",
@@ -76,6 +76,8 @@
    "write": 1
   }
  ],
+ "search_fields": "cat_desc",
  "sort_field": "modified",
- "sort_order": "DESC"
+ "sort_order": "DESC",
+ "title_field": "cat_desc"
 }

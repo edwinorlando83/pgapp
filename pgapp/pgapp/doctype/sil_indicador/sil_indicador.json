@@ -23,6 +23,7 @@
   "tipper_codigo",
   "ind_disponibilidad",
   "coo_codigo",
+  "dir_codigo",
   "column_break_13",
   "ind_consejo",
   "com_codigo",
@@ -30,9 +31,11 @@
   "gruind_codigo",
   "ind_valor",
   "tipval_codigo",
+  "rep_codigo",
   "sec_nivel",
   "ind_geof",
   "zongad_codigo",
+  "est_codigo",
   "column_break_21",
   "ind_general",
   "column_break_23",
@@ -302,10 +305,28 @@
    "fieldtype": "Link",
    "label": "Coordinacion",
    "options": "sil_coordinacion"
+  },
+  {
+   "fieldname": "dir_codigo",
+   "fieldtype": "Link",
+   "label": "Direcci\u00f3n",
+   "options": "sil_direccion"
+  },
+  {
+   "fieldname": "est_codigo",
+   "fieldtype": "Link",
+   "label": "Estado",
+   "options": "sil_estado"
+  },
+  {
+   "fieldname": "rep_codigo",
+   "fieldtype": "Link",
+   "label": "Representaci\u00f3n",
+   "options": "sil_representacion"
   }
  ],
  "links": [],
- "modified": "2022-07-18 11:45:19.000723",
+ "modified": "2022-07-18 17:22:20.565610",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

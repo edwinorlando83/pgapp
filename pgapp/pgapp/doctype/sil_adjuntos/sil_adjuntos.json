@@ -9,6 +9,7 @@
   "adj_codigo",
   "ind_codigo",
   "ind_dpa",
+  "tipadj_codigo",
   "adj_nombre",
   "adj_descripcion",
   "adj_path",
@@ -25,8 +26,9 @@
   },
   {
    "fieldname": "ind_codigo",
-   "fieldtype": "Data",
-   "label": "ind_codigo"
+   "fieldtype": "Link",
+   "label": "Indicador",
+   "options": "sil_indicador"
   },
   {
    "fieldname": "ind_dpa",
@@ -52,10 +54,16 @@
    "fieldname": "adj_doc",
    "fieldtype": "Attach",
    "label": "Documento"
+  },
+  {
+   "fieldname": "tipadj_codigo",
+   "fieldtype": "Link",
+   "label": "Adjunto",
+   "options": "sil_tipoadjunto"
   }
  ],
  "links": [],
- "modified": "2022-07-16 11:30:27.121620",
+ "modified": "2022-07-18 17:10:02.328729",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_adjuntos",

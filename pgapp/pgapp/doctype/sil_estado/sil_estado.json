@@ -26,7 +26,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-16 05:06:08.701421",
+ "modified": "2022-07-18 17:18:54.197111",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_estado",
@@ -67,7 +67,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "est_descripcion",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "est_descripcion",
  "track_changes": 1
 }

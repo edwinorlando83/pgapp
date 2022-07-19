@@ -7,6 +7,9 @@
  "engine": "InnoDB",
  "field_order": [
   "obr_codigo",
+  "rep_codigo",
+  "tipobr_codigo",
+  "estobr_codigo",
   "obr_nombre",
   "obr_fechainicio",
   "obr_fechafin",
@@ -94,12 +97,12 @@
   {
    "fieldname": "obr_preparticipativo",
    "fieldtype": "Currency",
-   "label": "Preparticipativo"
+   "label": "Participativo"
   },
   {
    "fieldname": "obr_preestrategico",
    "fieldtype": "Currency",
-   "label": "Pre estrat\u00e9gico"
+   "label": "Estrat\u00e9gico"
   },
   {
    "fieldname": "obr_admdirecta",
@@ -288,12 +291,30 @@
   {
    "fieldname": "section_break_46",
    "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "rep_codigo",
+   "fieldtype": "Link",
+   "label": "Representaci\u00f3n",
+   "options": "sil_representacion"
+  },
+  {
+   "fieldname": "tipobr_codigo",
+   "fieldtype": "Link",
+   "label": "Tipo Obra",
+   "options": "sil_tipoobra"
+  },
+  {
+   "fieldname": "estobr_codigo",
+   "fieldtype": "Link",
+   "label": "Estado Obra",
+   "options": "sil_estadoobra"
   }
  ],
  "image_field": "logo",
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 11:03:54.589768",
+ "modified": "2022-07-18 18:14:35.217763",
  "modified_by": "Administrator",
  "module": "inversiones",
  "name": "sil_obra",

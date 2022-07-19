@@ -26,7 +26,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-16 05:05:27.655662",
+ "modified": "2022-07-18 17:23:06.264864",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_representacion",
@@ -67,7 +67,9 @@
   }
  ],
  "quick_entry": 1,
+ "search_fields": "rep_descripcion",
  "sort_field": "modified",
  "sort_order": "DESC",
+ "title_field": "rep_descripcion",
  "track_changes": 1
 }
