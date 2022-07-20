@@ -1,6 +1,6 @@
 {
  "actions": [],
- "autoname": "field:est_descripcion",
+ "autoname": "field:est_codigo",
  "creation": "2021-07-02 21:12:48.860591",
  "doctype": "DocType",
  "editable_grid": 1,
@@ -15,6 +15,7 @@
    "fieldtype": "Data",
    "in_list_view": 1,
    "label": "C\u00f3digo",
+   "reqd": 1,
    "unique": 1
   },
   {
@@ -26,7 +27,7 @@
   }
  ],
  "links": [],
- "modified": "2022-07-18 17:18:54.197111",
+ "modified": "2022-07-20 03:55:52.650153",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_estado",

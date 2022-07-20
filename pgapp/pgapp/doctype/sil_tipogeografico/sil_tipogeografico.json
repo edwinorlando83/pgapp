@@ -22,12 +22,13 @@
   {
    "fieldname": "tipgeo_desc",
    "fieldtype": "Data",
-   "label": "Descripci\u00f3n"
+   "label": "Descripci\u00f3n",
+   "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2022-07-16 11:34:10.192826",
+ "modified": "2022-07-20 03:55:12.860367",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_tipogeografico",
@@ -67,6 +68,9 @@
    "share": 1
   }
  ],
+ "quick_entry": 1,
+ "search_fields": "tipgeo_desc",
  "sort_field": "modified",
- "sort_order": "DESC"
+ "sort_order": "DESC",
+ "title_field": "tipgeo_desc"
 }

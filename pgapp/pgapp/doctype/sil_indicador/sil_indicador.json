@@ -31,9 +31,8 @@
   "gruind_codigo",
   "ind_valor",
   "tipval_codigo",
-  "rep_codigo",
   "sec_nivel",
-  "ind_geof",
+  "rep_codigo",
   "zongad_codigo",
   "est_codigo",
   "column_break_21",
@@ -55,7 +54,10 @@
   "ind_elaborado_por",
   "ind_actualizaror_por",
   "ind_sintaxis_del_indicador_section",
-  "ind_informacion_financiera"
+  "ind_informacion_financiera",
+  "sil_asociado",
+  "amended_from",
+  "sil_categoria"
  ],
  "fields": [
   {
@@ -124,14 +126,6 @@
    "fieldname": "sec_nivel",
    "fieldtype": "Section Break",
    "label": "Nivel de Desagregaci\u00f3n "
-  },
-  {
-   "fieldname": "ind_geof",
-   "fieldtype": "Select",
-   "in_list_view": 1,
-   "label": "Geogr\u00e1fico",
-   "options": "PROVINCIAL\nCANTONAL\nPARROQUIAL",
-   "reqd": 1
   },
   {
    "fieldname": "ind_general",
@@ -323,10 +317,32 @@
    "fieldtype": "Link",
    "label": "Representaci\u00f3n",
    "options": "sil_representacion"
+  },
+  {
+   "fieldname": "sil_asociado",
+   "fieldtype": "Table",
+   "label": "sil_asociado",
+   "options": "sil_asociado"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "sil_indicador",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "sil_categoria",
+   "fieldtype": "Table",
+   "label": "sil_categoria",
+   "options": "sil_categoria"
   }
  ],
+ "is_submittable": 1,
  "links": [],
- "modified": "2022-07-18 17:22:20.565610",
+ "modified": "2022-07-20 04:06:00.787996",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

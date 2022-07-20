@@ -1,0 +1,48 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "naming_series:",
+ "creation": "2022-07-20 03:43:58.052331",
+ "description": "Indicadores Asociados al Indicador",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "naming_series",
+  "aso_link",
+  "aso_descripcion"
+ ],
+ "fields": [
+  {
+   "fieldname": "naming_series",
+   "fieldtype": "Code",
+   "label": "aso_codigo",
+   "options": "ASO-"
+  },
+  {
+   "fieldname": "aso_link",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "aso_link",
+   "reqd": 1
+  },
+  {
+   "fieldname": "aso_descripcion",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "aso_descripcion",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-07-20 03:43:58.052331",
+ "modified_by": "Administrator",
+ "module": "pgapp",
+ "name": "sil_asociado",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

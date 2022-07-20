@@ -226,6 +226,22 @@ def insertsatelites():
     obj.fueinf_codigo = "07"
     obj.fueinf_descripcion = "COE Provincial"
     obj.insert()
+    ## 
+    frappe.db.delete("sil_representacion")
+    obj = frappe.new_doc("sil_representacion")
+    obj.rep_codigo = "01"
+    obj.rep_descripcion = "Provincial"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_representacion")
+    obj.rep_codigo = "02"
+    obj.rep_descripcion = "Cantonal"
+    obj.insert()
+
+    obj = frappe.new_doc("sil_representacion")
+    obj.rep_codigo = "03"
+    obj.rep_descripcion = "Parroquial"
+    obj.insert()
 
     ##### 
     frappe.db.delete("sil_unidadmedida")
@@ -337,6 +353,23 @@ def insertsatelites():
     obj.insert()
 
     ################
+
+    frappe.db.delete("sil_grupoindicador")
+    obj = frappe.new_doc("sil_grupoindicador")
+    obj.gruind_codigo = "VIAVIA"
+    obj.gruind_descripcion = "FOMENTO PRODUCTIVO"
+    obj.insert()
+  
+    obj = frappe.new_doc("sil_grupoindicador")
+    obj.gruind_codigo = "FOMPRO"
+    obj.gruind_descripcion = "RIEGO Y DRENAJE"
+    obj.insert()   
+
+    obj = frappe.new_doc("sil_grupoindicador")
+    obj.gruind_codigo = "RIEDRE"
+    obj.gruind_descripcion = "RIEGO Y DRENAJE"
+    obj.insert()  
+    ###########
 
     frappe.db.delete("sil_tipoobra")
     obj = frappe.new_doc("sil_tipoobra")
