@@ -44,6 +44,14 @@
   {
    "hidden": 0,
    "is_query_report": 0,
+   "label": "Configuraci\u00f3n",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
    "label": "Categorias",
    "link_to": "sil_categoria",
    "link_type": "DocType",
@@ -53,15 +61,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Configuraci\u00f3n",
-   "link_type": "DocType",
-   "onboard": 0,
-   "type": "Card Break"
-  },
-  {
-   "hidden": 0,
-   "is_query_report": 0,
-   "label": "Adjuntos",
+   "label": "sil_adjuntos",
    "link_to": "sil_adjuntos",
    "link_type": "DocType",
    "onboard": 0,
@@ -70,7 +70,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Componente",
+   "label": "sil_componente",
    "link_to": "sil_componente",
    "link_type": "DocType",
    "onboard": 0,
@@ -79,7 +79,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Estado",
+   "label": "sil_estado",
    "link_to": "sil_estado",
    "link_type": "DocType",
    "onboard": 0,
@@ -88,7 +88,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Fuente Informaci\u00f3n",
+   "label": "sil_fuenteinformacion",
    "link_to": "sil_fuenteinformacion",
    "link_type": "DocType",
    "onboard": 0,
@@ -97,7 +97,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Grupo Indicador",
+   "label": "sil_grupoindicador",
    "link_to": "sil_grupoindicador",
    "link_type": "DocType",
    "onboard": 0,
@@ -106,7 +106,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Periodicidad",
+   "label": "sil_periodicidad",
    "link_to": "sil_periodicidad",
    "link_type": "DocType",
    "onboard": 0,
@@ -115,7 +115,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Periodo",
+   "label": "sil_periodo",
    "link_to": "sil_periodo",
    "link_type": "DocType",
    "onboard": 0,
@@ -124,7 +124,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Representaci\u00f3n",
+   "label": "sil_representacion",
    "link_to": "sil_representacion",
    "link_type": "DocType",
    "onboard": 0,
@@ -133,7 +133,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Tipo Periodicidad",
+   "label": "sil_tipoperiodicidad",
    "link_to": "sil_tipoperiodicidad",
    "link_type": "DocType",
    "onboard": 0,
@@ -142,7 +142,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Tipo Valor",
+   "label": "sil_tipovalor",
    "link_to": "sil_tipovalor",
    "link_type": "DocType",
    "onboard": 0,
@@ -151,7 +151,7 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "Zonas GAD",
+   "label": "sil_zonasgad",
    "link_to": "sil_zonasgad",
    "link_type": "DocType",
    "onboard": 0,
@@ -160,14 +160,86 @@
   {
    "hidden": 0,
    "is_query_report": 0,
-   "label": "DPA",
+   "label": "sil_dpa",
    "link_to": "sil_dpa",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_estado",
+   "link_to": "sil_estado",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_coordinacion",
+   "link_to": "sil_coordinacion",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_direccion",
+   "link_to": "sil_direccion",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_detalleobra",
+   "link_to": "sil_detalleobra",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_parametrosg",
+   "link_to": "sil_parametrosg",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_centroide",
+   "link_to": "sil_centroide",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_formato",
+   "link_to": "sil_formato",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_unidadmedida",
+   "link_to": "sil_unidadmedida",
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
   }
  ],
- "modified": "2022-07-19 12:20:54.161055",
+ "modified": "2022-07-20 04:56:29.394997",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "pgapp",

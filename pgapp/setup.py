@@ -607,7 +607,7 @@ def insertcentroides():
     print(f'Processed {line_count} lines.')
 
 def roles():
-    roles=['COORDINADOR','OPERADOR','Accounts User']
+    roles=['COORDINADOR','OPERADOR','Accounts User','Translator']
     rol=frappe.new_doc('Role Profile')     
     rol.role_profile="sil_admin"
     rol.save()
