@@ -21,23 +21,23 @@
   },
   {
    "fieldname": "aso_link",
-   "fieldtype": "Data",
+   "fieldtype": "Link",
    "in_list_view": 1,
    "label": "aso_link",
+   "options": "sil_indicador",
    "reqd": 1
   },
   {
    "fieldname": "aso_descripcion",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "aso_descripcion",
-   "reqd": 1
+   "label": "aso_descripcion"
   }
  ],
  "index_web_pages_for_search": 1,
  "istable": 1,
  "links": [],
- "modified": "2022-07-20 03:43:58.052331",
+ "modified": "2022-07-20 09:19:35.151202",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_asociado",

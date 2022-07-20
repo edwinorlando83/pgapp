@@ -239,7 +239,7 @@
    "type": "Link"
   }
  ],
- "modified": "2022-07-20 04:56:29.394997",
+ "modified": "2022-07-20 09:15:20.656654",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "pgapp",
@@ -248,7 +248,7 @@
  "pin_to_top": 0,
  "shortcuts": [
   {
-   "doc_view": "List",
+   "doc_view": "New",
    "label": "Crear Indicador",
    "link_to": "sil_indicador",
    "type": "DocType"

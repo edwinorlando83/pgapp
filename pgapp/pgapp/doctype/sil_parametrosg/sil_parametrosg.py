@@ -23,3 +23,5 @@ class sil_parametrosg(Document):
 				tra.translated_text = rw["translated_text"]
 				tra.insert()
 		return "Importado Correctamente"
+	
+ 

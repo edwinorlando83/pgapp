@@ -8,6 +8,7 @@
   "url",
   "dpa_provincia",
   "dpa_canton",
+  "par_anioinicio",
   "par_anio",
   "traducciones_section",
   "importar",
@@ -39,6 +40,7 @@
    "reqd": 1
   },
   {
+   "collapsible": 1,
    "fieldname": "traducciones_section",
    "fieldtype": "Section Break",
    "label": "Traducciones"
@@ -52,12 +54,19 @@
    "fieldname": "exportar",
    "fieldtype": "Button",
    "label": "Exportar"
+  },
+  {
+   "fieldname": "par_anioinicio",
+   "fieldtype": "Data",
+   "label": "A\u00f1o de Inicio",
+   "reqd": 1,
+   "set_only_once": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2022-07-16 12:25:26.742908",
+ "modified": "2022-07-20 09:14:37.477928",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_parametrosg",
