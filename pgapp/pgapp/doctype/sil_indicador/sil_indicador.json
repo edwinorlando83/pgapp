@@ -56,8 +56,8 @@
   "ind_sintaxis_del_indicador_section",
   "ind_informacion_financiera",
   "sil_asociado",
-  "amended_from",
-  "sil_categoria"
+  "sil_categoria",
+  "amended_from"
  ],
  "fields": [
   {
@@ -316,13 +316,20 @@
    "fieldname": "rep_codigo",
    "fieldtype": "Link",
    "label": "Representaci\u00f3n",
-   "options": "sil_representacion"
+   "options": "sil_representacion",
+   "reqd": 1
   },
   {
    "fieldname": "sil_asociado",
    "fieldtype": "Table",
    "label": "sil_asociado",
    "options": "sil_asociado"
+  },
+  {
+   "fieldname": "sil_categoria",
+   "fieldtype": "Table",
+   "label": "sil_categoria",
+   "options": "sil_categoria"
   },
   {
    "fieldname": "amended_from",
@@ -332,17 +339,11 @@
    "options": "sil_indicador",
    "print_hide": 1,
    "read_only": 1
-  },
-  {
-   "fieldname": "sil_categoria",
-   "fieldtype": "Table",
-   "label": "sil_categoria",
-   "options": "sil_categoria"
   }
  ],
  "is_submittable": 1,
  "links": [],
- "modified": "2022-07-20 09:19:55.514641",
+ "modified": "2022-07-21 05:24:00.663749",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

@@ -1,4 +1,6 @@
 let me;
+let _tipper_codigo;
+let _ineje_codigo;
 frappe.pages['pag_serievalor'].on_page_load = function (wrapper) {
 	me = this;
 	var page = frappe.ui.make_app_page({
@@ -9,27 +11,86 @@ frappe.pages['pag_serievalor'].on_page_load = function (wrapper) {
 
 	page.main.html(frappe.render_template("pag_serievalor", {}));
 
-	var periodo = frappe.ui.form.make_control({
+	var ineje_codigo = frappe.ui.form.make_control({
+		parent: page.main.find(".ejercicio"),
+		df: {
+			fieldtype: "Link",
+			options: "sil_ejercicio",
+			fieldname: "ineje_codigo",
+			label: "Año",
+			reqd: 1,
+			only_input: true,
+			get_query: () => {
+
+
+			},
+			change: function () { 
+				
+		 
+				
+				getIndicadores(inind_codigo.get_value(), ineje_codigo.get_value(),ineje_codigo.get_value());
+				 
+			
+
+			}
+		}
+
+	});
+	ineje_codigo.refresh();
+
+
+
+
+	var inind_codigo = frappe.ui.form.make_control({
 		parent: page.main.find(".entidad"),
 		df: {
 			fieldtype: "Link",
-			options: "sil_periodo",
-			fieldname: "Periodo",
-			label: "Periodo",
+			options: "sil_indicador",
+			fieldname: "indicador",
+			label: "Indicador",
 			reqd: 1,
 			only_input: true,
 			get_query: () => {
 
 			},
 			change: function () {
-				getIndicadores(periodo.get_value());
+				
+				getIndicadores(inind_codigo.get_value(), ineje_codigo.get_value(),ineje_codigo.get_value());
+				
+			}
+		}
+
+	});
+	inind_codigo.refresh();
+
+}
+function cmbperiodo(page, intipper_codigo, ineje_codigo) {
+
+	var period_codigo = frappe.ui.form.make_control({
+		parent: page.main.find(".periodo"),
+		df: {
+			fieldtype: "Link",
+			options: "sil_periodo",
+			fieldname: "period_codigo",
+			label: "Periodo",
+			reqd: 1,
+			only_input: true,
+			get_query: () => {
+				return {
+					filters: {
+						eje_codigo: ineje_codigo,
+						tipper_codigo: intipper_codigo
+					}
+				};
+			},
+			change: function () {
+
 
 			}
 		}
 
 	});
-	periodo.refresh();
-
+	period_codigo.refresh();
 }
 
 function dibujar(datos) {
@@ -39,6 +100,7 @@ function dibujar(datos) {
 	<tbody>
 	  <tr>
 	    <th class="heading">&nbsp;</th>
+		<th>Periodo</th>
 		<th>Indicador</th>
 		<th >Provincia</th>
 		<th>Cantón</th>
@@ -47,11 +109,12 @@ function dibujar(datos) {
 		<th>Valor</th>		 
 	  </tr> 
  `;
- let i=1;
+	let i = 1;
 	datos.forEach((row) => {
 		html += ` 
 		  <tr>
 		  <td > ${i}</td>
+		  <td > ${row.period_codigo}</td>
 			<td > ${row.ind_nombre}</td>
 			<td >${row.ind_nprovincia}</td>
 			<td >${row.ind_ncanton}</td>
@@ -62,7 +125,7 @@ function dibujar(datos) {
 			 
 		  </tr>
 		 `;
-		 i++;
+		i++;
 	});
 
 	html += ` 
@@ -74,17 +137,23 @@ function dibujar(datos) {
 
 }
 
-function getIndicadores(inperiod_codigo) {
+function getIndicadores(inind_codigo, ineje_codigo , ineje_codigo) {
 
 	frappe.call({
 		"method": "pgapp.pgapp.page.pag_serievalor.pag_serievalor.getIndicadores",
 		args: {
-			period_codigo: inperiod_codigo,
-
+			ind_codigo: inind_codigo,
+			eje_codigo: ineje_codigo
 		},
 		callback: function (r) {
+			 
+			if (r.message && r.message.length > 0) {
+				_tipper_codigo = r.message[0].tipper_codigo;		
 
+			//	cmbperiodo(me.page, _tipper_codigo,  ineje_codigo )
+			}
 			dibujar(r.message);
+			
 
 		}
 	});
@@ -131,16 +200,16 @@ function actulizar_valor(inserval_valor, inname) {
 function isNumberKey(txt, evt) {
 	var charCode = (evt.which) ? evt.which : evt.keyCode;
 	if (charCode == 46) {
-	  //Check if the text already contains the . character
-	  if (txt.value.indexOf('.') === -1) {
-		return true;
-	  } else {
-		return false;
-	  }
+		//Check if the text already contains the . character
+		if (txt.value.indexOf('.') === -1) {
+			return true;
+		} else {
+			return false;
+		}
 	} else {
-	  if (charCode > 31 &&
-		(charCode < 48 || charCode > 57))
-		return false;
+		if (charCode > 31 &&
+			(charCode < 48 || charCode > 57))
+			return false;
 	}
 	return true;
-  }
+}

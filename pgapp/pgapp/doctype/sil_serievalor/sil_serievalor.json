@@ -10,7 +10,6 @@
  "field_order": [
   "ind_codigo",
   "ind_nombre",
-  "per_codigo",
   "period_codigo",
   "serval_meta",
   "serval_valor",
@@ -30,12 +29,11 @@
   "column_break_14",
   "serval_latitud",
   "column_break_3",
-  "amended_from",
   "naming_series"
  ],
  "fields": [
   {
-   "fetch_from": "ind_codigo.ind_geof",
+   "fetch_from": "ind_codigo.rep_codigo",
    "fieldname": "ind_geof",
    "fieldtype": "Read Only",
    "in_list_view": 1,
@@ -66,15 +64,6 @@
    "fieldtype": "Link",
    "label": "Indicador",
    "options": "sil_indicador",
-   "reqd": 1,
-   "set_only_once": 1
-  },
-  {
-   "fetch_from": "sil_ingreso_ind.sil_periodicidad",
-   "fieldname": "per_codigo",
-   "fieldtype": "Link",
-   "label": "Periodicidad",
-   "options": "sil_periodicidad",
    "reqd": 1,
    "set_only_once": 1
   },
@@ -111,15 +100,6 @@
    "label": "Latitud",
    "precision": "9",
    "set_only_once": 1
-  },
-  {
-   "fieldname": "amended_from",
-   "fieldtype": "Link",
-   "label": "Serie Valor",
-   "no_copy": 1,
-   "options": "sil_serievalor",
-   "print_hide": 1,
-   "read_only": 1
   },
   {
    "fieldname": "ind_dpa",
@@ -180,7 +160,7 @@
  ],
  "in_create": 1,
  "links": [],
- "modified": "2022-07-16 21:13:47.222442",
+ "modified": "2022-07-21 06:03:25.946044",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_serievalor",

@@ -6,10 +6,12 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
+  "eje_codigo",
   "period_codigo",
   "period_anio",
   "period_mes",
   "period_estado",
+  "per_codigo",
   "tipper_codigo"
  ],
  "fields": [
@@ -47,14 +49,31 @@
    "reqd": 1
   },
   {
+   "fetch_from": "per_codigo.tipper_codigo",
    "fieldname": "tipper_codigo",
    "fieldtype": "Link",
-   "label": "C\u00f3digo",
-   "options": "sil_tipoperiodicidad"
+   "label": "C\u00f3digo Tipo Periodicidad",
+   "options": "sil_tipoperiodicidad",
+   "read_only": 1
+  },
+  {
+   "fieldname": "eje_codigo",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "sil_ejercicio",
+   "options": "sil_ejercicio",
+   "reqd": 1
+  },
+  {
+   "fieldname": "per_codigo",
+   "fieldtype": "Link",
+   "label": "PER_CODIGO",
+   "options": "sil_periodicidad",
+   "reqd": 1
   }
  ],
  "links": [],
- "modified": "2022-07-16 11:40:35.495406",
+ "modified": "2022-07-21 05:32:38.384354",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_periodo",
