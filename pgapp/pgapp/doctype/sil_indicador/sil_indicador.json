@@ -319,12 +319,7 @@
    "read_only": 1
  
   },
-  {
-   "fieldname": "sil_categoria",
-   "fieldtype": "Table",
-   "label": "Categorias Indicador",
-   "options": "sil_categoria"
-  },
+  
   {
    "fieldname": "ind_limitacionest",
    "fieldtype": "Data",
