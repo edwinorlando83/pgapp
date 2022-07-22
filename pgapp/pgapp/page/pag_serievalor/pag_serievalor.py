@@ -1,4 +1,5 @@
 import frappe
+import pgapp.utils as util
 
 @frappe.whitelist()
 def getIndicadores(ind_codigo,eje_codigo):
@@ -23,3 +24,6 @@ def updateserie_valor(name,serval_valor):
     obj.serval_valor = serval_valor 
     return obj.save()
 
+@frappe.whitelist()
+def genera_serievalor(ind_codigo,anio):
+    return util.generar_sil_serievalor( ind_codigo,anio)

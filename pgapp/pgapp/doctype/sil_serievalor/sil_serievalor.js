@@ -6,10 +6,6 @@ frappe.ui.form.on('sil_serievalor', {
 		cur_frm.fields_dict["sil_ing_valorserie"].grid.wrapper.find('.grid-add-row').hide();
 	  },
 	  sil_ingreso_ind: function(frm) {
-
-	 
- 
-		 
  
 
 	}

@@ -24,13 +24,13 @@ frappe.pages['pag_serievalor'].on_page_load = function (wrapper) {
 
 
 			},
-			change: function () { 
-				
-		 
-				
-				getIndicadores(inind_codigo.get_value(), ineje_codigo.get_value(),ineje_codigo.get_value());
-				 
-			
+			change: function () {
+
+
+
+				getIndicadores(inind_codigo.get_value(), ineje_codigo.get_value(), ineje_codigo.get_value());
+
+
 
 			}
 		}
@@ -54,14 +54,60 @@ frappe.pages['pag_serievalor'].on_page_load = function (wrapper) {
 
 			},
 			change: function () {
-				
-				getIndicadores(inind_codigo.get_value(), ineje_codigo.get_value(),ineje_codigo.get_value());
-				
+
+				getIndicadores(inind_codigo.get_value(), ineje_codigo.get_value(), ineje_codigo.get_value());
+
 			}
 		}
 
 	});
 	inind_codigo.refresh();
+
+
+	var btnGenerar = frappe.ui.form.make_control({
+		parent: page.main.find(".generarserie"),
+		df: {
+			fieldtype: "Button",
+			fieldname: "indicador",
+			label: "Generar",
+			reqd: 1,
+			click: () => {
+
+				if (inind_codigo.get_value() != '' && ineje_codigo.get_value() != '') {
+
+					frappe.confirm('¿Esta seguro de continuar con la generación de datos?',
+						() => {
+
+							frappe.call({
+								"method": "pgapp.pgapp.page.pag_serievalor.pag_serievalor.genera_serievalor",
+								freeze: true,
+								freeze_message: 'Este proceso tomará algún tiempo, por favor espere...',
+								args: {
+									ind_codigo: inind_codigo.get_value(),
+									anio: ineje_codigo.get_value()
+								},
+								callback: function (r) {
+									frappe.msgprint(r.message);
+									getIndicadores(inind_codigo.get_value(), ineje_codigo.get_value(), ineje_codigo.get_value());
+								}
+							});
+
+						}, () => {
+							// action to perform if No is selected
+						});
+
+				}
+				else {
+					frappe.msgprint('Debe seleccionar un indicador y un año');
+				}
+
+
+
+			},
+		}
+
+	});
+	btnGenerar.refresh();
 
 }
 function cmbperiodo(page, intipper_codigo, ineje_codigo) {
@@ -137,23 +183,25 @@ function dibujar(datos) {
 
 }
 
-function getIndicadores(inind_codigo, ineje_codigo , ineje_codigo) {
+function getIndicadores(inind_codigo, ineje_codigo, ineje_codigo) {
 
 	frappe.call({
 		"method": "pgapp.pgapp.page.pag_serievalor.pag_serievalor.getIndicadores",
+		freeze: true,
+		 freeze_message: 'Buscando, por favor espere...',
 		args: {
 			ind_codigo: inind_codigo,
 			eje_codigo: ineje_codigo
 		},
 		callback: function (r) {
-			 
-			if (r.message && r.message.length > 0) {
-				_tipper_codigo = r.message[0].tipper_codigo;		
 
-			//	cmbperiodo(me.page, _tipper_codigo,  ineje_codigo )
+			if (r.message && r.message.length > 0) {
+				_tipper_codigo = r.message[0].tipper_codigo;
+
+				//	cmbperiodo(me.page, _tipper_codigo,  ineje_codigo )
 			}
 			dibujar(r.message);
-			
+
 
 		}
 	});
@@ -162,6 +210,8 @@ function actulizar_meta(inserval_meta, inname) {
 
 	frappe.call({
 		"method": "pgapp.pgapp.page.pag_serievalor.pag_serievalor.updateserie_meta",
+		freeze: true,
+		 freeze_message: 'Actualizando, por favor espere...',
 		args: {
 			name: inname,
 			serval_meta: inserval_meta,

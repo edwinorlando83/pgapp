@@ -3,11 +3,12 @@
 # For license information, please see license.txt
 
 from __future__ import unicode_literals
-import frappe
+#import frappe
 from frappe.model.document import Document
-import pgapp.utils as util
+
 class sil_indicador(Document):
-	def on_update(self):
-		if self.docstatus == 1:
-			util.generar_sil_serievalor( self.ind_codigo , self.tipper_codigo , self.rep_codigo)
+	pass
+	#def on_update(self):
+		#if self.docstatus == 1:
+			
 
