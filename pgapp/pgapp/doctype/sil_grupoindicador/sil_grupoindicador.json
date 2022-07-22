@@ -6,6 +6,7 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
+  "com_codigo",
   "gruind_codigo",
   "gruind_descripcion"
  ],
@@ -24,10 +25,17 @@
    "in_list_view": 1,
    "label": "Descripci\u00f3n",
    "reqd": 1
+  },
+  {
+   "fieldname": "com_codigo",
+   "fieldtype": "Link",
+   "label": "Componente",
+   "options": "sil_componente",
+   "reqd": 1
   }
  ],
  "links": [],
- "modified": "2022-07-16 11:35:43.316442",
+ "modified": "2022-07-21 22:16:47.585326",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_grupoindicador",

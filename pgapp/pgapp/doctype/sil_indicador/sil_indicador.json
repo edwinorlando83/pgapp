@@ -9,51 +9,53 @@
  "field_order": [
   "ind_codigo",
   "ind_nombre",
-  "ind_definicion",
-  "ind_formula",
-  "column_break_6",
-  "ind_metodologia",
-  "ind_definicionformula",
-  "unimed_codigo",
-  "sil_formatosxindicador",
-  "section_break_8",
-  "ind_unidadmedida",
-  "ind_interpretacion",
-  "fueinf_codigo",
-  "tipper_codigo",
-  "ind_disponibilidad",
+  "est_codigo",
+  "com_codigo",
+  "gruind_codigo",
   "coo_codigo",
   "dir_codigo",
+  "ind_definicion",
+  "column_break_6",
+  "ind_formula",
+  "ind_definicionformula",
+  "ind_metodologia",
+  "sil_formatosxindicador",
+  "section_break_8",
+  "ind_limitacionest",
+  "unimed_codigo",
+  "ind_interpretacion",
+  "fueinf_codigo",
   "column_break_13",
+  "tipper_codigo",
+  "ind_disponibilidad",
   "ind_consejo",
-  "com_codigo",
   "ind_fechatrans",
-  "gruind_codigo",
-  "ind_valor",
-  "tipval_codigo",
   "sec_nivel",
   "rep_codigo",
-  "zongad_codigo",
-  "est_codigo",
+  "ind_desagregado",
+  "ind_desgeneral",
+  "ind_desotrosa",
   "column_break_21",
-  "ind_general",
-  "column_break_23",
-  "ind_otros",
-  "sil_tipogeografico",
-  "section_break_25",
+  "zongad_codigo",
+  "tipval_codigo",
+  "ind_valor",
+  "aspectos_t\u00e9cnicos_section",
   "ind_inf_geo_ref",
   "ind_rel_instrumentos",
   "ind_referen_biblio",
+  "column_break_40",
   "ind_fecha_ficha_met",
   "ind_fecha_ultima_actu",
   "ind_clasifi_estadistico",
-  "column_break_31",
   "ind_homologacion_indicador",
   "ind_fecha_homologacion_indicador",
   "ind_resea_indicador",
   "ind_elaborado_por",
   "ind_actualizaror_por",
   "ind_sintaxis_del_indicador_section",
+  "ind_sintaxis",
+  "column_break_23",
+  "sil_tipogeografico",
   "ind_informacion_financiera",
   "sil_asociado",
   "amended_from",
@@ -67,7 +69,7 @@
   {
    "fieldname": "section_break_8",
    "fieldtype": "Section Break",
-   "label": "Limitaciones T\u00e9cnicas"
+   "label": "Aspectos T\u00e9cnicos"
   },
   {
    "fieldname": "ind_nombre",
@@ -97,12 +99,6 @@
    "label": "Metodolog\u00eda de C\u00e1lculo"
   },
   {
-   "fieldname": "ind_unidadmedida",
-   "fieldtype": "Select",
-   "label": "Unidad de Medida o Expresi\u00f3n del Indicador",
-   "options": "PORCENTAJE"
-  },
-  {
    "fieldname": "ind_interpretacion",
    "fieldtype": "Data",
    "label": "Interpretaci\u00f3n del Indicador"
@@ -128,30 +124,12 @@
    "label": "Nivel de Desagregaci\u00f3n "
   },
   {
-   "fieldname": "ind_general",
-   "fieldtype": "Data",
-   "label": "General"
-  },
-  {
-   "fieldname": "ind_otros",
-   "fieldtype": "Data",
-   "label": "Otros \u00c1mbitos"
-  },
-  {
    "fieldname": "column_break_21",
    "fieldtype": "Column Break"
   },
   {
    "fieldname": "column_break_23",
-   "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "section_break_25",
    "fieldtype": "Section Break"
-  },
-  {
-   "fieldname": "column_break_31",
-   "fieldtype": "Column Break"
   },
   {
    "fieldname": "column_break_13",
@@ -164,22 +142,22 @@
   },
   {
    "fieldname": "ind_inf_geo_ref",
-   "fieldtype": "Data",
+   "fieldtype": "Small Text",
    "label": "Informaci\u00f3n Geo-Referenciada"
   },
   {
    "fieldname": "ind_rel_instrumentos",
-   "fieldtype": "Data",
+   "fieldtype": "Small Text",
    "label": "Relaci\u00f3n con Instrumentos de Planificaci\u00f3n Nacional e Internacional"
   },
   {
    "fieldname": "ind_referen_biblio",
-   "fieldtype": "Data",
+   "fieldtype": "Small Text",
    "label": "Referencias Bibliograficas de la Construcci\u00f3n del Indicador"
   },
   {
    "fieldname": "ind_fecha_ficha_met",
-   "fieldtype": "Data",
+   "fieldtype": "Date",
    "label": "Fecha de Elaboraci\u00f3n de la Ficha Metodol\u00f3gica"
   },
   {
@@ -194,7 +172,7 @@
   },
   {
    "fieldname": "ind_fecha_homologacion_indicador",
-   "fieldtype": "Small Text",
+   "fieldtype": "Date",
    "label": "Fecha de Homologaci\u00f3n del Indicador"
   },
   {
@@ -224,7 +202,7 @@
   },
   {
    "fieldname": "ind_fecha_ultima_actu",
-   "fieldtype": "Data",
+   "fieldtype": "Date",
    "label": "Fecha de la \u00daltima Actualizaci\u00f3n de la Ficha Metodol\u00f3gica"
   },
   {
@@ -272,7 +250,7 @@
    "fieldname": "gruind_codigo",
    "fieldtype": "Link",
    "in_list_view": 1,
-   "label": "Grupo",
+   "label": "Grupo Indicador",
    "options": "sil_grupoindicador",
    "reqd": 1
   },
@@ -285,7 +263,7 @@
   {
    "fieldname": "zongad_codigo",
    "fieldtype": "Link",
-   "label": "sil_zonasgad",
+   "label": "Zonas GAD",
    "options": "sil_zonasgad"
   },
   {
@@ -321,7 +299,7 @@
   {
    "fieldname": "sil_asociado",
    "fieldtype": "Table",
-   "label": "sil_asociado",
+   "label": "Indicadores Asociados",
    "options": "sil_asociado"
   },
   {
@@ -336,13 +314,49 @@
   {
    "fieldname": "sil_categoria",
    "fieldtype": "Table",
-   "label": "sil_categoria",
+   "label": "Categorias Indicador",
    "options": "sil_categoria"
+  },
+  {
+   "fieldname": "ind_limitacionest",
+   "fieldtype": "Data",
+   "label": "Limitaciones T\u00e9cnicas"
+  },
+  {
+   "fieldname": "ind_desagregado",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Desagregado",
+   "options": "SI\nNO"
+  },
+  {
+   "fieldname": "ind_desgeneral",
+   "fieldtype": "Data",
+   "label": "Desagregado General"
+  },
+  {
+   "fieldname": "ind_desotrosa",
+   "fieldtype": "Data",
+   "label": "Desagregado Otros Ambitos"
+  },
+  {
+   "fieldname": "aspectos_t\u00e9cnicos_section",
+   "fieldtype": "Section Break",
+   "label": "Aspectos T\u00e9cnicos"
+  },
+  {
+   "fieldname": "column_break_40",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "ind_sintaxis",
+   "fieldtype": "Small Text",
+   "label": "Sintaxis Indicador"
   }
  ],
  "is_submittable": 1,
  "links": [],
- "modified": "2022-07-20 09:19:55.514641",
+ "modified": "2022-07-21 22:50:35.455795",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
