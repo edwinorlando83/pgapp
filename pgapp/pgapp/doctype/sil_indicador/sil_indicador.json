@@ -317,9 +317,7 @@
    "options": "sil_indicador",
    "print_hide": 1,
    "read_only": 1
- 
   },
-  
   {
    "fieldname": "ind_limitacionest",
    "fieldtype": "Data",
@@ -355,12 +353,11 @@
    "fieldname": "ind_sintaxis",
    "fieldtype": "Small Text",
    "label": "Sintaxis Indicador"
- 
   }
  ],
  "is_submittable": 1,
  "links": [],
- "modified": "2022-07-21 05:24:00.663749",
+ "modified": "2022-07-22 08:08:31.948980",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",
@@ -388,6 +385,7 @@
    "report": 1,
    "role": "COORDINADOR",
    "share": 1,
+   "submit": 1,
    "write": 1
   },
   {
