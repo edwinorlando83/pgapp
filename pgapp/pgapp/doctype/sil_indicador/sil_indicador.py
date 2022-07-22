@@ -9,5 +9,5 @@ import pgapp.utils as util
 class sil_indicador(Document):
 	def on_update(self):
 		if self.docstatus == 1:
-			util.generar_sil_serievalor( self.ind_codigo , self.tipper_codigo , self.ind_geof)
+			util.generar_sil_serievalor( self.ind_codigo , self.tipper_codigo , self.rep_codigo)
 

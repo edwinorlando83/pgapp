@@ -237,9 +237,18 @@
    "link_type": "DocType",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "sil_ejercicio",
+   "link_to": "sil_ejercicio",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2022-07-20 09:15:20.656654",
+ "modified": "2022-07-20 12:30:44.895973",
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "pgapp",

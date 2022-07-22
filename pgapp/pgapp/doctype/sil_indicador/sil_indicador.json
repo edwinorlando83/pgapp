@@ -58,8 +58,8 @@
   "sil_tipogeografico",
   "ind_informacion_financiera",
   "sil_asociado",
-  "amended_from",
-  "sil_categoria"
+  "sil_categoria",
+  "amended_from"
  ],
  "fields": [
   {
@@ -294,13 +294,20 @@
    "fieldname": "rep_codigo",
    "fieldtype": "Link",
    "label": "Representaci\u00f3n",
-   "options": "sil_representacion"
+   "options": "sil_representacion",
+   "reqd": 1
   },
   {
    "fieldname": "sil_asociado",
    "fieldtype": "Table",
    "label": "Indicadores Asociados",
    "options": "sil_asociado"
+  },
+  {
+   "fieldname": "sil_categoria",
+   "fieldtype": "Table",
+   "label": "sil_categoria",
+   "options": "sil_categoria"
   },
   {
    "fieldname": "amended_from",
@@ -310,6 +317,7 @@
    "options": "sil_indicador",
    "print_hide": 1,
    "read_only": 1
+<<<<<<< HEAD
   },
   {
    "fieldname": "sil_categoria",
@@ -352,11 +360,17 @@
    "fieldname": "ind_sintaxis",
    "fieldtype": "Small Text",
    "label": "Sintaxis Indicador"
+=======
+>>>>>>> 0af943930001a97cf594869de7b6c82a2d22edd1
   }
  ],
  "is_submittable": 1,
  "links": [],
+<<<<<<< HEAD
  "modified": "2022-07-21 22:50:35.455795",
+=======
+ "modified": "2022-07-21 05:24:00.663749",
+>>>>>>> 0af943930001a97cf594869de7b6c82a2d22edd1
  "modified_by": "Administrator",
  "module": "pgapp",
  "name": "sil_indicador",

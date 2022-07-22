@@ -1,43 +1,29 @@
 from __future__ import unicode_literals
 import frappe
 
-def generar_sil_serievalor(ind_codigo, tipper_codigo , ind_geof):    
-    anio = frappe.db.get_single_value('sil_parametrosg', 'par_anio')
-    if not anio:
-        frappe.throw("No se ha definido el año , por favor defina el año en el formulario de  parámetros")
-
+def generar_sil_serievalor(ind_codigo, tipper_codigo , rep_codigo):    
     
-    lstperiod= frappe.get_list("sil_periodicidad", filters={"tipper_codigo": tipper_codigo},   fields=['per_codigo','per_ennumero'])
-    for periodicidad in lstperiod:
-        existe = frappe.db.exists("sil_periodo", {"period_anio": anio, "period_mes": periodicidad.per_ennumero})
-        if not existe:
-            per = frappe.new_doc("sil_periodo")
-            per.period_anio = anio
-            per.period_mes = periodicidad.per_ennumero
-            per.tipper_codigo = tipper_codigo    
-            per.insert()
-        else:
-            per = frappe.get_doc("sil_periodo", existe)
+    lstperiod= frappe.get_list("sil_periodo", filters={"tipper_codigo": tipper_codigo},   fields=['name' ])
+    for silper in lstperiod: 
         
-        for dpa in referecnias_geografica(ind_geof):
+        for dpa in referecnias_geografica(rep_codigo):
             ser = frappe.new_doc("sil_serievalor")
-            ser.ind_codigo = ind_codigo
-            
-            ser.per_codigo =  periodicidad.per_codigo
-            ser.period_codigo = per.period_codigo 
+            ser.ind_codigo = ind_codigo            
+            ser.period_codigo =  silper.name
+          
             ser.serval_longitud = dpa.longitud
             ser.serval_latitud = dpa.latitud   
             
-            if ind_geof == "PROVINCIAL":                
+            if rep_codigo == "01":                
                 ser.ind_nprovincia = dpa.dpa_nprovincia
                 ser.ind_dpa = dpa.dpa_provincia 
 		
-            if ind_geof == "CANTONAL":                
+            if rep_codigo == "02":                
                 ser.ind_nprovincia = dpa.dpa_nprovincia
                 ser.ind_ncanton = dpa.dpa_ncanton
                 ser.ind_dpa = dpa.dpa_canton
 
-            if ind_geof == "PARROQUIAL":                
+            if rep_codigo == "03":                
                 ser.ind_nprovincia = dpa.dpa_nprovincia
                 ser.ind_ncanton = dpa.dpa_ncanton		
                 ser.ind_nparroquia = dpa.dpa_nparroquia
@@ -53,13 +39,13 @@ def referecnias_geografica(ind_geof):
     if not provincia:
         frappe.throw("No se ha definido la provincia , por favor defina la provincia en el formulario de parámetros")
 
-    if ind_geof == "PROVINCIAL":
+    if ind_geof == "01":
         return getProvincia(provincia)
 
-    if ind_geof == "CANTONAL":
+    if ind_geof == "02":
         return getCantones(provincia)
     
-    if ind_geof == "PARROQUIAL":
+    if ind_geof == "03":
         return getParroquias(provincia)
     
 
