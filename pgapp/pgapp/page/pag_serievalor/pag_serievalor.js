@@ -22,7 +22,11 @@ frappe.pages['pag_serievalor'].on_page_load = function (wrapper) {
 			only_input: true,
 			get_query: () => {
 
-
+				return {
+					filters: {
+						docstatus: 1
+					}
+				};
 			},
 			change: function () {
 
@@ -51,7 +55,11 @@ frappe.pages['pag_serievalor'].on_page_load = function (wrapper) {
 			reqd: 1,
 			only_input: true,
 			get_query: () => {
-
+				return {
+					filters: {
+						docstatus: 1
+					}
+				};
 			},
 			change: function () {
 
